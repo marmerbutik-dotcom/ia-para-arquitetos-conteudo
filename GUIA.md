@@ -81,10 +81,10 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
 - **Carrossel:**
   - De 5 a 8 slides, com `tema` (rodapé curto).
   - Tipos de slide: `capa` (com `par` ou `img`), texto (com `num`, `eb`, `titulo`, `corpo`, `prompt`), `lista` (`itens` como ["texto", "detalhe"]), `imagem` (`par`) e `cta`.
-- **Story:**
-  - Tipos: `pergunta` (foto e espaço para enquete ou caixa), `dica` (prompt), `imagem` (`par`), `numero`, `lista` e `link` (preço e link com UTM).
-  - O último story do dia é sempre `link`.
-  - `nota` diz qual adesivo vai no story. A API não coloca adesivos, então a nota serve de registro.
+- **Story (tudo automático, sem adesivos — pedido do Marcos em 7/11):** o story precisa funcionar sozinho, sem enquete, caixa de perguntas, emoji deslizante nem adesivo de link. NUNCA escreva no story algo que peça voto, resposta na caixa ou toque em adesivo ("vote", "responda aqui", "toque no link"). Use perguntas só como gancho retórico, já respondidas no próprio story.
+  - Tipos: `foto` (imagem de fundo + título + corpo curto), `dica` (prompt), `imagem` (`par`), `numero`, `lista` e `link`.
+  - O tipo `link` mostra o preço e a linha "Link na bio · iaparaarquitetos.com.br" (já vem no modelo). É o último story do dia.
+  - Não use o campo `nota`.
 - Imagens disponíveis em `assets/img` (além das novas de `assets/img/novas`, ver 5b):
   - v-0, v-1.9, v-3.1, v-4.4, v-5.7, v-7.9 (obra da casa, vertical)
   - h-*, ia-arq-casa (horizontal)
@@ -131,6 +131,20 @@ Por dia: pegue os próximos 3 cenários da fila e gere de 4 a 5 imagens (2 de um
 
 **Se o Canva falhar** (limite de geração ou erro): use as imagens do índice com menos usos e registre a falha no relatório do dia.
 
+
+## 5c. Revisão das legendas e dos textos (obrigatória, antes de agendar)
+
+O Marcos pediu atenção total aos textos. Antes de agendar, releia CADA legenda e CADA texto de tela como um revisor:
+1. **Português:** acentos, crases, concordância, vírgulas, maiúsculas. Sem erro de digitação, sem palavra repetida na mesma frase, sem frase cortada.
+2. **Fatos:** só os números do item 2 (7 workflows, 4 vídeo-aulas, 60 prompts, 7 templates, R$ 97, 12x de R$ 10,03, 7 dias de garantia, cerca de 15 min por render, 24 h para proposta). Nada inventado.
+3. **Coerência:** a legenda fala da mesma coisa que a peça mostra (mesmo número de passos, mesmos nomes). O texto da tela casa com o cenário da imagem.
+4. **Formato:** primeira linha com a palavra-chave e até cerca de 125 caracteres (o que aparece antes do "mais"). Parágrafos curtos, separados por linha em branco. Listas com "1 ·", "2 ·". De 3 a 5 hashtags no fim, sempre com #iaparaarquitetos. Legenda inteira com menos de 2.200 caracteres.
+5. **Chamada:** termina em salvar, comentar, compartilhar ou "link na bio", nunca em adesivo de story. Sem pedir enquete ou caixa de perguntas.
+6. **Tom:** arquiteto falando com arquiteto. Nada de "revolucionário", "segredo", "hack", caixa alta ou excesso de emoji.
+7. Leia em voz alta mentalmente: se uma frase soa estranha, reescreva.
+
+Corrija na pauta e gere de novo antes de agendar. Uma legenda com erro é pior que uma peça a menos.
+
 ## 6. Agendar no Metricool
 
 - **Marca:** IA para Arquitetos, **blogId 7942089** (instagramData "ia.para.arquitetos"). Nunca use a Marmer Butik (6358659) nem a Alavanca Web (7942078).
@@ -147,7 +161,7 @@ Por dia: pegue os próximos 3 cenários da fila e gere de 4 a 5 imagens (2 de um
 
 ## 7. Depois de agendar
 
-- Grave `relatorios/AAAA-MM-DD.md` com: o que foi agendado (horário, tipo, tema, id do Metricool), os adesivos sugeridos para os stories e qualquer falha.
+- Grave `relatorios/AAAA-MM-DD.md` com: o que foi agendado (horário, tipo, tema, cenário, id do Metricool) e qualquer falha.
 - Apague as pastas `saida/` com mais de 3 dias. O Metricool já hospedou a mídia e o repositório fica leve.
 - Commit e push.
 - Se houver ferramenta de arquivos do computador do Marcos disponível (mcp__remote-devices__device_commit_files), salve também uma cópia da pasta do dia em `C:\Users\Marcos\Pictures\IA para Arquitetos\Instagram\rotina-diaria\AAAA-MM-DD\` (pasta que ele pediu para guardar o conteúdo). Se não houver, siga sem ela.

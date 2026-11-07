@@ -22,8 +22,8 @@
    ],
    "horario": "08:30",
    "link": "",
-   "nota": "Enquete no meio da tela: \"Mais de 2 h\" / \"Menos de 1 h\"",
-   "ia": false
+   "nota": "",
+   "ia": true
   },
   {
    "tipo": "STORY",
@@ -47,7 +47,7 @@
    "legenda": "IA no escritório de arquitetura: 3 sinais de que já passou da hora.\n\n1 · o render atrasa a reunião com o cliente\n2 · a proposta comercial demora dias para sair\n3 · o Instagram do escritório está parado\n\nCom os workflows certos, o render de apresentação sai em cerca de 15 minutos, a proposta em 24 horas e o Instagram em 2 horas por semana.\n\nQual desses é o seu? Comenta 1, 2 ou 3.\n\n#iaparaarquitetos #arquitetura #escritoriodearquitetura #inteligenciaartificial #arquitetos",
    "alt": "Vídeo com três sinais de que um escritório de arquitetura precisa usar inteligência artificial: render atrasado, proposta lenta e Instagram parado",
    "horario": "11:40",
-   "ia": false
+   "ia": true
   },
   {
    "tipo": "CARROSSEL",
@@ -74,7 +74,7 @@
    ],
    "horario": "13:00",
    "link": "",
-   "nota": "Adesivo de reação (emoji deslizante) embaixo",
+   "nota": "",
    "ia": true
   },
   {
@@ -123,7 +123,7 @@
    "legenda": "Como fazer o briefing de arquitetura em 1 hora com IA?\n\n1 · anote tudo da primeira reunião, do jeito que sair\n2 · peça à IA o programa de necessidades por ambiente, com áreas e prioridades\n3 · gere 3 conceitos de moodboard para o cliente escolher\n\nÉ o Workflow 04 do manual IA para Arquitetos: o que levava uma semana cabe numa tarde.\n\nSalve e use na próxima reunião. Link na bio.\n\n#iaparaarquitetos #briefing #arquitetura #designdeinteriores #inteligenciaartificial",
    "alt": "Passo a passo de briefing de arquitetura com inteligência artificial em uma hora, com o prompt do programa de necessidades",
    "horario": "18:10",
-   "ia": false
+   "ia": true
   },
   {
    "tipo": "STORY",
@@ -133,8 +133,8 @@
    ],
    "horario": "19:00",
    "link": "",
-   "nota": "Caixa de perguntas no meio da tela",
-   "ia": false
+   "nota": "",
+   "ia": true
   },
   {
    "tipo": "CARROSSEL",
@@ -163,7 +163,7 @@
    "legenda": "A IA vai substituir o arquiteto? Não.\n\nA inteligência artificial gera imagens convincentes, não corretas. Não assume responsabilidade técnica e não assina projeto. O repertório, as decisões e a assinatura continuam sendo do arquiteto.\n\nO que ela substitui são as madrugadas de render, as propostas atrasadas e o Instagram parado.\n\nConcorda? Conta nos comentários.\n\n#iaparaarquitetos #arquitetura #arquitetos #inteligenciaartificial #designdeinteriores",
    "alt": "Vídeo respondendo se a inteligência artificial vai substituir o arquiteto, sobre imagens da obra de uma casa",
    "horario": "20:40",
-   "ia": false
+   "ia": true
   },
   {
    "tipo": "STORY",
@@ -172,9 +172,9 @@
     "story-07.jpg"
    ],
    "horario": "21:30",
-   "link": "https://iaparaarquitetos.com.br/?utm_source=instagram&utm_medium=stories&utm_campaign=rotina-diaria",
-   "nota": "Adesivo de link abaixo do preço",
-   "ia": false
+   "link": "",
+   "nota": "",
+   "ia": true
   }
  ]
 }

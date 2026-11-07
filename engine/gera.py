@@ -150,7 +150,7 @@ def story(s):
         if t == 'link':
             low = ('<div style="position:absolute;left:84px;right:84px;top:1250px;display:flex;align-items:flex-end;gap:30px">'
                    '<div class="big" style="font-size:150px"><span style="font-size:52px;vertical-align:top;margin-right:6px">R$</span>97</div>'
-                   f'<div class="tech" style="font-size:24px;line-height:1.7;padding-bottom:6px">{md(s.get("sub", "7 workflows · 60 prompts"))}<br>garantia de 7 dias</div></div>')
+                   f'<div class="tech" style="font-size:24px;line-height:1.7;padding-bottom:6px">{md(s.get("sub", "7 workflows · 60 prompts"))}<br>Link na bio · iaparaarquitetos.com.br</div></div>')
         sh = 'rgba(14,11,9,.78) 0,rgba(14,11,9,.42) 34%,rgba(14,11,9,.12) 50%,rgba(14,11,9,.55) 62%,rgba(14,11,9,.9) 100%'
         return page(W, Hh, f'<div class="cv on">{fundo_foto(img, sh)}{SHEET}{top}{low}</div>')
     dark = s.get('escuro', t != 'lista')
