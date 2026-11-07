@@ -85,12 +85,51 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
   - Tipos: `pergunta` (foto e espaço para enquete ou caixa), `dica` (prompt), `imagem` (`par`), `numero`, `lista` e `link` (preço e link com UTM).
   - O último story do dia é sempre `link`.
   - `nota` diz qual adesivo vai no story. A API não coloca adesivos, então a nota serve de registro.
-- Imagens disponíveis em `assets/img`:
+- Imagens disponíveis em `assets/img` (além das novas de `assets/img/novas`, ver 5b):
   - v-0, v-1.9, v-3.1, v-4.4, v-5.7, v-7.9 (obra da casa, vertical)
   - h-*, ia-arq-casa (horizontal)
   - w1/w2/w3 (antes e depois)
 
 Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e grava `saida/AAAA-MM-DD/` com `manifesto.json`. Antes de agendar, abra 1 quadro de cada reel, 1 slide de cada carrossel e todos os stories e confira se nada vazou da moldura.
+
+
+## 5b. Imagens novas todo dia (pedido do Marcos em 7/11/2026)
+
+Todo dia a rotina **gera de 4 a 5 imagens novas** e as usa como fundo dos reels, capas de carrossel e stories. A regra é **alternar cenários para não ficar repetitivo**.
+
+**Cenários em rodízio** (rotação na ordem abaixo, retomando de onde o último dia parou, conforme `assets/img/novas/indice.json`):
+1. casa na praia
+2. casa na montanha
+3. apartamento (sala ampla, varanda, vista da cidade)
+4. casa de bairro (casa térrea ou sobrado em rua residencial brasileira)
+5. chalé de montanha
+6. rancho na beira do rio
+7. casa em frente ao lago
+8. casa com piscina
+9. área interna (alternar: sala, cozinha, banheiro com cuba de pedra, quarto, home office, varanda gourmet)
+10. móveis em diferentes cenários (poltrona, mesa de jantar, aparador, luminária em ambientes variados)
+
+Por dia: pegue os próximos 3 cenários da fila e gere de 4 a 5 imagens (2 de um cenário, 1 ou 2 dos outros). Varie hora do dia (manhã, tarde, entardecer, noite com luz acesa), estação, materiais e estilo (contemporâneo, rústico, minimalista, tropical moderno, colonial reinterpretado). Nunca repita a mesma combinação cenário + estilo + hora em 14 dias.
+
+**Como gerar (Canva, assinatura do Marcos):**
+1. `Canva generate-image` com `aspectRatio: PORTRAIT_9_16` e um prompt em português no formato: "Fotografia de arquitetura editorial, vertical: <cenário detalhado: estilo, materiais, paisagem, hora do dia, luz>, câmera na altura do olho, verticais corrigidas, fotorrealista, sem pessoas, sem texto, sem logotipos". Espere uns 20 s e consulte `get-generate-image-job` até SUCCESS. Guarde o media id (ex.: MAHaQGVNws0).
+2. Exportar em 1080×1920 pelo design-base **DAHaQBWKpg4** (página PB1LkPGXj3mBxQgL):
+   1. `read-design` com `open_transaction: true`.
+   2. `edit-design` com `update_fill` em `locator_id: PB1LkPGXj3mBxQgL`, `asset_type: image`, `asset_id: <media id>` e o alt text.
+   3. `edit-design` com `finalize: commit`.
+   4. `export-design` com `{"type":"jpg","quality":92,"width":1080,"height":1920}`.
+   5. Baixe a URL do export com curl para `assets/img/novas/<cenario>-NN.jpg` (sem acento e sem espaço, ex.: `chale-montanha-03.jpg`).
+3. Confira cada imagem antes de usar: abra o arquivo. Descarte imagem com texto, logotipo, pessoa deformada ou arquitetura incoerente.
+4. Registre a imagem em `assets/img/novas/indice.json` (arquivo, cenário, data, canva_media, descrição) e, ao montar a pauta, anote em `usos` a data e a peça.
+5. **Opcional, para reel `wipe`:** gere a versão "antes" da mesma imagem com `generate-image` e `imageReferences: [{type: MEDIA, id: <media id>}]`, com o prompt "Transforme esta imagem num modelo 3D branco sem textura (maquete eletrônica), mesma geometria e mesmo enquadramento". Exporte igual e use na pauta como `"par": {"antes": "novas/x-antes.jpg", "depois": "novas/x.jpg", "la": "Modelo · sem textura", "lb": "Render · IA"}`.
+
+**Uso na pauta:** campo `fundo` da cena do reel, `img` da capa do carrossel e do story (`tipo: foto`, `pergunta` ou `link`): `"novas/arquivo.jpg"`.
+- Dê preferência às imagens do dia. Cada imagem nova vale para no máximo 3 peças.
+- As fotos antigas da obra (v-*, h-*) entram no máximo 1 vez por dia.
+- O tema do texto conversa com o cenário. Ex.: casa de praia → prompt de render de fachada ao entardecer, materiais que aguentam maresia; móveis em cenários → Workflow 02 (peça no ambiente); área interna → luz e materiais; casa de bairro → antes e depois de reforma.
+- Toda peça com imagem gerada vai com `ia: true`.
+
+**Se o Canva falhar** (limite de geração ou erro): use as imagens do índice com menos usos e registre a falha no relatório do dia.
 
 ## 6. Agendar no Metricool
 

@@ -54,6 +54,13 @@ FUNDOS = ['v-0.jpg', 'v-1.9.jpg', 'v-3.1.jpg', 'v-4.4.jpg', 'v-5.7.jpg', 'v-7.9.
           'h-1.4.jpg', 'h-5.8.jpg', 'h-13.2.jpg', 'ia-arq-casa.jpg', 'w2-depois-1.jpg', 'w2-depois-2.jpg', 'w2-depois-3.jpg']
 
 
+def par(p):
+    """Par antes/depois: chave fixa (w1, w2, w3) ou dict {antes, depois, la, lb} com imagens novas."""
+    if isinstance(p, dict):
+        return (p['antes'], p['depois'], p.get('la', 'Antes'), p.get('lb', 'Depois · IA'))
+    return PARES[p]
+
+
 def md(s):
     """*itálico* vira <em> (o destaque bronze da identidade); o resto é escapado."""
     s = H.escape(s or '')
@@ -93,10 +100,9 @@ def slide(s, n, total, tema):
                     f'<p style="font-size:32px;line-height:1.4;font-weight:400;max-width:860px">{md(s.get("sub", ""))}</p></div>'
                     f'<div class="foot" style="color:#fff">{SCALE}<div class="tech" style="font-size:24px">Salve e arraste →</div></div></div>')
         else:
-            par = s.get('par')
             pimg = ''
-            if par:
-                a, b, la, lb = PARES[par]
+            if s.get('par'):
+                a, b, la, lb = par(s['par'])
                 pimg = (f'<div style="display:grid;gap:14px;margin-top:10px"><div class="ba" style="height:270px"><img src="{A}{a}"><span class="tag">{la}</span></div>'
                         f'<div class="ba" style="height:270px"><img src="{A}{b}"><span class="tag">{lb}</span></div></div>')
             body = (f'<div class="cv dark">{SHEET}<div style="{box}">{eb}<h1 style="font-size:{s.get("fs", 108)}px">{md(s["titulo"])}</h1>'
@@ -118,7 +124,7 @@ def slide(s, n, total, tema):
     if s.get('prompt'):
         inner += f'<div class="pbox"><span class="k">{md(s.get("rotulo", "No prompt"))}</span>{md(s["prompt"])}</div>'
     if t == 'imagem' and s.get('par'):
-        a, b, la, lb = PARES[s['par']]
+        a, b, la, lb = par(s['par'])
         inner += (f'<div style="display:grid;gap:14px"><div class="ba" style="height:300px"><img src="{A}{a}"><span class="tag">{la}</span></div>'
                   f'<div class="ba" style="height:300px"><img src="{A}{b}"><span class="tag">{lb}</span></div></div>')
     if t == 'cta':
@@ -164,7 +170,7 @@ def story(s):
     if s.get('prompt'):
         inner += f'<div class="pbox"><span class="k">{md(s.get("rotulo", "Copie o prompt"))}</span>{md(s["prompt"])}</div>'
     if t == 'imagem' and s.get('par'):
-        a, b, la, lb = PARES[s['par']]
+        a, b, la, lb = par(s['par'])
         inner += (f'<div style="display:grid;gap:18px"><div class="ba" style="height:480px"><img src="{A}{a}"><span class="tag">{la}</span></div>'
                   f'<div class="ba" style="height:480px"><img src="{A}{b}"><span class="tag">{lb}</span></div></div>')
     return page(W, Hh, f'<div class="cv {cls}">{SHEET}<div style="{box}">{inner}</div></div>')
@@ -260,7 +266,7 @@ $('pt').textContent=st.pt; $('pk').textContent=st.pk; $('ln').style.opacity=(st.
 
 def reel_wipe(r, pg, tmp, out):
     """Antes/depois que se revela a cada passo, com o texto do prompt sendo digitado."""
-    a, b, la, lb = PARES[r.get('par', 'w1')]
+    a, b, la, lb = par(r.get('par', 'w1'))
     passos = r['passos'][:4]
     n = len(passos)
     html = page(1080, 1920, f'''<div class="cv dark">{SHEET}
