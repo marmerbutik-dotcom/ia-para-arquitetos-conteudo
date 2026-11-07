@@ -340,7 +340,7 @@ def gera(pauta_path):
             jp = out / f'story-{si:02d}.jpg'
             subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(png), '-q:v', '2', str(jp)], check=True)
             man.append(dict(tipo='STORY', id=f'story-{si:02d}', arquivos=[jp.name], horario=s['horario'], link=s.get('link', ''),
-                            nota=s.get('nota', ''), ia=bool(s.get('par'))))
+                            nota=s.get('nota', ''), ia=bool(s.get('par') or s.get('tipo') in ('pergunta', 'foto', 'link'))))
         # reels
         for ri, r in enumerate(pauta.get('reels', []), 1):
             rt = tmp / f'r{ri}'; rt.mkdir()
@@ -369,7 +369,8 @@ def gera(pauta_path):
             cj = out / f'reel-{ri:02d}-capa.jpg'
             subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(capa), '-q:v', '2', str(cj)], check=True)
             man.append(dict(tipo='REEL', id=f'reel-{ri:02d}', arquivos=[mp4.name], capa=cj.name, duracao=round(tot, 1),
-                            legenda=r['legenda'], alt=r.get('alt', ''), horario=r['horario'], ia=r.get('ia', r.get('tipo') == 'wipe')))
+                            legenda=r['legenda'], alt=r.get('alt', ''), horario=r['horario'],
+                            ia=r.get('ia', r.get('tipo') == 'wipe' or any(c.get('fundo') for c in r.get('cenas', [])))))
         br.close()
     shutil.rmtree(tmp)
     man.sort(key=lambda m: m['horario'])

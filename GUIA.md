@@ -94,7 +94,7 @@ Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e gr
 
 ## 6. Agendar no Metricool
 
-- **Marca:** IA para Arquitetos. Pegue o `blogId` com getBrandSettings, pelo label ou instagramData "ia.para.arquitetos". Nunca use a marca Marmer Butik (6358659).
+- **Marca:** IA para Arquitetos, **blogId 7942089** (instagramData "ia.para.arquitetos"). Nunca use a Marmer Butik (6358659) nem a Alavanca Web (7942078).
 - **Mídia:** URL pública do arquivo no GitHub:
   `https://raw.githubusercontent.com/marmerbutik-dotcom/ia-para-arquitetos-conteudo/main/saida/AAAA-MM-DD/ARQUIVO`.
   Faça o push antes de agendar. O Metricool baixa e hospeda a mídia no momento do agendamento.
@@ -111,4 +111,5 @@ Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e gr
 - Grave `relatorios/AAAA-MM-DD.md` com: o que foi agendado (horário, tipo, tema, id do Metricool), os adesivos sugeridos para os stories e qualquer falha.
 - Apague as pastas `saida/` com mais de 3 dias. O Metricool já hospedou a mídia e o repositório fica leve.
 - Commit e push.
+- Se houver ferramenta de arquivos do computador do Marcos disponível (mcp__remote-devices__device_commit_files), salve também uma cópia da pasta do dia em `C:\Users\Marcos\Pictures\IA para Arquitetos\Instagram\rotina-diaria\AAAA-MM-DD\` (pasta que ele pediu para guardar o conteúdo). Se não houver, siga sem ela.
 - Mande ao Marcos um resumo de 3 a 5 linhas: os temas do dia e o primeiro horário.
