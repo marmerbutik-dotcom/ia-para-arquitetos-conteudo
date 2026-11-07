@@ -1,0 +1,109 @@
+{
+ "data": "2026-11-08",
+ "reels": [
+  {
+   "tipo": "wipe", "par": "w3", "horario": "07:40",
+   "eb": "Workflow 03 · Antes e depois",
+   "gancho": "Imóvel vazio *não vende ideia.*",
+   "passos": [
+    {"titulo": "1. Trave a *arquitetura.*", "prompt": "Mantenha paredes, janelas, portas e o enquadramento exatamente como na foto."},
+    {"titulo": "2. Defina o *estilo.*", "prompt": "Sala contemporânea brasileira, tons de areia e madeira clara."},
+    {"titulo": "3. Móveis em *escala real.*", "prompt": "Sofá de 2,20 m, mesa de centro baixa, tapete que avança sob o sofá."},
+    {"titulo": "4. Luz e *câmera.*", "prompt": "Luz natural da manhã pela janela, câmera na altura do olho, lente 24 mm."}
+   ],
+   "eb_fim": "Resultado · antes e depois com IA",
+   "final": "O mesmo imóvel. *Outra primeira impressão.*",
+   "resumo": "Arquitetura + estilo + escala + luz e câmera.",
+   "fim": {"eb": "IA para arquitetos", "titulo": "O prompt completo está *no manual.*", "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas", "preco": true},
+   "legenda": "Antes e depois com IA para arquitetos e designers de interiores: o prompt em 4 partes.\n\nComo simular a decoração de um imóvel vazio sem mudar a arquitetura?\n1 · trave a arquitetura (paredes, janelas, portas)\n2 · defina o estilo\n3 · móveis em escala real\n4 · luz e câmera\n\nNessa ordem, a IA mobilia o ambiente e respeita o que já existe. É o Workflow 03 do manual IA para Arquitetos.\n\nSalve para usar na próxima visita. O manual completo está no link da bio.\n\n#iaparaarquitetos #arquitetura #designdeinteriores #antesedepois #inteligenciaartificial",
+   "alt": "Antes e depois de uma sala vazia mobiliada com inteligência artificial, mantendo janelas e paredes, com o prompt de 4 partes escrito na tela"
+  },
+  {
+   "tipo": "cenas", "horario": "11:40",
+   "cenas": [
+    {"fundo": "auto", "eb": "IA para arquitetos", "titulo": "3 sinais de que o seu escritório *precisa de IA.*", "dur": 2.6},
+    {"fundo": "auto", "num": "01", "titulo": "O render *atrasa a reunião.*", "corpo": "Se a apresentação espera 4 horas de render, o cliente espera junto.", "dur": 3.2},
+    {"fundo": "auto", "num": "02", "titulo": "A proposta *sai em dias.*", "corpo": "Quem responde primeiro, fecha primeiro.", "dur": 3.0},
+    {"fundo": "auto", "num": "03", "titulo": "O Instagram *está parado.*", "corpo": "A imagem que aprova o projeto já é o seu próximo post.", "dur": 3.2},
+    {"eb": "IA para arquitetos", "titulo": "O manual de IA que faltava *no seu escritório.*", "corpo": "7 workflows · 60 prompts", "preco": true, "dur": 2.8}
+   ],
+   "legenda": "IA no escritório de arquitetura: 3 sinais de que já passou da hora.\n\n1 · o render atrasa a reunião com o cliente\n2 · a proposta comercial demora dias para sair\n3 · o Instagram do escritório está parado\n\nCom os workflows certos, o render de apresentação sai em cerca de 15 minutos, a proposta em 24 horas e o Instagram em 2 horas por semana.\n\nQual desses é o seu? Comenta 1, 2 ou 3.\n\n#iaparaarquitetos #arquitetura #escritoriodearquitetura #inteligenciaartificial #arquitetos",
+   "alt": "Vídeo com três sinais de que um escritório de arquitetura precisa usar inteligência artificial: render atrasado, proposta lenta e Instagram parado"
+  },
+  {
+   "tipo": "cenas", "horario": "14:40",
+   "cenas": [
+    {"eb": "Ferramentas citadas no manual", "titulo": "IA para arquitetos: *quais ferramentas usar?*", "dur": 2.6},
+    {"eb": "Imagem e render", "titulo": "Para imagem:", "itens": ["Veras (Enscape, V-Ray, Corona)", "PromeAI", "ChatGPT Images", "Nano Banana (Gemini)", "Midjourney"], "dur": 5.0},
+    {"eb": "Texto, briefing e proposta", "titulo": "Para texto:", "itens": ["ChatGPT", "Claude", "Gemini"], "dur": 3.6},
+    {"eb": "O que importa", "titulo": "A ferramenta muda. *O método fica.*", "corpo": "Os 7 workflows funcionam com qualquer uma delas.", "dur": 3.0},
+    {"eb": "IA para arquitetos", "titulo": "O manual de IA que faltava *no seu escritório.*", "corpo": "60 prompts prontos para copiar", "preco": true, "dur": 2.8}
+   ],
+   "legenda": "Quais ferramentas de IA um arquiteto deve usar em 2026?\n\nPara imagem e render: Veras (dentro do Enscape, V-Ray e Corona), PromeAI, ChatGPT Images, Nano Banana (Gemini) e Midjourney.\nPara texto, briefing e proposta: ChatGPT, Claude e Gemini.\n\nA ferramenta muda a cada mês. O método fica: os 7 workflows do manual IA para Arquitetos funcionam com qualquer uma delas.\n\nSalve a lista e marque um colega que ainda faz tudo na mão.\n\n#iaparaarquitetos #ferramentasdeia #render #arquitetura #inteligenciaartificial",
+   "alt": "Lista de ferramentas de inteligência artificial para arquitetos: Veras, PromeAI, ChatGPT Images, Nano Banana, Midjourney, ChatGPT, Claude e Gemini"
+  },
+  {
+   "tipo": "cenas", "horario": "18:10",
+   "cenas": [
+    {"fundo": "auto", "eb": "Workflow 04 · Briefing", "titulo": "Briefing de 1 semana *em 1 hora.*", "dur": 2.6},
+    {"fundo": "auto", "num": "01", "titulo": "Anote *tudo* da primeira reunião.", "corpo": "Do jeito que sair: frases soltas, desejos, restrições, orçamento.", "dur": 3.2},
+    {"num": "02", "titulo": "Peça o *programa de necessidades.*", "prompt": "Organize estas anotações em programa de necessidades por ambiente, com áreas estimadas e prioridades.", "dur": 4.4},
+    {"fundo": "auto", "num": "03", "titulo": "Três conceitos *para escolher.*", "corpo": "Moodboard com 3 caminhos, para o cliente decidir na mesma semana.", "dur": 3.2},
+    {"eb": "IA para arquitetos", "titulo": "O manual de IA que faltava *no seu escritório.*", "corpo": "7 workflows · 60 prompts", "preco": true, "dur": 2.8}
+   ],
+   "legenda": "Como fazer o briefing de arquitetura em 1 hora com IA?\n\n1 · anote tudo da primeira reunião, do jeito que sair\n2 · peça à IA o programa de necessidades por ambiente, com áreas e prioridades\n3 · gere 3 conceitos de moodboard para o cliente escolher\n\nÉ o Workflow 04 do manual IA para Arquitetos: o que levava uma semana cabe numa tarde.\n\nSalve e use na próxima reunião. Link na bio.\n\n#iaparaarquitetos #briefing #arquitetura #designdeinteriores #inteligenciaartificial",
+   "alt": "Passo a passo de briefing de arquitetura com inteligência artificial em uma hora, com o prompt do programa de necessidades"
+  },
+  {
+   "tipo": "cenas", "horario": "20:40",
+   "cenas": [
+    {"fundo": "auto", "eb": "Pergunta que todo mundo faz", "titulo": "A IA vai substituir *o arquiteto?*", "dur": 2.6},
+    {"fundo": "auto", "titulo": "*Não.*", "fs": 200, "dur": 1.8},
+    {"fundo": "auto", "titulo": "A IA gera imagens convincentes. *Não corretas.*", "dur": 3.0},
+    {"fundo": "auto", "titulo": "E não assina projeto, *não responde pela obra.*", "dur": 3.0},
+    {"fundo": "auto", "titulo": "Ela substitui *as madrugadas de render.*", "dur": 3.0},
+    {"eb": "IA para arquitetos", "titulo": "O manual de IA que faltava *no seu escritório.*", "corpo": "Sem perder a sua autoria", "preco": true, "dur": 2.8}
+   ],
+   "legenda": "A IA vai substituir o arquiteto? Não.\n\nA inteligência artificial gera imagens convincentes, não corretas. Não assume responsabilidade técnica e não assina projeto. O repertório, as decisões e a assinatura continuam sendo do arquiteto.\n\nO que ela substitui são as madrugadas de render, as propostas atrasadas e o Instagram parado.\n\nConcorda? Conta nos comentários.\n\n#iaparaarquitetos #arquitetura #arquitetos #inteligenciaartificial #designdeinteriores",
+   "alt": "Vídeo respondendo se a inteligência artificial vai substituir o arquiteto, sobre imagens da obra de uma casa"
+  }
+ ],
+ "carrosseis": [
+  {
+   "horario": "12:20", "tema": "5 erros do render com IA",
+   "slides": [
+    {"tipo": "capa", "par": "w1", "eb": "Render com IA", "titulo": "5 erros que deixam o render *com cara de IA.*", "sub": "E como corrigir cada um no prompt.", "fs": 96},
+    {"num": "01", "eb": "Erro 01", "titulo": "Pedir *\"realista, 8k\".*", "corpo": "A IA entende como: pode inventar. Descreva o que você quer ver, não a resolução.", "prompt": "Fotografia de arquitetura de interiores, luz natural, materiais reais."},
+    {"num": "02", "eb": "Erro 02", "titulo": "Não travar *a geometria.*", "corpo": "Sem isso, a janela some e a escada troca de lado.", "prompt": "Mantenha exatamente a geometria, as aberturas e o enquadramento da imagem de referência."},
+    {"num": "03", "eb": "Erro 03", "titulo": "Luz *sem hora do dia.*", "corpo": "\"Iluminação bonita\" não diz nada. Hora, direção e sombra dizem tudo.", "prompt": "Luz do fim da tarde pela janela à esquerda, sombras longas e suaves."},
+    {"num": "04", "eb": "Erro 04", "titulo": "Materiais *genéricos.*", "corpo": "\"Pedra clara\" vira qualquer coisa. Escreva como no memorial.", "prompt": "Bancada de travertino romano levigado, piso de carvalho natural fosco."},
+    {"num": "05", "eb": "Erro 05", "titulo": "Câmera de drone *dentro de casa.*", "corpo": "Foto de arquitetura tem altura do olho e verticais retas.", "prompt": "Câmera a 1,60 m do piso, lente 24 mm, verticais corrigidas."},
+    {"tipo": "cta", "eb": "IA para arquitetos", "titulo": "Isto é um prompt. *O manual tem 60.*", "corpo": "7 workflows, 4 vídeo-aulas e 7 templates."}
+   ],
+   "legenda": "Por que o render feito com IA fica com cara de IA? Quase sempre é um destes 5 erros no prompt.\n\n01 · pedir \"realista, 8k\"\n02 · não travar a geometria do projeto\n03 · luz sem hora do dia\n04 · materiais genéricos\n05 · câmera de drone dentro de casa\n\nEm cada lâmina tem o trecho de prompt que corrige o erro. Salve para usar no próximo render.\n\nOs 60 prompts completos estão no manual IA para Arquitetos, link na bio.\n\n#iaparaarquitetos #render #renderizacao #arquitetura #inteligenciaartificial",
+   "alt": "Carrossel com 5 erros comuns em renders feitos com inteligência artificial e o trecho de prompt que corrige cada um"
+  },
+  {
+   "horario": "19:30", "tema": "Proposta em 24 horas",
+   "slides": [
+    {"tipo": "capa", "img": "v-7.9.jpg", "eb": "Workflow 05 · Proposta", "titulo": "Proposta de arquitetura *em 24 horas.*", "sub": "O sistema que faz a proposta sair no dia seguinte à reunião."},
+    {"eb": "O problema", "titulo": "Quem responde primeiro, *fecha primeiro.*", "corpo": "A proposta que leva 5 dias para sair compete com a do escritório que respondeu no dia seguinte."},
+    {"num": "01", "eb": "Passo 01", "titulo": "Um *arquivo-mestre.*", "corpo": "Escopo, etapas, prazos e valores base do seu escritório, num documento só. É dele que a IA tira tudo."},
+    {"num": "02", "eb": "Passo 02", "titulo": "O modelo *de proposta.*", "corpo": "A IA cruza o arquivo-mestre com as anotações da reunião.", "prompt": "Com base no arquivo-mestre e nas anotações desta reunião, escreva a proposta: escopo, etapas, prazos e investimento, em tom profissional e claro.", "rotulo": "Prompt"},
+    {"tipo": "lista", "num": "03", "eb": "Passo 03", "titulo": "Follow-up *em 3 tempos.*", "itens": [["24 horas", "confirma o recebimento"], ["3 dias", "tira dúvidas"], ["7 dias", "propõe a decisão"]]},
+    {"tipo": "cta", "eb": "IA para arquitetos", "titulo": "O modelo pronto *está no manual.*", "corpo": "Template de proposta em PDF e Word."}
+   ],
+   "legenda": "Como enviar uma proposta de arquitetura em 24 horas?\n\n1 · monte um arquivo-mestre com escopo, etapas, prazos e valores base\n2 · peça à IA a proposta cruzando o arquivo-mestre com as anotações da reunião\n3 · faça o follow-up em 3 tempos: 24 horas, 3 dias e 7 dias\n\nÉ o Workflow 05 do manual IA para Arquitetos, com o template de proposta em PDF e Word.\n\nSalve e compartilhe com o seu sócio. Link na bio.\n\n#iaparaarquitetos #propostacomercial #arquitetura #escritoriodearquitetura #inteligenciaartificial",
+   "alt": "Carrossel explicando como fazer uma proposta de arquitetura em 24 horas com inteligência artificial: arquivo-mestre, modelo de proposta e follow-up"
+  }
+ ],
+ "stories": [
+  {"tipo": "pergunta", "horario": "08:30", "img": "v-0.jpg", "eb": "Bom dia, arquiteto", "titulo": "Quanto tempo leva o seu *render hoje?*", "nota": "Enquete no meio da tela: \"Mais de 2 h\" / \"Menos de 1 h\""},
+  {"tipo": "dica", "horario": "10:30", "eb": "Prompt do dia · salve", "titulo": "Trave a geometria *antes de tudo.*", "prompt": "Mantenha exatamente a geometria, as aberturas, as proporções e o enquadramento da imagem de referência.", "rotulo": "Copie o prompt"},
+  {"tipo": "imagem", "horario": "13:00", "par": "w2", "eb": "Workflow 02", "titulo": "Uma foto da peça. *Uma cena de revista.*", "nota": "Adesivo de reação (emoji deslizante) embaixo"},
+  {"tipo": "numero", "horario": "15:30", "num": "30 h", "eb": "Faça a conta", "titulo": "de volta por mês, *com 8 renders.*", "corpo": "8 × (4 h − 15 min) = 30 horas."},
+  {"tipo": "lista", "horario": "17:20", "eb": "O que vem no manual", "titulo": "Tudo pronto para *segunda-feira.*", "itens": [["E-book", "36 páginas, 7 workflows"], ["Vídeo-aulas", "4 aulas"], ["Prompts", "60 prontos para copiar"], ["Templates", "7 em PDF e Word"]]},
+  {"tipo": "pergunta", "horario": "19:00", "img": "v-4.4.jpg", "eb": "Sua vez", "titulo": "Qual tarefa você quer *ver resolvida com IA?*", "nota": "Caixa de perguntas no meio da tela"},
+  {"tipo": "link", "horario": "21:30", "img": "v-7.9.jpg", "eb": "IA para arquitetos", "titulo": "O manual de IA que faltava *no seu escritório.*", "link": "https://iaparaarquitetos.com.br/?utm_source=instagram&utm_medium=stories&utm_campaign=rotina-diaria", "nota": "Adesivo de link abaixo do preço"}
+ ]
+}
