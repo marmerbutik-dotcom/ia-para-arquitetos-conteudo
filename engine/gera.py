@@ -12,6 +12,9 @@ import json, os, re, sys, random, shutil, subprocess, html as H
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import evolui  # reels e stories animados de evolução (planta → obra → render)
+
 ROOT = Path(__file__).resolve().parent.parent
 A = (ROOT / 'assets' / 'img').as_uri() + '/'
 F = (ROOT / 'assets' / 'fonts').as_uri() + '/'
@@ -92,6 +95,18 @@ def slide(s, n, total, tema):
     eb = f'<span class="pr tech" style="font-size:22px;color:{acc}">{md(s.get("eb", ""))}</span>' if s.get('eb') else ''
     ft = foot(col, right_top=tema, right_bot=f'Prancha {n:02d} / {total:02d}')
     box = 'position:absolute;left:84px;right:84px;top:116px;bottom:190px;display:flex;flex-direction:column;justify-content:center;gap:34px'
+    if t == 'etapa':
+        # uma etapa de uma sequência de evolução: foto cheia, selo numerado e (opcional) o prompt usado
+        sh = 'rgba(14,11,9,.55) 0,rgba(14,11,9,.08) 24%,rgba(14,11,9,0) 46%,rgba(14,11,9,.55) 70%,rgba(14,11,9,.92) 100%'
+        selo = (f'<span class="tech" style="align-self:flex-start;font-size:26px;letter-spacing:.06em;padding:14px 22px;background:rgba(31,29,26,.86);'
+                f'border:2px solid var(--bz);color:#fff"><b style="color:var(--bzl);font-weight:500;margin-right:16px">{H.escape(s.get("n", f"{n - 1:02d}"))}</b>'
+                f'{H.escape(s["nome"].upper())}</span>')
+        tit = f'<h2 style="font-size:{s.get("fs", 64)}px">{md(s["titulo"])}</h2>' if s.get('titulo') else ''
+        pb = f'<div class="pbox" style="font-size:29px;padding:26px 30px"><span class="k">{md(s.get("rotulo", "Prompt"))}</span>{md(s["prompt"])}</div>' if s.get('prompt') else ''
+        body = (f'<div class="cv on">{fundo_foto(s["img"], sh)}{SHEET}'
+                f'<div style="position:absolute;left:84px;right:84px;bottom:190px;display:flex;flex-direction:column;gap:24px">{selo}{tit}{pb}</div>'
+                f'{foot("#fff", right_top=tema, right_bot=f"Prancha {n:02d} / {total:02d}")}</div>')
+        return page(W, Hh, body)
     if t == 'capa':
         img = s.get('img')
         if img:
@@ -341,6 +356,11 @@ def gera(pauta_path):
                             alt=c.get('alt', ''), horario=c['horario'], ia=c.get('ia', any(s.get('par') or s.get('img') for s in c['slides']))))
         # stories
         for si, s in enumerate(pauta.get('stories', []), 1):
+            if s.get('tipo') == 'evolucao':
+                mp = out / f'story-{si:02d}.mp4'
+                evolui.render(dict(s, fim=False), mp, som_ofs=(si * 3.7) % 18)
+                man.append(dict(tipo='STORY', id=f'story-{si:02d}', arquivos=[mp.name], horario=s['horario'], link='', nota='', ia=True))
+                continue
             png = tmp / f's{si}.png'
             shot(story(s), png, 1080, 1920)
             jp = out / f'story-{si:02d}.jpg'
@@ -350,6 +370,12 @@ def gera(pauta_path):
         # reels
         for ri, r in enumerate(pauta.get('reels', []), 1):
             rt = tmp / f'r{ri}'; rt.mkdir()
+            if r.get('tipo') == 'evolucao':
+                mp4 = out / f'reel-{ri:02d}.mp4'; cj = out / f'reel-{ri:02d}-capa.jpg'
+                tot = evolui.render(r, mp4, capa=cj, som_ofs=(ri * 5.3) % 14)
+                man.append(dict(tipo='REEL', id=f'reel-{ri:02d}', arquivos=[mp4.name], capa=cj.name, duracao=round(tot, 1),
+                                legenda=r['legenda'], alt=r.get('alt', ''), horario=r['horario'], ia=True))
+                continue
             if r.get('tipo') == 'wipe':
                 clips, durs = reel_wipe(r, pg, rt, out)
                 fim = r.get('fim')

@@ -71,6 +71,9 @@ Fecho comercial: no máximo 1 em cada 3 peças termina em venda forte (preço e 
 
 Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o destaque em bronze, sempre no fim do título.
 
+- **Reel tipo `evolucao`** (o estilo principal desde 8/11, ver 5d): a mesma cena passando por etapas, com linha de luz, wireframe e prompt sendo digitado.
+  - Campos: `gancho` (2 linhas; a 2ª sai em itálico bronze), `rotulo` (canto superior direito, curto, em maiúsculas), `etapas` (3 ou 4, cada uma com `img`, `nome`, `trans`, `prompt` opcional e `foco` no `mergulho`), `frase` (2 linhas sobre a última etapa), `legenda`, `alt`, `horario`. O cartão final com logo e site entra sozinho.
+  - Use 2 por dia (um de interior, um de casa/fachada). Duração sai entre 14 e 18 s.
 - **Reel tipo `wipe`** (antes e depois que se revela):
   - Campos: `par` (w1 render, w2 peça, w3 imóvel), `gancho`, `passos` (2 a 4 itens, cada um com `titulo` e `prompt`), `final`, `resumo` e `fim` (cartão final).
   - Use no máximo 1 por dia.
@@ -80,9 +83,11 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
   - Varie: nem todo reel termina com preço.
 - **Carrossel:**
   - De 5 a 8 slides, com `tema` (rodapé curto).
-  - Tipos de slide: `capa` (com `par` ou `img`), texto (com `num`, `eb`, `titulo`, `corpo`, `prompt`), `lista` (`itens` como ["texto", "detalhe"]), `imagem` (`par`) e `cta`.
+  - Tipos de slide: `capa` (com `par` ou `img`), texto (com `num`, `eb`, `titulo`, `corpo`, `prompt`), `lista` (`itens` como ["texto", "detalhe"]), `imagem` (`par`), `etapa` e `cta`.
+  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). Um carrossel por dia é "etapas": capa com a última imagem, 1 slide `etapa` por etapa (com o prompt de cada uma), 1 slide de texto com o cuidado principal e `cta`.
 - **Story (tudo automático, sem adesivos — pedido do Marcos em 7/11):** o story precisa funcionar sozinho, sem enquete, caixa de perguntas, emoji deslizante nem adesivo de link. NUNCA escreva no story algo que peça voto, resposta na caixa ou toque em adesivo ("vote", "responda aqui", "toque no link"). Use perguntas só como gancho retórico, já respondidas no próprio story.
-  - Tipos: `foto` (imagem de fundo + título + corpo curto), `dica` (prompt), `imagem` (`par`), `numero`, `lista` e `link`.
+  - Tipos: `foto` (imagem de fundo + título + corpo curto), `dica` (prompt), `imagem` (`par`), `numero`, `lista`, `link` e `evolucao`.
+  - `evolucao`: story em vídeo (10 a 14 s), com os mesmos campos do reel `evolucao` mas só 2 ou 3 etapas e sem `legenda`. Sai como `story-NN.mp4`, sem cartão final. Use 2 por dia, em horários separados.
   - O tipo `link` mostra o preço e a linha "Link na bio · iaparaarquitetos.com.br" (já vem no modelo). É o último story do dia.
   - Não use o campo `nota`.
 - Imagens disponíveis em `assets/img` (além das novas de `assets/img/novas`, ver 5b):
@@ -91,6 +96,49 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
   - w1/w2/w3 (antes e depois)
 
 Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e grava `saida/AAAA-MM-DD/` com `manifesto.json`. Antes de agendar, abra 1 quadro de cada reel, 1 slide de cada carrossel e todos os stories e confira se nada vazou da moldura.
+
+
+## 5d. Estilo "evolução" (pedido do Marcos em 8/11/2026)
+
+O Marcos mandou 6 reels de referência (planta que vira planta humanizada, obra crua que vira render, planta que vira estrutura e casa pronta, sempre com a mesma câmera) e pediu esse estilo nos reels, carrosséis e stories. Os 2 vídeos-modelo estão na LP (seção "Em movimento") e em `saida/estilo/`.
+
+**Mix diário:** 2 reels `evolucao` + 3 reels dos outros tipos; 1 carrossel "etapas" + 1 carrossel normal; 2 stories `evolucao` + 5 stories estáticos.
+
+**Sequências do dia (Canva, por referência):** cada dia gere 2 sequências novas no cenário do rodízio (5b), uma de interior e uma de casa:
+- **Interior (4 imagens):** 1 planta técnica (desenho 2D preto sobre branco, vista de cima, cotas, sem texto legível) → 2 planta humanizada (`imageReferences` = imagem 1; "mesma planta, mesmas paredes e mesmo enquadramento, agora humanizada: vista de cima, pisos, móveis, plantas, sombras suaves") → 4 render do ambiente principal na altura do olho → 3 obra crua (`imageReferences` = imagem 4; "mesmo ambiente, mesma câmera e mesmas aberturas, em obra: concreto e reboco crus, sem móveis, tubulação aparente"). Gere a 4 antes da 3: a obra sai da imagem pronta, então as linhas casam.
+- **Casa (3 imagens):** 1 planta da casa sobre a mesa (papel, régua, lápis, vista de cima) → 3 casa pronta em vista aérea 3/4 ao entardecer → 2 estrutura (`imageReferences` = imagem 3; "mesma casa, mesma câmera aérea, em estrutura de concreto: pilares, lajes, escada, sem fachada nem acabamento, terreno de obra").
+- Todas em `PORTRAIT_9_16`, exportadas pelo design-base (5b) para `assets/img/novas/<cenario>-<data>/1-planta.jpg`, `2-...jpg` etc. Registre cada uma no `indice.json` com o campo `sequencia`.
+- Confira as etapas lado a lado: mesma câmera, mesmas aberturas. Se uma etapa sair com outra geometria, gere de novo (até 2 vezes); se não acertar, troque a transição por `mergulho` (não depende de alinhamento).
+
+**Transições** (campo `trans` da etapa, sempre a partir da 2ª):
+- `scan` linha de luz de cima para baixo com grade (planta técnica → humanizada).
+- `mergulho` com `foco: [x, y]` (0 a 1): a câmera entra naquele ponto da etapa anterior e sai na próxima (planta humanizada → interior; use o ponto da sala na planta).
+- `linhas` o wireframe da próxima etapa se desenha por cima da anterior e depois revela (obra crua → render).
+- `luz` a planta em papel acende como prancha luminosa e vira o wireframe da próxima (planta da casa → estrutura).
+- `ergue` linha de luz de baixo para cima (estrutura → casa pronta). `lateral` da esquerda para a direita.
+O gerador alinha sozinho cada etapa à anterior (`alinha: true`, padrão).
+
+**Modelos prontos** (copie e troque imagens, textos e prompts):
+```json
+{"tipo": "evolucao", "horario": "...", "gancho": ["Da planta ao", "apartamento pronto"], "rotulo": "DA PLANTA À OBRA",
+ "etapas": [
+  {"img": "novas/estilo-apto/1-planta.jpg", "nome": "Planta técnica"},
+  {"img": "novas/estilo-apto/2-humanizada.jpg", "nome": "Planta humanizada", "trans": "scan", "prompt": "humanize esta planta: vista de cima, piso de madeira clara, móveis e luz natural"},
+  {"img": "novas/estilo-apto/3-obra.jpg", "nome": "Obra crua", "trans": "mergulho", "foco": [0.42, 0.52]},
+  {"img": "novas/estilo-apto/4-render.jpg", "nome": "Render final", "trans": "linhas", "prompt": "mesma câmera, mesma arquitetura: sala e cozinha prontas, luz da tarde"}],
+ "frase": ["O arquiteto decide.", "A IA executa."], "legenda": "...", "alt": "..."}
+```
+```json
+{"tipo": "evolucao", "horario": "...", "gancho": ["Do projeto à", "casa pronta"], "rotulo": "DO PROJETO À CASA",
+ "etapas": [
+  {"img": "novas/estilo-casa/1-planta.jpg", "nome": "Planta"},
+  {"img": "novas/estilo-casa/2-estrutura.jpg", "nome": "Estrutura", "trans": "luz", "prompt": "a partir desta planta: casa de 2 pavimentos, concreto aparente, piscina e jardim tropical"},
+  {"img": "novas/estilo-casa/3-pronta.jpg", "nome": "Casa pronta", "trans": "ergue"}],
+ "frase": ["Apresente a casa", "antes da obra."], "legenda": "...", "alt": "..."}
+```
+As pastas `novas/estilo-apto` e `novas/estilo-casa` são as sequências dos vídeos-modelo: use-as só se o Canva falhar no dia.
+
+**Textos do estilo:** o `prompt` na tela é curto (até cerca de 90 caracteres) e diz o que muda e o que fica ("mesma câmera, mesma arquitetura"). Os nomes das etapas são de obra e projeto (Planta técnica, Planta humanizada, Obra crua, Estrutura, Render final, Casa pronta). A legenda explica a sequência em passos numerados e liga ao Workflow que mais se aproxima (W01 render a partir do modelo; W03 antes e depois mantendo a arquitetura), sem dizer que o manual traz um workflow de planta humanizada. Para a `frase`, alterne entre estas, sem repetir no mesmo dia: "O arquiteto decide. / A IA executa.", "Mesma câmera. / Mesma arquitetura.", "Apresente a casa / antes da obra.", "Do papel à / apresentação.", "A geometria fica. / O resto muda.".
 
 
 ## 5b. Imagens novas todo dia (pedido do Marcos em 7/11/2026)
@@ -154,9 +202,10 @@ Corrija na pauta e gere de novo antes de agendar. Uma legenda com erro é pior q
 - **Chamada:** `createScheduledPost`, com `providers: [{"network":"instagram"}]` e `autoPublish: true`. Cada tipo:
   - **Reel:** `instagramData: {"type":"REEL","showReelOnFeed":true,"isAiGenerated":<ia>}`, `media: [mp4]`, `videoThumbnailUrl: <capa.jpg>`, `text: legenda`, `mediaAltText: [alt]`.
   - **Carrossel:** `instagramData: {"type":"POST","isAiGenerated":<ia>}`, `media` com os slides em ordem, `text: legenda`, `mediaAltText` com o mesmo alt para cada slide.
-  - **Story:** `instagramData: {"type":"STORY"}`, `media: [jpg]`, sem `text`.
+  - **Story:** `instagramData: {"type":"STORY"}`, `media: [jpg ou mp4]`, sem `text`.
 - **Data:** `date` e `publicationDate` no horário do manifesto, com timezone America/Sao_Paulo.
-- **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 14 posts.
+- **Horário já ocupado:** antes de agendar, chame getScheduledPosts do dia. Se um horário do item 1 já tiver um post (o Marcos ou uma sessão anterior pode ter agendado algo à mão), não agende outra peça do mesmo tipo nele: pule a peça correspondente da pauta e registre no relatório.
+- **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 14 posts (contando os que já estavam agendados).
 - **Erro:** se uma chamada der erro, corrija o JSON e tente de novo uma vez. Se falhar de novo, pule a peça e registre em `relatorios/AAAA-MM-DD.md`.
 
 ## 7. Depois de agendar
