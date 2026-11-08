@@ -73,7 +73,7 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
 
 - **Reel tipo `evolucao`** (o estilo principal desde 8/11, ver 5d): a mesma cena passando por etapas, com linha de luz, wireframe e prompt sendo digitado.
   - Campos: `gancho` (2 linhas; a 2ª sai em itálico bronze), `rotulo` (canto superior direito, curto, em maiúsculas), `etapas` (3 ou 4, cada uma com `img`, `nome`, `trans`, `prompt` opcional e `foco` no `mergulho`), `frase` (2 linhas sobre a última etapa), `legenda`, `alt`, `horario`. O cartão final com logo e site entra sozinho.
-  - Use 2 por dia (um de interior, um de casa/fachada). Duração sai entre 14 e 18 s.
+  - Use 3 por dia (pelo menos um de interior e um de casa/fachada; o 3º alterna). Duração sai entre 14 e 18 s. O Marcos gostou do formato (8/11) e pediu mais.
 - **Reel tipo `wipe`** (antes e depois que se revela):
   - Campos: `par` (w1 render, w2 peça, w3 imóvel), `gancho`, `passos` (2 a 4 itens, cada um com `titulo` e `prompt`), `final`, `resumo` e `fim` (cartão final).
   - Use no máximo 1 por dia.
@@ -102,7 +102,7 @@ Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e gr
 
 O Marcos mandou 6 reels de referência (planta que vira planta humanizada, obra crua que vira render, planta que vira estrutura e casa pronta, sempre com a mesma câmera) e pediu esse estilo nos reels, carrosséis e stories. Os 2 vídeos-modelo estão na LP (seção "Em movimento") e em `saida/estilo/`.
 
-**Mix diário:** 2 reels `evolucao` + 3 reels dos outros tipos; 1 carrossel "etapas" + 1 carrossel normal; 2 stories `evolucao` + 5 stories estáticos.
+**Mix diário:** 3 reels `evolucao` + 2 reels dos outros tipos (no máximo 1 `wipe`); 1 carrossel "etapas" + 1 carrossel normal; 2 stories `evolucao` + 5 stories estáticos.
 
 **Sequências do dia (Canva, por referência):** cada dia gere 2 sequências novas no cenário do rodízio (5b), uma de interior e uma de casa:
 - **Interior (4 imagens):** 1 planta técnica (desenho 2D preto sobre branco, vista de cima, cotas, sem texto legível) → 2 planta humanizada (`imageReferences` = imagem 1; "mesma planta, mesmas paredes e mesmo enquadramento, agora humanizada: vista de cima, pisos, móveis, plantas, sombras suaves") → 4 render do ambiente principal na altura do olho → 3 obra crua (`imageReferences` = imagem 4; "mesmo ambiente, mesma câmera e mesmas aberturas, em obra: concreto e reboco crus, sem móveis, tubulação aparente"). Gere a 4 antes da 3: a obra sai da imagem pronta, então as linhas casam.
@@ -207,6 +207,22 @@ Corrija na pauta e gere de novo antes de agendar. Uma legenda com erro é pior q
 - **Horário já ocupado:** antes de agendar, chame getScheduledPosts do dia. Se um horário do item 1 já tiver um post (o Marcos ou uma sessão anterior pode ter agendado algo à mão), não agende outra peça do mesmo tipo nele: pule a peça correspondente da pauta e registre no relatório.
 - **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 14 posts (contando os que já estavam agendados).
 - **Erro:** se uma chamada der erro, corrija o JSON e tente de novo uma vez. Se falhar de novo, pule a peça e registre em `relatorios/AAAA-MM-DD.md`.
+
+## 6b. 1 reel por dia na @marmerbutik (pedido do Marcos em 8/11/2026)
+
+A Marmer Butik vende o manual, então todo dia vai **1 reel de estilo evolução** para o Instagram @marmerbutik. É só 1 por dia: "não muitos".
+- **Marca:** Marmer Butik, **blogId 6358659**, rede só `instagram` (sem TikTok, Facebook, YouTube ou outras redes). É a ÚNICA peça que esta rotina agenda nessa marca.
+- **Horário:** 14:00 (fuso de São Paulo). A grade de reels da Marmer é 09:30, 12:00, 16:30, 18:00, 20:00 e 21:00, e quem cuida dela é outra rotina, que não deve ser tocada. Antes de agendar, confira com getScheduledPosts (brandId 6358659, só o dia; a resposta é grande, filtre por horário) se 14:00 já tem um REEL de IA para Arquitetos. Se tiver, não agende outro.
+- **Vídeo próprio, nunca o mesmo mp4 da @ia.para.arquitetos.** Renderize com `engine/evolui.py`, a partir de uma das sequências do dia (alterne: dia par casa, dia ímpar interior), com outro `gancho`, outra `frase`, prompts de tela diferentes e `"rotulo": "MARMER BUTIK"`. Pode usar 3 etapas em vez de 4. Grave em `saida/marmer/AAAA-MM-DD-<tema>.mp4` e a capa ao lado (`capa=`). Exemplo: `python3 -c "import sys,json; sys.path.insert(0,'engine'); import evolui; evolui.render(json.load(open('spec.json')),'saida/marmer/AAAA-MM-DD-casa.mp4',capa='saida/marmer/AAAA-MM-DD-casa-capa.jpg',som_ofs=9)"`.
+- **Legenda (voz da Marmer, para o público dela: arquitetos, designers e clientes de alto padrão):**
+  - 1ª linha com a palavra-chave ("render com IA", "IA para arquitetos", "projeto de arquitetura com IA").
+  - Pergunta e resposta curta. Passos numerados com o que o vídeo mostra.
+  - Uma frase dizendo que o manual IA para Arquitetos é da Marmer Butik, com os fatos do item 2.
+  - Chamada: "Conheça o manual em iaparaarquitetos.com.br e siga @ia.para.arquitetos". O link da bio da @marmerbutik é da loja: nunca escreva "link na bio" nesse post.
+  - Hashtags: #iaparaarquitetos #marmerbutik #arquitetura + 1 ou 2 do tema.
+  - Passe a legenda pelo checklist 5c.
+- **Agendar:** `createScheduledPost` com blogId 6358659, `providers: [{"network":"instagram"}]`, `instagramData: {"type":"REEL","showReelOnFeed":true,"isAiGenerated":true}`, `videoThumbnailUrl` com a capa, `mediaAltText` e autoPublish true. Registre o id no relatório do dia, numa linha "Marmer".
+- **Limpeza:** `saida/marmer/` segue a mesma regra de limpeza das pastas do dia: apague os arquivos com mais de 3 dias.
 
 ## 7. Depois de agendar
 
