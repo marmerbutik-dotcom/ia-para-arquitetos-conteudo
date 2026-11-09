@@ -14,6 +14,22 @@ from playwright.sync_api import sync_playwright
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import evolui  # reels e stories animados de evolução (planta → obra → render)
+import multiprocessing as _mp
+
+
+def _ev_worker(q, spec, out, kw):
+    q.put(evolui.render(spec, out, **kw))
+
+
+def evolui_render(spec, out, **kw):
+    """Roda o evolui num processo separado: cada vídeo libera a memória ao terminar (evita OOM com vários vídeos no dia)."""
+    ctx = _mp.get_context('spawn'); q = ctx.Queue()
+    kw = {k: (str(v) if isinstance(v, Path) else v) for k, v in kw.items()}
+    pr = ctx.Process(target=_ev_worker, args=(q, spec, str(out), kw)); pr.start()
+    tot = q.get(timeout=900); pr.join()
+    if pr.exitcode:
+        raise SystemExit(f'evolui falhou ({pr.exitcode}): {out}')
+    return tot
 
 ROOT = Path(__file__).resolve().parent.parent
 A = (ROOT / 'assets' / 'img').as_uri() + '/'
@@ -358,7 +374,7 @@ def gera(pauta_path):
         for si, s in enumerate(pauta.get('stories', []), 1):
             if s.get('tipo') == 'evolucao':
                 mp = out / f'story-{si:02d}.mp4'
-                evolui.render(dict(s, fim=False), mp, som_ofs=(si * 3.7) % 18)
+                evolui_render(dict(s, fim=False), mp, som_ofs=(si * 3.7) % 18)
                 man.append(dict(tipo='STORY', id=f'story-{si:02d}', arquivos=[mp.name], horario=s['horario'], link='', nota='', ia=True))
                 continue
             png = tmp / f's{si}.png'
@@ -372,7 +388,7 @@ def gera(pauta_path):
             rt = tmp / f'r{ri}'; rt.mkdir()
             if r.get('tipo') == 'evolucao':
                 mp4 = out / f'reel-{ri:02d}.mp4'; cj = out / f'reel-{ri:02d}-capa.jpg'
-                tot = evolui.render(r, mp4, capa=cj, som_ofs=(ri * 5.3) % 14)
+                tot = evolui_render(r, mp4, capa=cj, som_ofs=(ri * 5.3) % 14)
                 man.append(dict(tipo='REEL', id=f'reel-{ri:02d}', arquivos=[mp4.name], capa=cj.name, duracao=round(tot, 1),
                                 legenda=r['legenda'], alt=r.get('alt', ''), horario=r['horario'], ia=True))
                 continue

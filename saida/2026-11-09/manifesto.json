@@ -1,0 +1,155 @@
+{
+ "data": "2026-11-09",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 16.0,
+   "legenda": "Render com IA de casa na montanha: da planta à fachada pronta, na mesma vista aérea.\n\nComo apresentar uma casa na encosta antes de a obra começar? Gere cada etapa a partir da anterior e diga no prompt o que não pode mudar: câmera, volumes e terreno.\n\n1 · Planta: define a implantação, a escada e o deck.\n2 · Estrutura: pilares e lajes na vista aérea que o cliente vai ver.\n3 · Casa pronta: só entram madeira, vidro, telhado verde e a luz do fim de tarde.\n\nNa montanha, quem manda é a topografia. Se a IA mexer na encosta, a imagem perde a credibilidade.\n\nÉ a lógica do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, a IA cuida da imagem.\n\nSalve para usar no próximo projeto em terreno inclinado.\n\n#iaparaarquitetos #render #arquitetura #casadecampo #inteligenciaartificial",
+   "alt": "Render com IA de casa na montanha: planta a lápis vira estrutura de concreto e depois casa pronta de madeira e vidro, na mesma vista aérea",
+   "horario": "07:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "08:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-02",
+   "arquivos": [
+    "story-02.mp4"
+   ],
+   "horario": "10:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-01",
+   "arquivos": [
+    "carrossel-01-01.jpg",
+    "carrossel-01-02.jpg",
+    "carrossel-01-03.jpg",
+    "carrossel-01-04.jpg",
+    "carrossel-01-05.jpg",
+    "carrossel-01-06.jpg",
+    "carrossel-01-07.jpg"
+   ],
+   "legenda": "Antes e depois com IA usando foto do cliente: 4 cuidados antes de subir a imagem.\n\nÉ seguro usar a foto do imóvel do cliente numa IA? É, com autorização dele. E com alguns cuidados que protegem você e o cliente.\n\n1 · Peça autorização por escrito, inclusive para usar a imagem no portfólio.\n2 · Tire o que identifica: placa, número da casa, rostos e documentos.\n3 · Diga na apresentação que a imagem é uma simulação.\n4 · Trave a arquitetura no prompt: paredes, aberturas e enquadramento como na foto.\n\nO Workflow 03 do manual IA para Arquitetos vai da foto do imóvel ao antes e depois, mantendo a arquitetura.\n\nSalve e compartilhe com quem faz visita técnica.\n\n#iaparaarquitetos #antesedepois #arquitetura #reforma #inteligenciaartificial",
+   "alt": "Carrossel sobre antes e depois com IA usando foto do cliente: autorização, dados que identificam, aviso de simulação e prompt que trava a arquitetura",
+   "horario": "12:20",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-03",
+   "arquivos": [
+    "story-03.jpg"
+   ],
+   "horario": "13:00",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-02",
+   "arquivos": [
+    "reel-02.mp4"
+   ],
+   "capa": "reel-02-capa.jpg",
+   "duracao": 14.6,
+   "legenda": "IA para arquitetos sem modelo 3D: dá para começar só com foto e croqui.\n\nPrecisa de modelo 3D para usar IA na arquitetura? Não. A IA parte de fotos do imóvel, croquis e plantas, e o prompt trava a geometria que já existe.\n\n1 · Foto do imóvel: antes e depois da reforma, mantendo a arquitetura (Workflow 03).\n2 · Croqui ou planta: a base para a primeira imagem do conceito.\n3 · Modelo 3D: quem usa Enscape, V-Ray ou Corona tem o Veras dentro do programa e chega ao render de apresentação em cerca de 15 minutos (Workflow 01).\n\nE se o projeto parte de uma peça, a foto dela já leva o móvel para dentro do ambiente (Workflow 02). Os três caminhos estão no manual IA para Arquitetos.\n\nMande para o colega que acha que precisa modelar tudo antes.\n\n#iaparaarquitetos #arquitetura #designdeinteriores #antesedepois #inteligenciaartificial",
+   "alt": "IA para arquitetos sem modelo 3D: vídeo mostra que foto do imóvel, croqui e planta já servem de base, sobre a imagem de um sobrado reformado",
+   "horario": "14:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-04",
+   "arquivos": [
+    "story-04.jpg"
+   ],
+   "horario": "15:30",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-05",
+   "arquivos": [
+    "story-05.mp4"
+   ],
+   "horario": "17:20",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-06",
+   "arquivos": [
+    "story-06.jpg"
+   ],
+   "horario": "19:00",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-02",
+   "arquivos": [
+    "carrossel-02-01.jpg",
+    "carrossel-02-02.jpg",
+    "carrossel-02-03.jpg",
+    "carrossel-02-04.jpg",
+    "carrossel-02-05.jpg",
+    "carrossel-02-06.jpg",
+    "carrossel-02-07.jpg"
+   ],
+   "legenda": "Planta humanizada e render com IA: as 4 etapas, com o prompt de cada uma.\n\nComo levar uma planta técnica até o render sem a IA mudar paredes e janelas? Cada etapa usa a anterior como referência, e o prompt diz o que fica igual.\n\n1 · Planta técnica: o seu desenho é a base.\n2 · Planta humanizada: pisos, móveis e sombras, sem mexer nas paredes.\n3 · Obra crua: mesma câmera e mesmas aberturas, sem acabamento.\n4 · Render final: a sala pronta, com a luz do fim da tarde.\n\nUm detalhe que faz diferença: gere o render antes da obra crua. A obra sai da imagem pronta e as linhas casam.\n\nO mesmo princípio está no Workflow 01 do manual IA para Arquitetos, do modelo 3D ao render de apresentação em cerca de 15 minutos. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #designdeinteriores #plantahumanizada #arquitetura",
+   "alt": "Carrossel de planta humanizada e render com IA: planta técnica, planta humanizada, obra crua e sala pronta, com o prompt de cada etapa",
+   "horario": "19:30",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-03",
+   "arquivos": [
+    "reel-03.mp4"
+   ],
+   "capa": "reel-03-capa.jpg",
+   "duracao": 16.2,
+   "legenda": "Memorial descritivo com IA: atas, cronograma e manual do morador no Workflow 07.\n\nDá para usar IA na parte burocrática do projeto? Dá. Documento de obra segue padrão, e é aí que a IA mais economiza horas do escritório.\n\n1 · Atas: as anotações da reunião viram ata, com decisões e próximos passos.\n2 · Memorial descritivo: a lista de materiais vira texto técnico, ambiente por ambiente.\n3 · Cronograma: etapas, prazos e dependências numa tabela.\n4 · Manual do morador: uso e manutenção de cada ambiente.\n\nA IA escreve o rascunho. A responsabilidade técnica continua sua: revise cada especificação antes de assinar.\n\nÉ o Workflow 07 do manual IA para Arquitetos.\n\nSalve para usar no próximo memorial.\n\n#iaparaarquitetos #arquitetura #escritoriodearquitetura #memorialdescritivo",
+   "alt": "Memorial descritivo com IA: vídeo com atas, memorial, cronograma de obra e manual do morador, com o prompt do memorial na tela",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-07",
+   "arquivos": [
+    "story-07.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}
