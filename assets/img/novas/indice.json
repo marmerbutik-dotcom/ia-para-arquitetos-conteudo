@@ -13,9 +13,7 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYZQA1lk",
   "descricao": "Planta técnica 2D de apartamento de 3 quartos com sala integrada e varanda",
-  "usos": [
-   "2026-11-09 carrossel 19:30"
-  ],
+  "usos": [],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -24,10 +22,7 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYRxz9Xo",
   "descricao": "Mesma planta humanizada: madeira clara, móveis, plantas e sombras",
-  "usos": [
-   "2026-11-09 carrossel 19:30",
-   "2026-11-09 story 10:30"
-  ],
+  "usos": [],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -36,10 +31,7 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYVm5BQM",
   "descricao": "Sala do apartamento em obra crua, mesma câmera do render, entardecer",
-  "usos": [
-   "2026-11-09 carrossel 19:30",
-   "2026-11-09 story 10:30"
-  ],
+  "usos": [],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -48,10 +40,7 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYbw7PHw",
   "descricao": "Sala contemporânea integrada à cozinha e varanda com vista da cidade, entardecer",
-  "usos": [
-   "2026-11-09 carrossel 19:30",
-   "2026-11-09 story 10:30"
-  ],
+  "usos": [],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -61,9 +50,7 @@
   "canva_media": "MAHaYULOS2g",
   "descricao": "Planta de casa de 2 pavimentos a lápis sobre mesa de madeira, régua e lápis",
   "usos": [
-   "2026-11-09 reel 07:40",
-   "2026-11-09 reel 14:40",
-   "2026-11-09 story 17:20"
+   "2026-11-09 reel 07:40"
   ],
   "sequencia": "montanha-2026-11-09"
  },
@@ -74,8 +61,7 @@
   "canva_media": "MAHaYfdDBZU",
   "descricao": "Estrutura de concreto da casa na encosta, vista aérea ao entardecer, araucárias",
   "usos": [
-   "2026-11-09 reel 07:40",
-   "2026-11-09 story 17:20"
+   "2026-11-09 reel 07:40"
   ],
   "sequencia": "montanha-2026-11-09"
  },
@@ -86,9 +72,7 @@
   "canva_media": "MAHaYev-so8",
   "descricao": "Casa contemporânea na encosta: concreto, madeira, vidro e telhado verde, entardecer",
   "usos": [
-   "2026-11-09 reel 07:40",
-   "2026-11-09 story 17:20",
-   "2026-11-09 story 21:30"
+   "2026-11-09 reel 07:40"
   ],
   "sequencia": "montanha-2026-11-09"
  },
@@ -98,11 +82,7 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYeh6hFo",
   "descricao": "Sobrado reformado em rua arborizada: reboco branco, tijolinho e portão ripado, manhã",
-  "usos": [
-   "2026-11-09 carrossel 12:20",
-   "2026-11-09 reel 14:40",
-   "2026-11-09 story 19:00"
-  ]
+  "usos": []
  },
  {
   "arquivo": "novas/montanha-01.jpg",
@@ -110,9 +90,129 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYeJ8inw",
   "descricao": "Sala de casa de montanha à noite: lareira de pedra, poltrona de couro, araucárias",
+  "usos": []
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/1-planta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaanbepbA",
+  "descricao": "Planta técnica de chalé com lareira central, quarto e varanda",
+  "sequencia": "chale-2026-11-09",
   "usos": [
    "2026-11-09 story 08:30",
    "2026-11-09 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/2-humanizada.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaarF_01c",
+  "descricao": "Planta humanizada do chalé: pinho, lareira de pedra e móveis",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 story 08:30",
+   "2026-11-09 reel 20:40",
+   "2026-11-09 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/3-obra.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaarXcR7w",
+  "descricao": "Interior do chalé em obra crua: tesouras brutas e lareira de tijolo",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 20:40",
+   "2026-11-09 story 19:00",
+   "2026-11-09 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/4-render.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaasqEH6E",
+  "descricao": "Interior de chalé com lareira de pedra, tesouras de madeira e mata nevoenta, manhã",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 20:40",
+   "2026-11-09 story 19:00",
+   "2026-11-09 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-09/1-antes.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-09",
+  "canva_media": "MAHaagwNLio",
+  "descricao": "Rancho antigo malconservado na beira do rio, fim de tarde",
+  "sequencia": "rancho-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 14:40",
+   "2026-11-09 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-09/2-maquete.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-09",
+  "canva_media": "MAHaagx6D4w",
+  "descricao": "Maquete branca do rancho, mesma geometria",
+  "sequencia": "rancho-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 14:40"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-09/3-reforma.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-09",
+  "canva_media": "MAHaarJXjVk",
+  "descricao": "Rancho reformado: reboco branco, telhas novas, esquadrias verdes e jardim",
+  "sequencia": "rancho-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 14:40",
+   "2026-11-09 carrossel 12:20",
+   "2026-11-09 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-09/1-planta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-09",
+  "canva_media": "MAHaauEKmUY",
+  "descricao": "Planta de implantação em aquarela de casa em L com deck e píer",
+  "sequencia": "lago-2026-11-09",
+  "usos": [
+   "2026-11-09 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-09/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-09",
+  "canva_media": "MAHaat2eV7o",
+  "descricao": "Estrutura metálica da casa à beira do lago, vista aérea com névoa",
+  "sequencia": "lago-2026-11-09",
+  "usos": [
+   "2026-11-09 carrossel 19:30",
+   "2026-11-09 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-09/3-pronta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-09",
+  "canva_media": "MAHaatzR6gc",
+  "descricao": "Casa térrea em L à beira do lago com deck e píer, manhã com névoa",
+  "sequencia": "lago-2026-11-09",
+  "usos": [
+   "2026-11-09 carrossel 19:30",
+   "2026-11-09 story 15:30",
+   "2026-11-09 story 21:30"
   ]
  }
 ]
