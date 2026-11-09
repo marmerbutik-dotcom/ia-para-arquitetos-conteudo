@@ -2,23 +2,10 @@
  "data": "2026-11-09",
  "pecas": [
   {
-   "tipo": "REEL",
-   "id": "reel-01",
-   "arquivos": [
-    "reel-01.mp4"
-   ],
-   "capa": "reel-01-capa.jpg",
-   "duracao": 16.0,
-   "legenda": "Render com IA de casa na montanha: da planta à fachada pronta, na mesma vista aérea.\n\nComo apresentar uma casa na encosta antes de a obra começar? Gere cada etapa a partir da anterior e diga no prompt o que não pode mudar: câmera, volumes e terreno.\n\n1 · Planta: define a implantação, a escada e o deck.\n2 · Estrutura: pilares e lajes na vista aérea que o cliente vai ver.\n3 · Casa pronta: só entram madeira, vidro, telhado verde e a luz do fim de tarde.\n\nNa montanha, quem manda é a topografia. Se a IA mexer na encosta, a imagem perde a credibilidade.\n\nÉ a lógica do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, a IA cuida da imagem.\n\nSalve para usar no próximo projeto em terreno inclinado.\n\n#iaparaarquitetos #render #arquitetura #casadecampo #inteligenciaartificial",
-   "alt": "Render com IA de casa na montanha: planta a lápis vira estrutura de concreto e depois casa pronta de madeira e vidro, na mesma vista aérea",
-   "horario": "07:40",
-   "ia": true
-  },
-  {
    "tipo": "STORY",
    "id": "story-01",
    "arquivos": [
-    "story-01.jpg"
+    "story-01.mp4"
    ],
    "horario": "08:30",
    "link": "",
@@ -48,8 +35,8 @@
     "carrossel-01-06.jpg",
     "carrossel-01-07.jpg"
    ],
-   "legenda": "Antes e depois com IA usando foto do cliente: 4 cuidados antes de subir a imagem.\n\nÉ seguro usar a foto do imóvel do cliente numa IA? É, com autorização dele. E com alguns cuidados que protegem você e o cliente.\n\n1 · Peça autorização por escrito, inclusive para usar a imagem no portfólio.\n2 · Tire o que identifica: placa, número da casa, rostos e documentos.\n3 · Diga na apresentação que a imagem é uma simulação.\n4 · Trave a arquitetura no prompt: paredes, aberturas e enquadramento como na foto.\n\nO Workflow 03 do manual IA para Arquitetos vai da foto do imóvel ao antes e depois, mantendo a arquitetura.\n\nSalve e compartilhe com quem faz visita técnica.\n\n#iaparaarquitetos #antesedepois #arquitetura #reforma #inteligenciaartificial",
-   "alt": "Carrossel sobre antes e depois com IA usando foto do cliente: autorização, dados que identificam, aviso de simulação e prompt que trava a arquitetura",
+   "legenda": "Antes e depois com IA: 3 sinais de que a imagem mudou o seu projeto.\n\nComo saber se a IA respeitou a arquitetura do imóvel? Compare a imagem nova com a foto em três pontos antes de mandar ao cliente.\n\n1 · Aberturas: mesmas janelas e portas, no mesmo lugar.\n2 · Telhado: mesma inclinação, mesmo beiral, mesma cumeeira.\n3 · Câmera: mesmo enquadramento da foto.\n\nA correção vem no prompt: trave paredes, aberturas, telhado e enquadramento antes de pedir qualquer estilo.\n\nO Workflow 03 do manual IA para Arquitetos vai da foto do imóvel ao antes e depois, mantendo a arquitetura.\n\nSalve para conferir na próxima imagem.\n\n#iaparaarquitetos #antesedepois #arquitetura #reforma #inteligenciaartificial",
+   "alt": "Carrossel sobre antes e depois com IA: três sinais de que a imagem mudou o projeto (janelas, telhado e câmera) e o prompt que trava a arquitetura",
    "horario": "12:20",
    "ia": true
   },
@@ -66,14 +53,14 @@
   },
   {
    "tipo": "REEL",
-   "id": "reel-02",
+   "id": "reel-01",
    "arquivos": [
-    "reel-02.mp4"
+    "reel-01.mp4"
    ],
-   "capa": "reel-02-capa.jpg",
-   "duracao": 14.6,
-   "legenda": "IA para arquitetos sem modelo 3D: dá para começar só com foto e croqui.\n\nPrecisa de modelo 3D para usar IA na arquitetura? Não. A IA parte de fotos do imóvel, croquis e plantas, e o prompt trava a geometria que já existe.\n\n1 · Foto do imóvel: antes e depois da reforma, mantendo a arquitetura (Workflow 03).\n2 · Croqui ou planta: a base para a primeira imagem do conceito.\n3 · Modelo 3D: quem usa Enscape, V-Ray ou Corona tem o Veras dentro do programa e chega ao render de apresentação em cerca de 15 minutos (Workflow 01).\n\nE se o projeto parte de uma peça, a foto dela já leva o móvel para dentro do ambiente (Workflow 02). Os três caminhos estão no manual IA para Arquitetos.\n\nMande para o colega que acha que precisa modelar tudo antes.\n\n#iaparaarquitetos #arquitetura #designdeinteriores #antesedepois #inteligenciaartificial",
-   "alt": "IA para arquitetos sem modelo 3D: vídeo mostra que foto do imóvel, croqui e planta já servem de base, sobre a imagem de um sobrado reformado",
+   "capa": "reel-01-capa.jpg",
+   "duracao": 14.0,
+   "legenda": "Antes e depois com IA: o rancho antigo reformado sem mudar a arquitetura.\n\nComo mostrar ao cliente a reforma de uma casa antiga antes de começar a obra? Parta da foto do imóvel e trave no prompt tudo o que fica: paredes, aberturas, telhado e enquadramento.\n\n1 · Foto do imóvel: a referência de tudo o que já existe.\n2 · Volumetria: a mesma casa em maquete branca, para conferir se a geometria ficou igual.\n3 · Reforma pronta: só mudam acabamentos, cores, piso da varanda e jardim.\n\nSe a janela mudou de lugar na imagem, a IA desenhou outra casa. Volte ao passo 1.\n\nÉ o Workflow 03 do manual IA para Arquitetos: da foto do imóvel ao antes e depois, mantendo a arquitetura.\n\nSalve para usar na próxima visita técnica.\n\n#iaparaarquitetos #antesedepois #reforma #arquitetura #inteligenciaartificial",
+   "alt": "Antes e depois com IA: rancho antigo na beira do rio vira maquete branca e depois casa reformada, com as mesmas janelas e o mesmo telhado",
    "horario": "14:40",
    "ia": true
   },
@@ -81,29 +68,29 @@
    "tipo": "STORY",
    "id": "story-04",
    "arquivos": [
-    "story-04.jpg"
+    "story-04.mp4"
    ],
    "horario": "15:30",
-   "link": "",
-   "nota": "",
-   "ia": false
-  },
-  {
-   "tipo": "STORY",
-   "id": "story-05",
-   "arquivos": [
-    "story-05.mp4"
-   ],
-   "horario": "17:20",
    "link": "",
    "nota": "",
    "ia": true
   },
   {
    "tipo": "STORY",
+   "id": "story-05",
+   "arquivos": [
+    "story-05.jpg"
+   ],
+   "horario": "17:20",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "STORY",
    "id": "story-06",
    "arquivos": [
-    "story-06.jpg"
+    "story-06.mp4"
    ],
    "horario": "19:00",
    "link": "",
@@ -119,24 +106,23 @@
     "carrossel-02-03.jpg",
     "carrossel-02-04.jpg",
     "carrossel-02-05.jpg",
-    "carrossel-02-06.jpg",
-    "carrossel-02-07.jpg"
+    "carrossel-02-06.jpg"
    ],
-   "legenda": "Planta humanizada e render com IA: as 4 etapas, com o prompt de cada uma.\n\nComo levar uma planta técnica até o render sem a IA mudar paredes e janelas? Cada etapa usa a anterior como referência, e o prompt diz o que fica igual.\n\n1 · Planta técnica: o seu desenho é a base.\n2 · Planta humanizada: pisos, móveis e sombras, sem mexer nas paredes.\n3 · Obra crua: mesma câmera e mesmas aberturas, sem acabamento.\n4 · Render final: a sala pronta, com a luz do fim da tarde.\n\nUm detalhe que faz diferença: gere o render antes da obra crua. A obra sai da imagem pronta e as linhas casam.\n\nO mesmo princípio está no Workflow 01 do manual IA para Arquitetos, do modelo 3D ao render de apresentação em cerca de 15 minutos. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #designdeinteriores #plantahumanizada #arquitetura",
-   "alt": "Carrossel de planta humanizada e render com IA: planta técnica, planta humanizada, obra crua e sala pronta, com o prompt de cada etapa",
+   "legenda": "Render com IA de casa no lago: da implantação à casa pronta, na mesma vista aérea.\n\nComo apresentar uma casa à beira d'água antes da obra? Cada etapa usa a anterior como referência, e o prompt diz o que fica: casa em L, deck, píer e margem.\n\n1 · Planta de implantação: define a casa, o deck e o píer.\n2 · Estrutura: pilares e laje na vista aérea que o cliente vai ver.\n3 · Casa pronta: vidro, madeira clara e a névoa da manhã.\n\nUm detalhe que faz diferença: gere a casa pronta primeiro e tire a estrutura dela. Assim margem e deck não mudam de lugar.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #arquitetura #casadecampo #inteligenciaartificial",
+   "alt": "Carrossel de render com IA de casa no lago: planta de implantação, estrutura metálica e casa pronta na mesma vista aérea, com o prompt de cada etapa",
    "horario": "19:30",
    "ia": true
   },
   {
    "tipo": "REEL",
-   "id": "reel-03",
+   "id": "reel-02",
    "arquivos": [
-    "reel-03.mp4"
+    "reel-02.mp4"
    ],
-   "capa": "reel-03-capa.jpg",
-   "duracao": 16.2,
-   "legenda": "Memorial descritivo com IA: atas, cronograma e manual do morador no Workflow 07.\n\nDá para usar IA na parte burocrática do projeto? Dá. Documento de obra segue padrão, e é aí que a IA mais economiza horas do escritório.\n\n1 · Atas: as anotações da reunião viram ata, com decisões e próximos passos.\n2 · Memorial descritivo: a lista de materiais vira texto técnico, ambiente por ambiente.\n3 · Cronograma: etapas, prazos e dependências numa tabela.\n4 · Manual do morador: uso e manutenção de cada ambiente.\n\nA IA escreve o rascunho. A responsabilidade técnica continua sua: revise cada especificação antes de assinar.\n\nÉ o Workflow 07 do manual IA para Arquitetos.\n\nSalve para usar no próximo memorial.\n\n#iaparaarquitetos #arquitetura #escritoriodearquitetura #memorialdescritivo",
-   "alt": "Memorial descritivo com IA: vídeo com atas, memorial, cronograma de obra e manual do morador, com o prompt do memorial na tela",
+   "capa": "reel-02-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Planta humanizada e render com IA de um chalé: 4 etapas com a mesma geometria.\n\nDá para ir da planta técnica ao interior pronto sem a IA mexer nas paredes? Dá, se cada imagem nasce da anterior e o prompt diz o que fica igual.\n\n1 · Planta técnica: paredes, lareira e aberturas definidas por você.\n2 · Planta humanizada: piso de pinho, lareira de pedra e móveis, vistos de cima.\n3 · Obra crua: tesouras de madeira e alvenaria aparente, na mesma câmera do render.\n4 · Render final: pedra, madeira e a luz fria da manhã na serra.\n\nNum chalé, quem dá o tom é a estrutura do telhado. Se as tesouras mudam entre a obra e o render, a sequência perde a credibilidade.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, a IA cuida da imagem.\n\nSalve para o próximo projeto na serra.\n\n#iaparaarquitetos #render #designdeinteriores #plantahumanizada #arquitetura",
+   "alt": "Planta humanizada e render com IA de um chalé: planta técnica, planta humanizada, obra crua e sala com lareira de pedra, na mesma câmera",
    "horario": "20:40",
    "ia": true
   },
