@@ -13,7 +13,9 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYZQA1lk",
   "descricao": "Planta técnica 2D de apartamento de 3 quartos com sala integrada e varanda",
-  "usos": [],
+  "usos": [
+   "2026-11-10 reel 20:40"
+  ],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -22,7 +24,10 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYRxz9Xo",
   "descricao": "Mesma planta humanizada: madeira clara, móveis, plantas e sombras",
-  "usos": [],
+  "usos": [
+   "2026-11-10 reel 20:40",
+   "2026-11-10 story 19:00"
+  ],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -31,7 +36,9 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYVm5BQM",
   "descricao": "Sala do apartamento em obra crua, mesma câmera do render, entardecer",
-  "usos": [],
+  "usos": [
+   "2026-11-10 reel 20:40"
+  ],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -40,7 +47,10 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYbw7PHw",
   "descricao": "Sala contemporânea integrada à cozinha e varanda com vista da cidade, entardecer",
-  "usos": [],
+  "usos": [
+   "2026-11-10 reel 11:40",
+   "2026-11-10 reel 20:40"
+  ],
   "sequencia": "apartamento-2026-11-09"
  },
  {
@@ -213,6 +223,119 @@
    "2026-11-09 carrossel 19:30",
    "2026-11-09 story 15:30",
    "2026-11-09 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/1-planta.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeQYxMR8",
+  "descricao": "Planta técnica de banheiro de suíte com banheira, duas cubas e box",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30",
+   "2026-11-10 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/2-humanizada.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeYiJGLY",
+  "descricao": "Planta humanizada do banheiro: piso de pedra clara, bancada de madeira, cubas de pedra",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30",
+   "2026-11-10 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/3-obra.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeVP7P0w",
+  "descricao": "Banheiro em obra crua: reboco, contrapiso e pontos hidráulicos, mesma câmera do render",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/4-render.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeSK_Dh0",
+  "descricao": "Banheiro de suíte contemporâneo, bancada de pedra, banheira livre junto à janela, manhã",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-10/1-planta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeXUFKf0",
+  "descricao": "Planta de casa térrea com piscina sobre a mesa do escritório",
+  "sequencia": "piscina-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 14:40",
+   "2026-11-10 story 15:30",
+   "2026-11-10 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-10/2-estrutura.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeRs3tzk",
+  "descricao": "Casa térrea em estrutura de concreto com piscina escavada, vista aérea ao entardecer",
+  "sequencia": "piscina-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 14:40",
+   "2026-11-10 carrossel 12:20",
+   "2026-11-10 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-10/3-pronta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeY_QgjY",
+  "descricao": "Casa térrea tropical moderna com piscina longa, vista aérea 3/4 ao entardecer",
+  "sequencia": "piscina-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 14:40",
+   "2026-11-10 story 15:30",
+   "2026-11-10 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/moveis-poltrona-01.jpg",
+  "cenario": "móveis em cenários",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeVikBoI",
+  "descricao": "Poltrona de couro caramelo e madeira em sala com tijolo branco, luz da manhã",
+  "sequencia": null,
+  "usos": [
+   "2026-11-10 reel 11:40",
+   "2026-11-10 story 08:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-noite-01.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeWMQ6ps",
+  "descricao": "Piscina iluminada de casa contemporânea à noite, deck de madeira e fachada de vidro",
+  "sequencia": null,
+  "usos": [
+   "2026-11-10 reel 11:40",
+   "2026-11-10 story 21:30"
   ]
  }
 ]

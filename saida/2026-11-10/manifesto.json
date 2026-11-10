@@ -1,0 +1,181 @@
+{
+ "data": "2026-11-10",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Render com IA de banheiro: da planta técnica ao ambiente pronto, sem mudar a janela de lugar.\n\nDá para apresentar um banheiro antes da obra sem a IA redesenhar o projeto? Dá. Cada etapa nasce da anterior, e o prompt diz o que fica igual.\n\n1 · Planta técnica: paredes, porta, banheira, box e as duas cubas definidos por você.\n2 · Planta humanizada: piso de pedra clara, bancada de madeira e plantas, vistos de cima.\n3 · Obra crua: reboco, contrapiso e pontos hidráulicos, na mesma câmera do render.\n4 · Render final: bancada de pedra, banheira livre junto à janela e luz da manhã.\n\nNo banheiro, quem denuncia a IA são os pontos fixos: janela, box e bancada. Se um deles muda de lugar entre a obra e o render, a sequência perde a credibilidade.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para o próximo projeto de banheiro.\n\n#iaparaarquitetos #render #banheiro #designdeinteriores #plantahumanizada",
+   "alt": "Render com IA de banheiro: planta técnica, planta humanizada, obra crua e banheiro pronto com banheira junto à janela, na mesma câmera",
+   "horario": "07:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "08:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-02",
+   "arquivos": [
+    "story-02.mp4"
+   ],
+   "horario": "10:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-02",
+   "arquivos": [
+    "reel-02.mp4"
+   ],
+   "capa": "reel-02-capa.jpg",
+   "duracao": 15.2,
+   "legenda": "IA para arquitetos: precisa de modelo 3D para começar? Não.\n\nA IA de imagem parte de fotos e croquis. Quem já modela tem um caminho a mais.\n\n1 · Foto: do imóvel ou da peça. É a base do antes e depois e da peça no ambiente.\n2 · Croqui: o prompt trava proporções e aberturas, e a IA gera o ambiente.\n3 · Modelo 3D: quem usa Enscape, V-Ray ou Corona tem o Veras dentro do próprio programa.\n\nO ponto de partida muda. O cuidado é o mesmo: a geometria vem de você.\n\nNo manual IA para Arquitetos, o Workflow 01 parte do modelo 3D (render em cerca de 15 min), e os Workflows 02 e 03 partem de fotos.\n\nVocê parte de foto, croqui ou modelo? Conta nos comentários.\n\n#iaparaarquitetos #inteligenciaartificial #arquitetura #render #arquitetos",
+   "alt": "Vídeo de IA para arquitetos: dá para usar IA sem modelo 3D, partindo de foto, croqui ou do modelo no Enscape, V-Ray e Corona",
+   "horario": "11:40",
+   "ia": true
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-01",
+   "arquivos": [
+    "carrossel-01-01.jpg",
+    "carrossel-01-02.jpg",
+    "carrossel-01-03.jpg",
+    "carrossel-01-04.jpg",
+    "carrossel-01-05.jpg",
+    "carrossel-01-06.jpg",
+    "carrossel-01-07.jpg"
+   ],
+   "legenda": "Documentos de obra com IA: atas, memoriais, cronogramas e manual do morador.\n\nA IA escreve os documentos de obra no lugar do arquiteto? Não. Ela organiza e redige a partir das suas anotações, e você confere cada especificação.\n\n1 · Ata de reunião: decisões, pendências, responsáveis e prazos.\n2 · Memorial descritivo: por ambiente, só com os materiais que você listou.\n3 · Cronograma: etapas em ordem semanal, com as dependências.\n4 · Manual do morador: uso, limpeza e manutenção de cada acabamento.\n\nEm cada lâmina tem o trecho de prompt para copiar.\n\nÉ o Workflow 07 do manual IA para Arquitetos: documentos e obra.\n\nSalve para a próxima reunião de obra.\n\n#iaparaarquitetos #obra #memorialdescritivo #escritoriodearquitetura #arquitetura",
+   "alt": "Carrossel sobre documentos de obra com IA: ata de reunião, memorial descritivo, cronograma e manual do morador, com o prompt de cada um",
+   "horario": "12:20",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-03",
+   "arquivos": [
+    "story-03.jpg"
+   ],
+   "horario": "13:00",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-03",
+   "arquivos": [
+    "reel-03.mp4"
+   ],
+   "capa": "reel-03-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Render com IA de casa com piscina: da planta à vista aérea pronta, em 3 etapas.\n\nComo mostrar ao cliente a casa e a piscina antes de a obra começar? Gere a casa pronta, tire a estrutura dela e mantenha a mesma câmera aérea nas duas imagens.\n\n1 · Planta: define a casa térrea, o jardim e a piscina.\n2 · Estrutura: pilares, laje plana e a piscina ainda escavada, vistos do alto.\n3 · Casa pronta: concreto, madeira, vidro e a água acesa no entardecer.\n\nNa piscina, o detalhe que entrega a IA é a borda: comprimento e alinhamento com a casa precisam ser os mesmos na estrutura e no render.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #casacompiscina #arquitetura #inteligenciaartificial",
+   "alt": "Render com IA de casa com piscina: planta na mesa, estrutura de concreto com piscina escavada e casa pronta ao entardecer, mesma vista aérea",
+   "horario": "14:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-04",
+   "arquivos": [
+    "story-04.mp4"
+   ],
+   "horario": "15:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-05",
+   "arquivos": [
+    "story-05.jpg"
+   ],
+   "horario": "17:20",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-04",
+   "arquivos": [
+    "reel-04.mp4"
+   ],
+   "capa": "reel-04-capa.jpg",
+   "duracao": 12.5,
+   "legenda": "Peça no ambiente com IA: uma foto da poltrona vira uma sala pronta, sem mudar o desenho do móvel.\n\nComo mostrar ao cliente a peça especificada dentro de um ambiente? Trave a peça primeiro e só depois descreva o resto.\n\n1 · Trave a peça: estrutura, tecido e proporções iguais aos da foto.\n2 · Monte o ambiente: piso, tapete, estante e luminária.\n3 · Luz e câmera: hora do dia, altura do olho e lente.\n\nAntes de mandar ao cliente, confira braço, pé e encosto. Se a peça mudou, volte ao passo 1.\n\nÉ o Workflow 02 do manual IA para Arquitetos: da foto da peça ao ambiente.\n\nMande para quem especifica mobiliário no seu escritório.\n\n#iaparaarquitetos #designdeinteriores #mobiliario #decoracao #inteligenciaartificial",
+   "alt": "Peça no ambiente com IA: foto de uma poltrona de madeira e tecido bouclé revelada dentro de uma sala clara com tapete e luminária",
+   "horario": "18:10",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-06",
+   "arquivos": [
+    "story-06.jpg"
+   ],
+   "horario": "19:00",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-02",
+   "arquivos": [
+    "carrossel-02-01.jpg",
+    "carrossel-02-02.jpg",
+    "carrossel-02-03.jpg",
+    "carrossel-02-04.jpg",
+    "carrossel-02-05.jpg",
+    "carrossel-02-06.jpg",
+    "carrossel-02-07.jpg"
+   ],
+   "legenda": "Render com IA de banheiro: planta, planta humanizada, obra crua e render, com o prompt de cada etapa.\n\nPor que gerar o render antes da obra crua? Porque a obra sai da imagem pronta, e assim janela, box e bancada ficam no mesmo lugar.\n\n1 · Planta técnica: a base que não muda.\n2 · Planta humanizada: pisos, bancada e plantas, vistos de cima.\n3 · Obra crua: reboco e pontos hidráulicos, na câmera do render.\n4 · Render final: pedra, madeira e a luz da manhã.\n\nArraste e copie os prompts. Cada um diz o que muda e o que fica.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 7 workflows, 60 prompts e 4 vídeo-aulas, por R$ 97 ou 12x de R$ 10,03. Link na bio.\n\n#iaparaarquitetos #render #banheiro #designdeinteriores #arquitetura",
+   "alt": "Carrossel de render com IA de banheiro: planta técnica, planta humanizada, obra crua e render final na mesma câmera, com o prompt de cada etapa",
+   "horario": "19:30",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-05",
+   "arquivos": [
+    "reel-05.mp4"
+   ],
+   "capa": "reel-05-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Planta humanizada e render com IA de apartamento: 4 etapas, a mesma sala e a mesma vista.\n\nComo levar o cliente da planta para dentro da sala sem perder a geometria? Humanize a planta, gere o render na altura do olho e tire a obra crua do render pronto.\n\n1 · Planta técnica: paredes, cozinha, quartos e varanda definidos por você.\n2 · Planta humanizada: piso de madeira clara, sofá e mesa de jantar, vistos de cima.\n3 · Obra crua: concreto, contrapiso e esquadrias, na mesma câmera do render.\n4 · Render final: sala integrada à cozinha e o pôr do sol na cidade.\n\nNo apartamento, a referência que não pode andar é a esquadria da varanda. Ela segura a câmera nas etapas 3 e 4.\n\nÉ a lógica do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar o próximo apartamento.\n\n#iaparaarquitetos #plantahumanizada #render #apartamento #designdeinteriores",
+   "alt": "Planta humanizada e render com IA de apartamento: planta técnica, planta humanizada, obra crua e sala integrada com vista da cidade ao pôr do sol",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-07",
+   "arquivos": [
+    "story-07.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}
