@@ -1,0 +1,13 @@
+Render com IA para projeto de arquitetura: a cozinha do apartamento vista de cima, em obra e pronta, na mesma câmera.
+
+O cliente entende o projeto antes da obra? Entende, quando a imagem mostra o espaço dele com a geometria do projeto, e não uma cozinha qualquer.
+
+1 · Planta humanizada: o layout visto de cima, com ilha, mesa de jantar e sala.
+2 · Obra crua: o mesmo espaço em concreto, com a mesma janela contínua.
+3 · Render: carvalho claro, tampo de pedra e a luz da manhã.
+
+O manual IA para Arquitetos é da Marmer Butik, que atende arquitetos e designers desde 2013. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97.
+
+Conheça o manual em iaparaarquitetos.com.br e siga @ia.para.arquitetos.
+
+#iaparaarquitetos #marmerbutik #arquitetura #cozinhaintegrada #render

@@ -337,5 +337,141 @@
    "2026-11-10 reel 11:40",
    "2026-11-10 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/1-planta.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakZHYG2k",
+  "descricao": "Planta técnica 2D de apartamento compacto: cozinha integrada com ilha, quarto, banheiro e varanda",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/2-humanizada.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakUKJDpM",
+  "descricao": "Mesma planta humanizada em estilo japandi: carvalho claro, ilha, mesa de jantar, sofá de linho e plantas",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 story 10:30",
+   "2026-11-11 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/3-obra.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakU2MnFI",
+  "descricao": "Cozinha e jantar do apartamento em obra crua: concreto, contrapiso e tubulação aparente, mesma janela e câmera do render",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/4-render.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakda57gM",
+  "descricao": "Cozinha integrada japandi: ilha de carvalho com tampo de pedra, mesa de jantar e janela contínua com vista da cidade, luz da manhã",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 marmer 14:00",
+   "2026-11-11 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-11/1-planta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakTAJ3X4",
+  "descricao": "Planta de casa de praia térrea a lápis sobre mesa de madeira, com varanda, deck e piscina, régua e lapiseira",
+  "sequencia": "praia-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 14:40",
+   "2026-11-11 carrossel 19:30",
+   "2026-11-11 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-11/2-estrutura.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakatYbls",
+  "descricao": "Casa de praia em estrutura: pilares e caibros de madeira, sem telhas, piscina escavada, mesma vista aérea com coqueiros e mar",
+  "sequencia": "praia-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 14:40",
+   "2026-11-11 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-11/3-pronta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakdMgGpU",
+  "descricao": "Casa de praia térrea tropical moderna: madeira, pedra, telha cerâmica, varanda, deck e piscina, vista aérea 3/4 pela manhã",
+  "sequencia": "praia-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 14:40",
+   "2026-11-11 carrossel 19:30",
+   "2026-11-11 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-11/3-pronta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-11",
+  "canva_media": "MAHakRzWCU0",
+  "descricao": "Casa na montanha de pedra e vidro com deck em balanço sobre a encosta, araucárias e neblina da manhã",
+  "sequencia": "montanha-2026-11-11",
+  "usos": [
+   "2026-11-11 story 08:30",
+   "2026-11-11 reel 11:40",
+   "2026-11-11 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-11/1-planta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-11",
+  "canva_media": "MAHakVPhS84",
+  "descricao": "Planta e corte de casa na montanha a nanquim sobre mesa de madeira, curvas de nível, régua e café, luz de neblina",
+  "sequencia": "montanha-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-11/2-estrutura.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-11",
+  "canva_media": "MAHakVc4mo8",
+  "descricao": "Casa na montanha em estrutura de concreto e aço, deck em balanço sem acabamento, andaimes, araucárias e neblina; mesma câmera da casa pronta",
+  "sequencia": "montanha-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-varanda-01.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakccLrcM",
+  "descricao": "Varanda coberta de casa de praia ao entardecer: forro de ripas, piso de pedra, sofá de tecido cru e vista para o mar",
+  "sequencia": null,
+  "usos": [
+   "2026-11-11 reel 11:40",
+   "2026-11-11 carrossel 12:20",
+   "2026-11-11 story 19:00"
+  ]
  }
 ]

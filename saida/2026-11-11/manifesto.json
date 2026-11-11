@@ -1,0 +1,180 @@
+{
+ "data": "2026-11-11",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Render com IA de cozinha integrada: da planta técnica ao ambiente pronto, sem a janela mudar de lugar.\n\nDá para mostrar ao cliente a cozinha antes da obra sem a IA redesenhar o apartamento? Dá. Cada etapa nasce da anterior, e o prompt diz o que fica igual.\n\n1 · Planta técnica: paredes, ilha, bancada e varanda definidas por você.\n2 · Planta humanizada: carvalho claro, mesa de jantar e sofá de linho, vistos de cima.\n3 · Obra crua: concreto, contrapiso e tubulação aparente, na mesma câmera do render.\n4 · Render final: ilha de carvalho, tampo de pedra e a luz da manhã pela janela contínua.\n\nNo apartamento, a janela é a régua da sequência. Se ela muda de largura entre a obra e o render, o cliente percebe na hora.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar a próxima cozinha.\n\n#iaparaarquitetos #render #cozinhaintegrada #japandi #designdeinteriores",
+   "alt": "Render com IA de cozinha integrada japandi: planta técnica, planta humanizada, obra crua e cozinha pronta com ilha de carvalho, na mesma câmera",
+   "horario": "07:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "08:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-02",
+   "arquivos": [
+    "story-02.mp4"
+   ],
+   "horario": "10:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-02",
+   "arquivos": [
+    "reel-02.mp4"
+   ],
+   "capa": "reel-02-capa.jpg",
+   "duracao": 14.4,
+   "legenda": "Render com IA a partir da foto do cliente: é seguro? Só com autorização dele.\n\nA foto do imóvel, as plantas e os documentos pertencem ao cliente. Antes de subir qualquer imagem numa ferramenta de IA, peça a autorização.\n\n1 · Autorização: combine por escrito que as fotos vão para a simulação.\n2 · Limpeza: tire placa, fachada vizinha, documento na mesa e rosto de quem aparece.\n3 · Transparência: na apresentação, a imagem feita com IA vai identificada como estudo.\n\nO Workflow 03 do manual IA para Arquitetos parte da foto do imóvel para chegar ao antes e depois, mantendo a arquitetura. O cuidado com a foto vem antes do primeiro prompt.\n\nVocê já pede essa autorização no contrato? Conta nos comentários.\n\n#iaparaarquitetos #antesedepois #escritoriodearquitetura #arquitetura #inteligenciaartificial",
+   "alt": "Vídeo sobre render com IA a partir da foto do cliente: autorização, limpeza de dados da imagem e simulação identificada na apresentação",
+   "horario": "11:40",
+   "ia": true
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-01",
+   "arquivos": [
+    "carrossel-01-01.jpg",
+    "carrossel-01-02.jpg",
+    "carrossel-01-03.jpg",
+    "carrossel-01-04.jpg",
+    "carrossel-01-05.jpg",
+    "carrossel-01-06.jpg",
+    "carrossel-01-07.jpg"
+   ],
+   "legenda": "Render com IA também vira post: o Instagram do escritório de arquitetura em 2 h por semana.\n\nComo manter o Instagram do escritório ativo sem perder horas de projeto? Reserve um bloco fixo de 2 h por semana e chegue nele com pautas e prompts prontos.\n\n1 · Agenda: um bloco fixo de 2 h, sempre no mesmo dia.\n2 · Pautas: obra, bastidor, antes e depois e dúvida de cliente.\n3 · Legenda: a pergunta do cliente, a resposta curta e as decisões do projeto.\n4 · Revisão: materiais, medidas e ortografia conferidos por você.\n\nEm cada lâmina tem o trecho de prompt para copiar.\n\nÉ o Workflow 06 do manual IA para Arquitetos: marketing em 2 h por semana, com rotina, 12 pautas e prompts de legenda.\n\nSalve para organizar a próxima semana.\n\n#iaparaarquitetos #marketingparaarquitetos #escritoriodearquitetura #arquitetura #inteligenciaartificial",
+   "alt": "Carrossel sobre render com IA e Instagram de escritório de arquitetura em 2 horas por semana: agenda, pautas, legenda e revisão",
+   "horario": "12:20",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-03",
+   "arquivos": [
+    "story-03.jpg"
+   ],
+   "horario": "13:00",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-03",
+   "arquivos": [
+    "reel-03.mp4"
+   ],
+   "capa": "reel-03-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Render com IA de casa na praia: da planta sobre a mesa à vista aérea pronta, em 3 etapas.\n\nComo mostrar ao cliente a casa de praia antes da obra começar? Gere a casa pronta, tire a estrutura dela e mantenha a mesma câmera aérea nas duas imagens.\n\n1 · Planta: define a casa térrea, a varanda, o deck e a piscina.\n2 · Estrutura: pilares e caibros de madeira, ainda sem telhas, e a piscina escavada.\n3 · Casa pronta: madeira, pedra clara, telha cerâmica e a luz da manhã sobre o mar.\n\nNa praia, o que segura a sequência é a linha do mar e dos coqueiros. Se ela muda entre a estrutura e o render, a câmera mudou junto.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #casadepraia #arquitetura #inteligenciaartificial",
+   "alt": "Render com IA de casa na praia: planta sobre a mesa, estrutura de madeira com piscina escavada e casa pronta com coqueiros e mar, mesma vista aérea",
+   "horario": "14:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-04",
+   "arquivos": [
+    "story-04.mp4"
+   ],
+   "horario": "15:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-05",
+   "arquivos": [
+    "story-05.jpg"
+   ],
+   "horario": "17:20",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-04",
+   "arquivos": [
+    "reel-04.mp4"
+   ],
+   "capa": "reel-04-capa.jpg",
+   "duracao": 12.5,
+   "legenda": "Render com IA a partir do modelo 3D: de cerca de 4 h para cerca de 15 min por imagem de apresentação.\n\nComo sair do modelo sem textura para o render sem a IA mexer no projeto? Trave a geometria primeiro e só depois descreva materiais, luz e câmera.\n\n1 · Trave a geometria: pé-direito, mezanino, escada, caixilhos e enquadramento iguais aos do modelo.\n2 · Dê nome aos materiais: piso, madeira e tecidos do memorial, sem \"acabamento bonito\".\n3 · Luz e câmera: hora do dia, direção do sol e altura do olho.\n\nA conta num escritório com 2 projetos por mês: 8 renders × (4 h − 15 min) = 30 h. Somando o resto da rotina, são cerca de 40 h de volta por mês.\n\nÉ o Workflow 01 do manual IA para Arquitetos: do modelo 3D ao render. Quem usa Enscape, V-Ray ou Corona também pode fazer isso com o Veras, dentro do próprio programa.\n\nSalve para o próximo render de apresentação.\n\n#iaparaarquitetos #render #renderizacao #maquete3d #arquitetura",
+   "alt": "Render com IA: modelo 3D branco de sala com pé-direito duplo e mezanino revelado como render fotorrealista do mesmo ambiente",
+   "horario": "18:10",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-06",
+   "arquivos": [
+    "story-06.jpg"
+   ],
+   "horario": "19:00",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-02",
+   "arquivos": [
+    "carrossel-02-01.jpg",
+    "carrossel-02-02.jpg",
+    "carrossel-02-03.jpg",
+    "carrossel-02-04.jpg",
+    "carrossel-02-05.jpg",
+    "carrossel-02-06.jpg"
+   ],
+   "legenda": "Render com IA de casa na praia: planta, estrutura e casa pronta, com o prompt de cada etapa.\n\nPor que gerar a casa pronta antes da estrutura? Porque a estrutura sai da imagem pronta, e assim o mar, os coqueiros e a piscina ficam no mesmo lugar.\n\n1 · Planta: a base que não muda.\n2 · Estrutura: pilares e caibros de madeira, sem telhas, na câmera do render.\n3 · Casa pronta: madeira, pedra clara, telha cerâmica e a luz da manhã.\n\nArraste e copie os prompts. Cada um diz o que muda e o que fica.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 7 workflows, 60 prompts e 4 vídeo-aulas, por R$ 97 ou 12x de R$ 10,03. Link na bio.\n\n#iaparaarquitetos #render #casadepraia #arquiteturatropical #arquitetura",
+   "alt": "Carrossel de render com IA de casa na praia: planta, estrutura de madeira com piscina escavada e casa pronta, mesma vista aérea, com o prompt de cada etapa",
+   "horario": "19:30",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-05",
+   "arquivos": [
+    "reel-05.mp4"
+   ],
+   "capa": "reel-05-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Render com IA de casa na montanha: do corte na prancheta à casa pronta na neblina, com a mesma câmera.\n\nComo apresentar um deck em balanço antes de existir a estrutura? Desenhe o corte, gere a casa pronta e tire dela a estrutura, sem mudar o ângulo nem a encosta.\n\n1 · Planta e corte: a implantação nas curvas de nível e o deck sobre o terreno.\n2 · Estrutura: pilares de concreto, vigas de aço e o deck ainda sem piso.\n3 · Casa pronta: pedra local, vidro, caixilho preto e a neblina da manhã nas araucárias.\n\nEm terreno inclinado, a encosta é a referência. Se a IA muda o desnível, muda o projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nMande para quem está com um projeto na serra.\n\n#iaparaarquitetos #render #casadecampo #arquiteturacontemporanea #inteligenciaartificial",
+   "alt": "Render com IA de casa na montanha: planta e corte sobre a mesa, estrutura de concreto e aço com deck em balanço e casa pronta de pedra e vidro na neblina",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-07",
+   "arquivos": [
+    "story-07.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}

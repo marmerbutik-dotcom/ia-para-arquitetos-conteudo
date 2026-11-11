@@ -1,0 +1,399 @@
+{
+ "data": "2026-11-11",
+ "obs": "Quarta. Rodízio: casa na praia, casa na montanha e apartamento (cozinha japandi). 11 imagens novas no Canva: 3 sequências (apartamento 4 etapas, praia 3, montanha 3) e a varanda da praia. Semrush: 'render com IA' (480 buscas/mês no Brasil) na primeira linha das legendas. Métricas de 03 a 10/11: reels de pergunta e lista tiveram mais alcance que os de evolução, por isso os 2 reels fora do estilo evolução são um 'cenas' em pergunta (AEO) e um wipe com a conta do Workflow 01.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "07:40",
+   "ia": true,
+   "gancho": [
+    "Da planta à",
+    "cozinha pronta"
+   ],
+   "rotulo": "APARTAMENTO",
+   "etapas": [
+    {
+     "img": "novas/apartamento-2026-11-11/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/apartamento-2026-11-11/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: carvalho claro, ilha, mesa de jantar e linho cru"
+    },
+    {
+     "img": "novas/apartamento-2026-11-11/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.45,
+      0.48
+     ]
+    },
+    {
+     "img": "novas/apartamento-2026-11-11/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma janela: ilha de carvalho, tampo de pedra e luz da manhã"
+    }
+   ],
+   "frase": [
+    "Mesma câmera.",
+    "Mesma arquitetura."
+   ],
+   "legenda": "Render com IA de cozinha integrada: da planta técnica ao ambiente pronto, sem a janela mudar de lugar.\n\nDá para mostrar ao cliente a cozinha antes da obra sem a IA redesenhar o apartamento? Dá. Cada etapa nasce da anterior, e o prompt diz o que fica igual.\n\n1 · Planta técnica: paredes, ilha, bancada e varanda definidas por você.\n2 · Planta humanizada: carvalho claro, mesa de jantar e sofá de linho, vistos de cima.\n3 · Obra crua: concreto, contrapiso e tubulação aparente, na mesma câmera do render.\n4 · Render final: ilha de carvalho, tampo de pedra e a luz da manhã pela janela contínua.\n\nNo apartamento, a janela é a régua da sequência. Se ela muda de largura entre a obra e o render, o cliente percebe na hora.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar a próxima cozinha.\n\n#iaparaarquitetos #render #cozinhaintegrada #japandi #designdeinteriores",
+   "alt": "Render com IA de cozinha integrada japandi: planta técnica, planta humanizada, obra crua e cozinha pronta com ilha de carvalho, na mesma câmera"
+  },
+  {
+   "tipo": "cenas",
+   "horario": "11:40",
+   "ia": true,
+   "cenas": [
+    {
+     "fundo": "w3-antes.jpg",
+     "eb": "Pergunta de todo escritório",
+     "titulo": "Posso usar a foto do cliente *na IA?*",
+     "dur": 2.8
+    },
+    {
+     "num": "01",
+     "titulo": "Só com *autorização.*",
+     "corpo": "A foto do imóvel e as plantas são do cliente. Peça a autorização antes de subir qualquer imagem.",
+     "dur": 3.4
+    },
+    {
+     "num": "02",
+     "titulo": "Tire o que *identifica.*",
+     "corpo": "Placa, fachada vizinha, documento na mesa e rosto de quem aparece saem antes do prompt.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/praia-varanda-01.jpg",
+     "num": "03",
+     "titulo": "Diga que *é simulação.*",
+     "corpo": "Na apresentação, a imagem feita com IA vai identificada como estudo, não como foto.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/montanha-2026-11-11/3-pronta.jpg",
+     "eb": "Workflow 03",
+     "titulo": "A foto é do cliente. *O cuidado é seu.*",
+     "corpo": "Da foto do imóvel ao antes e depois",
+     "dur": 2.8
+    }
+   ],
+   "legenda": "Render com IA a partir da foto do cliente: é seguro? Só com autorização dele.\n\nA foto do imóvel, as plantas e os documentos pertencem ao cliente. Antes de subir qualquer imagem numa ferramenta de IA, peça a autorização.\n\n1 · Autorização: combine por escrito que as fotos vão para a simulação.\n2 · Limpeza: tire placa, fachada vizinha, documento na mesa e rosto de quem aparece.\n3 · Transparência: na apresentação, a imagem feita com IA vai identificada como estudo.\n\nO Workflow 03 do manual IA para Arquitetos parte da foto do imóvel para chegar ao antes e depois, mantendo a arquitetura. O cuidado com a foto vem antes do primeiro prompt.\n\nVocê já pede essa autorização no contrato? Conta nos comentários.\n\n#iaparaarquitetos #antesedepois #escritoriodearquitetura #arquitetura #inteligenciaartificial",
+   "alt": "Vídeo sobre render com IA a partir da foto do cliente: autorização, limpeza de dados da imagem e simulação identificada na apresentação"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "14:40",
+   "ia": true,
+   "gancho": [
+    "Do projeto à",
+    "casa na praia"
+   ],
+   "rotulo": "CASA NA PRAIA",
+   "etapas": [
+    {
+     "img": "novas/praia-2026-11-11/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/praia-2026-11-11/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: casa térrea, varanda contínua, deck e piscina pequena"
+    },
+    {
+     "img": "novas/praia-2026-11-11/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: madeira, pedra clara, telha cerâmica e luz da manhã"
+    }
+   ],
+   "frase": [
+    "Apresente a casa",
+    "antes da obra."
+   ],
+   "legenda": "Render com IA de casa na praia: da planta sobre a mesa à vista aérea pronta, em 3 etapas.\n\nComo mostrar ao cliente a casa de praia antes da obra começar? Gere a casa pronta, tire a estrutura dela e mantenha a mesma câmera aérea nas duas imagens.\n\n1 · Planta: define a casa térrea, a varanda, o deck e a piscina.\n2 · Estrutura: pilares e caibros de madeira, ainda sem telhas, e a piscina escavada.\n3 · Casa pronta: madeira, pedra clara, telha cerâmica e a luz da manhã sobre o mar.\n\nNa praia, o que segura a sequência é a linha do mar e dos coqueiros. Se ela muda entre a estrutura e o render, a câmera mudou junto.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #casadepraia #arquitetura #inteligenciaartificial",
+   "alt": "Render com IA de casa na praia: planta sobre a mesa, estrutura de madeira com piscina escavada e casa pronta com coqueiros e mar, mesma vista aérea"
+  },
+  {
+   "tipo": "wipe",
+   "par": "w1",
+   "horario": "18:10",
+   "eb": "Workflow 01 · Do modelo ao render",
+   "gancho": "Modelo sem textura. *Render em cerca de 15 min.*",
+   "passos": [
+    {
+     "titulo": "1. Trave *a geometria.*",
+     "prompt": "Use esta imagem como base: pé-direito duplo, mezanino, escada e caixilhos exatamente como estão."
+    },
+    {
+     "titulo": "2. Dê nome *aos materiais.*",
+     "prompt": "Piso de cimento queimado, madeira no mezanino e na escada, sofás de linho cru."
+    },
+    {
+     "titulo": "3. Luz e *câmera.*",
+     "prompt": "Fim de tarde, sol baixo entrando pelas janelas, câmera na altura do olho, verticais corrigidas."
+    }
+   ],
+   "eb_fim": "A conta do escritório",
+   "final": "8 renders × 3 h 45. *Cerca de 30 h no mês.*",
+   "resumo": "Geometria travada + materiais + luz e câmera.",
+   "fim": {
+    "eb": "IA para arquitetos",
+    "titulo": "O passo a passo está *no Workflow 01.*",
+    "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+   },
+   "legenda": "Render com IA a partir do modelo 3D: de cerca de 4 h para cerca de 15 min por imagem de apresentação.\n\nComo sair do modelo sem textura para o render sem a IA mexer no projeto? Trave a geometria primeiro e só depois descreva materiais, luz e câmera.\n\n1 · Trave a geometria: pé-direito, mezanino, escada, caixilhos e enquadramento iguais aos do modelo.\n2 · Dê nome aos materiais: piso, madeira e tecidos do memorial, sem \"acabamento bonito\".\n3 · Luz e câmera: hora do dia, direção do sol e altura do olho.\n\nA conta num escritório com 2 projetos por mês: 8 renders × (4 h − 15 min) = 30 h. Somando o resto da rotina, são cerca de 40 h de volta por mês.\n\nÉ o Workflow 01 do manual IA para Arquitetos: do modelo 3D ao render. Quem usa Enscape, V-Ray ou Corona também pode fazer isso com o Veras, dentro do próprio programa.\n\nSalve para o próximo render de apresentação.\n\n#iaparaarquitetos #render #renderizacao #maquete3d #arquitetura",
+   "alt": "Render com IA: modelo 3D branco de sala com pé-direito duplo e mezanino revelado como render fotorrealista do mesmo ambiente"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Da prancheta à",
+    "casa na serra"
+   ],
+   "rotulo": "CASA NA MONTANHA",
+   "etapas": [
+    {
+     "img": "novas/montanha-2026-11-11/1-planta.jpg",
+     "nome": "Planta e corte"
+    },
+    {
+     "img": "novas/montanha-2026-11-11/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir deste corte: deck em balanço, pilares de concreto e muro de pedra"
+    },
+    {
+     "img": "novas/montanha-2026-11-11/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera, mesma encosta: pedra, vidro, caixilho preto e neblina"
+    }
+   ],
+   "frase": [
+    "A geometria fica.",
+    "O resto muda."
+   ],
+   "legenda": "Render com IA de casa na montanha: do corte na prancheta à casa pronta na neblina, com a mesma câmera.\n\nComo apresentar um deck em balanço antes de existir a estrutura? Desenhe o corte, gere a casa pronta e tire dela a estrutura, sem mudar o ângulo nem a encosta.\n\n1 · Planta e corte: a implantação nas curvas de nível e o deck sobre o terreno.\n2 · Estrutura: pilares de concreto, vigas de aço e o deck ainda sem piso.\n3 · Casa pronta: pedra local, vidro, caixilho preto e a neblina da manhã nas araucárias.\n\nEm terreno inclinado, a encosta é a referência. Se a IA muda o desnível, muda o projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nMande para quem está com um projeto na serra.\n\n#iaparaarquitetos #render #casadecampo #arquiteturacontemporanea #inteligenciaartificial",
+   "alt": "Render com IA de casa na montanha: planta e corte sobre a mesa, estrutura de concreto e aço com deck em balanço e casa pronta de pedra e vidro na neblina"
+  }
+ ],
+ "carrosseis": [
+  {
+   "horario": "12:20",
+   "tema": "Instagram do escritório",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/praia-varanda-01.jpg",
+     "eb": "Render com IA vira post",
+     "titulo": "O Instagram do escritório *em 2 h por semana.*",
+     "sub": "A rotina do Workflow 06, com os prompts de legenda.",
+     "fs": 92
+    },
+    {
+     "eb": "O problema",
+     "titulo": "Projeto bom sem post *não aparece.*",
+     "corpo": "O Instagram parado não é falta de assunto. Cada render e cada visita de obra já é uma pauta."
+    },
+    {
+     "num": "01",
+     "eb": "Agenda",
+     "titulo": "Um bloco fixo *de 2 h.*",
+     "corpo": "Sempre no mesmo dia da semana. Fora dele, o Instagram não entra no expediente."
+    },
+    {
+     "num": "02",
+     "eb": "Pautas",
+     "titulo": "Pauta pronta *antes de abrir o app.*",
+     "prompt": "Liste pautas para o Instagram de um escritório de arquitetura a partir destes projetos: obra, bastidor, antes e depois e dúvida de cliente."
+    },
+    {
+     "num": "03",
+     "eb": "Legenda",
+     "titulo": "A legenda *sai do projeto.*",
+     "prompt": "Escreva a legenda deste projeto: a pergunta do cliente, a resposta em 2 frases e as 3 decisões que resolveram o espaço."
+    },
+    {
+     "num": "04",
+     "eb": "Revisão",
+     "titulo": "A IA redige. *Você assina.*",
+     "corpo": "Confira nomes de materiais, medidas e ortografia antes de agendar. E foto de cliente só com autorização."
+    },
+    {
+     "eb": "Workflow 06",
+     "titulo": "Marketing em 2 h *por semana.*",
+     "corpo": "Rotina, 12 pautas e prompts de legenda no manual IA para Arquitetos. Salve para a próxima segunda."
+    }
+   ],
+   "legenda": "Render com IA também vira post: o Instagram do escritório de arquitetura em 2 h por semana.\n\nComo manter o Instagram do escritório ativo sem perder horas de projeto? Reserve um bloco fixo de 2 h por semana e chegue nele com pautas e prompts prontos.\n\n1 · Agenda: um bloco fixo de 2 h, sempre no mesmo dia.\n2 · Pautas: obra, bastidor, antes e depois e dúvida de cliente.\n3 · Legenda: a pergunta do cliente, a resposta curta e as decisões do projeto.\n4 · Revisão: materiais, medidas e ortografia conferidos por você.\n\nEm cada lâmina tem o trecho de prompt para copiar.\n\nÉ o Workflow 06 do manual IA para Arquitetos: marketing em 2 h por semana, com rotina, 12 pautas e prompts de legenda.\n\nSalve para organizar a próxima semana.\n\n#iaparaarquitetos #marketingparaarquitetos #escritoriodearquitetura #arquitetura #inteligenciaartificial",
+   "alt": "Carrossel sobre render com IA e Instagram de escritório de arquitetura em 2 horas por semana: agenda, pautas, legenda e revisão"
+  },
+  {
+   "horario": "19:30",
+   "tema": "Casa na praia com IA",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/praia-2026-11-11/3-pronta.jpg",
+     "eb": "Render com IA",
+     "titulo": "Da planta à *casa na praia.*",
+     "sub": "3 etapas, a mesma câmera e o prompt de cada uma.",
+     "fs": 100
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/praia-2026-11-11/1-planta.jpg",
+     "nome": "Planta",
+     "n": "01",
+     "prompt": "Use esta planta como base: casa térrea, varanda contínua, deck e piscina não mudam."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/praia-2026-11-11/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "n": "02",
+     "prompt": "Mesma casa e mesma câmera aérea: só pilares e caibros, sem telhas, piscina escavada."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/praia-2026-11-11/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "n": "03",
+     "prompt": "Mesma câmera aérea: madeira, pedra clara, telha cerâmica, coqueiros e luz da manhã."
+    },
+    {
+     "eb": "O cuidado principal",
+     "titulo": "Gere a casa pronta *antes da estrutura.*",
+     "corpo": "A estrutura sai da imagem pronta. Assim o mar, os coqueiros e a piscina ficam no mesmo lugar nas duas."
+    },
+    {
+     "tipo": "cta",
+     "eb": "IA para arquitetos",
+     "titulo": "O manual de IA que faltava *no seu escritório.*",
+     "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+    }
+   ],
+   "legenda": "Render com IA de casa na praia: planta, estrutura e casa pronta, com o prompt de cada etapa.\n\nPor que gerar a casa pronta antes da estrutura? Porque a estrutura sai da imagem pronta, e assim o mar, os coqueiros e a piscina ficam no mesmo lugar.\n\n1 · Planta: a base que não muda.\n2 · Estrutura: pilares e caibros de madeira, sem telhas, na câmera do render.\n3 · Casa pronta: madeira, pedra clara, telha cerâmica e a luz da manhã.\n\nArraste e copie os prompts. Cada um diz o que muda e o que fica.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 7 workflows, 60 prompts e 4 vídeo-aulas, por R$ 97 ou 12x de R$ 10,03. Link na bio.\n\n#iaparaarquitetos #render #casadepraia #arquiteturatropical #arquitetura",
+   "alt": "Carrossel de render com IA de casa na praia: planta, estrutura de madeira com piscina escavada e casa pronta, mesma vista aérea, com o prompt de cada etapa"
+  }
+ ],
+ "stories": [
+  {
+   "tipo": "foto",
+   "horario": "08:30",
+   "img": "novas/montanha-2026-11-11/3-pronta.jpg",
+   "eb": "Bom dia, arquiteto",
+   "titulo": "Neblina também *entra no prompt.*",
+   "corpo": "Hora do dia e clima mudam a imagem mais que o estilo. Escreva os dois antes de pedir materiais.",
+   "fs": 96
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "10:30",
+   "gancho": [
+    "Mesmo apartamento,",
+    "visto de cima"
+   ],
+   "rotulo": "APARTAMENTO",
+   "etapas": [
+    {
+     "img": "novas/apartamento-2026-11-11/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/apartamento-2026-11-11/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize: carvalho claro, linho cru e plantas, mesmas paredes"
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ]
+  },
+  {
+   "tipo": "dica",
+   "horario": "13:00",
+   "eb": "Prompt do dia · salve",
+   "titulo": "Na praia, o material *vem no prompt.*",
+   "prompt": "Fachada de casa de praia: madeira cumaru, pedra clara e telha cerâmica. Mesma câmera aérea, luz suave da manhã.",
+   "rotulo": "Copie o prompt"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "15:30",
+   "gancho": [
+    "Da planta",
+    "à beira-mar"
+   ],
+   "rotulo": "CASA NA PRAIA",
+   "etapas": [
+    {
+     "img": "novas/praia-2026-11-11/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/praia-2026-11-11/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "luz",
+     "prompt": "mesma casa: varanda contínua, deck, piscina e coqueiros pela manhã"
+    }
+   ],
+   "frase": [
+    "O arquiteto decide.",
+    "A IA executa."
+   ]
+  },
+  {
+   "tipo": "lista",
+   "horario": "17:20",
+   "eb": "O que vem no manual",
+   "titulo": "IA para Arquitetos, *por dentro.*",
+   "itens": [
+    [
+     "7 workflows",
+     "do render aos documentos de obra"
+    ],
+    [
+     "60 prompts",
+     "prontos para copiar"
+    ],
+    [
+     "4 vídeo-aulas",
+     "com o passo a passo"
+    ],
+    [
+     "7 templates",
+     "em PDF e Word"
+    ]
+   ]
+  },
+  {
+   "tipo": "foto",
+   "horario": "19:00",
+   "img": "novas/praia-varanda-01.jpg",
+   "eb": "Cena de fim de tarde",
+   "titulo": "Sol baixo na lateral. *Luminária acesa.*",
+   "corpo": "Para o entardecer, peça a direção do sol e as luzes da casa. Sem isso, a cena fica com luz de meio-dia.",
+   "fs": 96
+  },
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/apartamento-2026-11-11/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}
