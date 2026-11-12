@@ -1,0 +1,403 @@
+{
+ "data": "2026-11-12",
+ "obs": "Quinta. Rodízio: casa de bairro (sala do sobrado e fachada), chalé de montanha e rancho na beira do rio. 11 imagens novas no Canva: 3 sequências (sala do sobrado 4 etapas, sobrado na rua 3, chalé 3) e a varanda do rancho. Palavra-chave do dia: 'planta humanizada' (Semrush sem saldo de API; termo escolhido pelo tema), com 'render com IA' nas peças de fachada. Métricas de 04 a 11/11: o reel de evolução com 'planta humanizada' na primeira linha (chalé, 76 de alcance) foi o melhor do estilo; perguntas e listas seguem fortes, por isso os 2 reels fora do estilo são uma pergunta-mito e uma lista de prompts por cenário.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "07:40",
+   "ia": true,
+   "gancho": [
+    "Da planta à",
+    "sala do sobrado"
+   ],
+   "rotulo": "CASA DE BAIRRO",
+   "etapas": [
+    {
+     "img": "novas/sobrado-2026-11-12/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/sobrado-2026-11-12/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: taco de peroba, linho cru e quintal, mesmas paredes"
+    },
+    {
+     "img": "novas/sobrado-2026-11-12/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.48,
+      0.55
+     ]
+    },
+    {
+     "img": "novas/sobrado-2026-11-12/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesmo vão: taco de peroba, palhinha e luz da tarde"
+    }
+   ],
+   "frase": [
+    "Mesma câmera.",
+    "Mesma arquitetura."
+   ],
+   "legenda": "Planta humanizada com IA de sobrado: da planta técnica à sala pronta, sem o vão do quintal mudar de lugar.\n\nComo levar o cliente da planta para dentro da sala sem a IA redesenhar a casa? Faça cada etapa a partir da anterior e diga no prompt o que fica igual.\n\n1 · Planta técnica: lote estreito, escada lateral, cozinha com ilha e porta para o quintal, definidos por você.\n2 · Planta humanizada: taco de peroba, sofá de linho e grama no quintal, vistos de cima.\n3 · Obra crua: reboco, contrapiso e escada de concreto, na mesma câmera do render.\n4 · Render final: mesa de madeira, cadeiras de palhinha e a luz da tarde vinda do quintal.\n\nNo sobrado de lote estreito, a escada é a régua da sequência. Se ela troca de lado entre a obra e o render, a imagem deixou de ser o seu projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar o próximo sobrado.\n\n#iaparaarquitetos #plantahumanizada #sobrado #designdeinteriores #render",
+   "alt": "Planta humanizada com IA de sobrado: planta técnica, planta humanizada, obra crua e sala pronta com taco de peroba, na mesma câmera"
+  },
+  {
+   "tipo": "cenas",
+   "horario": "11:40",
+   "ia": true,
+   "cenas": [
+    {
+     "fundo": "novas/sobrado-2026-11-12/3-obra.jpg",
+     "eb": "Pergunta de cliente",
+     "titulo": "Planta humanizada com IA *é projeto?*",
+     "dur": 2.8
+    },
+    {
+     "num": "01",
+     "titulo": "Não confere *as medidas.*",
+     "corpo": "As cotas vêm da sua planta técnica. A IA desenha por cima e não verifica nada.",
+     "dur": 3.4
+    },
+    {
+     "num": "02",
+     "titulo": "Não resolve *a obra.*",
+     "corpo": "Estrutura, instalações e norma continuam sendo decisão de quem projeta.",
+     "dur": 3.4
+    },
+    {
+     "num": "03",
+     "titulo": "Não assina *o projeto.*",
+     "corpo": "A responsabilidade técnica é do arquiteto. A imagem só apresenta o que você decidiu.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/sobrado-2026-11-12/1-planta.jpg",
+     "eb": "O papel dela",
+     "titulo": "Ela apresenta. *Você projeta.*",
+     "corpo": "A geometria vem do seu projeto",
+     "dur": 2.8
+    }
+   ],
+   "legenda": "Planta humanizada com IA é projeto? Não. É imagem de apresentação feita a partir do seu projeto.\n\nA IA deixa a planta legível para o cliente: pisos, móveis, sombras e paisagismo. As decisões técnicas continuam com você.\n\n1 · Medidas: as cotas vêm da sua planta técnica. A IA desenha por cima e não confere as medidas.\n2 · Obra: estrutura, instalações e norma seguem sendo decisão de quem projeta.\n3 · Assinatura: a responsabilidade técnica é do arquiteto, nunca da ferramenta.\n\nAntes de enviar ao cliente, sobreponha a planta humanizada à técnica e confira paredes, portas e janelas.\n\nNo manual IA para Arquitetos, a regra vale para os 7 workflows, a começar pelo Workflow 01, do modelo 3D ao render: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nVocê mostra a planta humanizada antes do projeto executivo? Conta nos comentários.\n\n#iaparaarquitetos #plantahumanizada #arquitetos #arquitetura #inteligenciaartificial",
+   "alt": "Vídeo sobre planta humanizada com IA: não confere medidas, não resolve a obra e não assina o projeto; a decisão é do arquiteto"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "14:40",
+   "ia": true,
+   "gancho": [
+    "Da planta ao",
+    "sobrado na rua"
+   ],
+   "rotulo": "CASA DE BAIRRO",
+   "etapas": [
+    {
+     "img": "novas/bairro-2026-11-12/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/bairro-2026-11-12/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: sobrado em lote estreito, garagem e varanda em cima"
+    },
+    {
+     "img": "novas/bairro-2026-11-12/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: tijolo claro, brises de madeira, portão de ripas e ipê"
+    }
+   ],
+   "frase": [
+    "Apresente a casa",
+    "antes da obra."
+   ],
+   "legenda": "Render com IA de sobrado: da planta sobre a mesa à fachada pronta na rua, com a mesma câmera aérea.\n\nComo mostrar ao cliente o sobrado antes da obra, já com a rua e os vizinhos? Gere a casa pronta, tire a estrutura dela e mantenha o mesmo enquadramento nas duas imagens.\n\n1 · Planta: o lote estreito, a garagem, a escada e a varanda do andar de cima.\n2 · Estrutura: pilares, lajes e blocos, com andaime e o mesmo ipê na calçada.\n3 · Casa pronta: tijolo claro, brises de madeira, portão de ripas e as luzes acesas no entardecer.\n\nNa casa de bairro, a referência é a rua: calçada, árvore e casas vizinhas. Se elas mudam entre a estrutura e o render, a câmera mudou junto.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #sobrado #fachada #arquitetura",
+   "alt": "Render com IA de sobrado em rua residencial: planta sobre a mesa, estrutura de concreto com andaime e fachada pronta de tijolo ao entardecer, mesma vista aérea"
+  },
+  {
+   "tipo": "cenas",
+   "horario": "18:10",
+   "ia": true,
+   "cenas": [
+    {
+     "fundo": "novas/bairro-2026-11-12/3-pronta.jpg",
+     "eb": "Prompt na prática",
+     "titulo": "Cada casa pede *outro prompt.*",
+     "dur": 2.8
+    },
+    {
+     "num": "01",
+     "eb": "Sobrado de bairro",
+     "titulo": "A rua *entra na cena.*",
+     "prompt": "Sobrado em rua residencial: calçada com ipê, casas vizinhas e luzes acesas no entardecer.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/chale-2026-11-12/3-pronto.jpg",
+     "num": "02",
+     "eb": "Chalé na serra",
+     "titulo": "A hora *azul.*",
+     "corpo": "Céu ainda azul, névoa no vale e as janelas acesas por dentro.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/rancho-varanda-01.jpg",
+     "num": "03",
+     "eb": "Rancho no rio",
+     "titulo": "Névoa e *sol baixo.*",
+     "corpo": "Madeira roliça, telha colonial e a névoa da manhã sobre a água.",
+     "dur": 3.4
+    },
+    {
+     "eb": "Workflow 01",
+     "titulo": "Lugar, hora e luz *antes do estilo.*",
+     "corpo": "Materiais e acabamentos vêm depois.",
+     "dur": 2.8
+    }
+   ],
+   "legenda": "Prompt de render com IA: o mesmo texto não serve para sobrado, chalé e rancho. O lugar muda o prompt.\n\nPor que a imagem sai genérica mesmo com um bom estilo no prompt? Porque faltou dizer onde a casa está, a que horas e com que luz.\n\n1 · Sobrado de bairro: calçada, árvore e casas vizinhas, com as luzes acesas no entardecer.\n2 · Chalé na serra: hora azul, névoa no vale e as janelas acesas por dentro.\n3 · Rancho no rio: madeira roliça, telha colonial e a névoa da manhã sobre a água.\n\nEscreva lugar, hora e luz primeiro. Materiais e acabamentos vêm depois.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 60 prompts prontos para adaptar ao seu projeto.\n\nMande para quem usa o mesmo prompt em todo projeto.\n\n#iaparaarquitetos #render #promptdeia #arquitetura #inteligenciaartificial",
+   "alt": "Vídeo sobre prompt de render com IA: sobrado na rua ao entardecer, chalé na serra na hora azul e rancho na beira do rio com névoa"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do papel ao",
+    "chalé aceso"
+   ],
+   "rotulo": "CHALÉ NA SERRA",
+   "etapas": [
+    {
+     "img": "novas/chale-2026-11-12/1-planta.jpg",
+     "nome": "Planta e corte"
+    },
+    {
+     "img": "novas/chale-2026-11-12/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir deste corte: telhado íngreme, tesouras de madeira e base de pedra"
+    },
+    {
+     "img": "novas/chale-2026-11-12/3-pronto.jpg",
+     "nome": "Chalé pronto",
+     "trans": "ergue",
+     "prompt": "mesma câmera: madeira escura, pedra, janelas acesas e hora azul"
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ],
+   "legenda": "Render com IA de chalé de montanha: da planta e do corte ao chalé aceso na hora azul, com a mesma câmera.\n\nComo apresentar um chalé à noite antes de existir a estrutura? Gere o chalé pronto, tire dele a estrutura de madeira e mantenha o ângulo, as araucárias e a serra.\n\n1 · Planta e corte: o telhado íngreme de duas águas, o deck e a lareira.\n2 · Estrutura: tesouras e caibros de madeira, base de pedra e vãos ainda sem vidro.\n3 · Chalé pronto: madeira escura, pedra, janelas acesas e névoa no vale.\n\nNo chalé, quem segura a sequência é a cumeeira. Se a inclinação do telhado muda entre a estrutura e o render, muda o projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para o próximo projeto de chalé.\n\n#iaparaarquitetos #render #chale #casadecampo #arquitetura",
+   "alt": "Render com IA de chalé de montanha: planta e corte sobre a mesa, estrutura de madeira com telhado íngreme e chalé pronto com janelas acesas na hora azul"
+  }
+ ],
+ "carrosseis": [
+  {
+   "horario": "12:20",
+   "tema": "Planta humanizada com IA",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/sobrado-2026-11-12/2-humanizada.jpg",
+     "eb": "Planta humanizada com IA",
+     "titulo": "5 erros que *entregam a IA.*",
+     "sub": "Confira antes de mandar ao cliente.",
+     "fs": 96
+    },
+    {
+     "num": "01",
+     "eb": "Paredes",
+     "titulo": "A porta *mudou de lugar.*",
+     "corpo": "Sobreponha à planta técnica. Se uma abertura andou, a IA desenhou outra casa."
+    },
+    {
+     "num": "02",
+     "eb": "Escala",
+     "titulo": "O sofá *não cabe na sala.*",
+     "corpo": "Peça móveis em escala real e confira com as cotas do projeto."
+    },
+    {
+     "num": "03",
+     "eb": "Luz",
+     "titulo": "Cada móvel *com uma sombra.*",
+     "corpo": "Defina uma única direção de luz. Por exemplo: sol da tarde vindo do quintal."
+    },
+    {
+     "num": "04",
+     "eb": "Texto",
+     "titulo": "Letras que *não existem.*",
+     "corpo": "Peça a imagem sem texto. Os nomes dos ambientes entram depois, no seu programa."
+    },
+    {
+     "num": "05",
+     "eb": "Pisos",
+     "titulo": "O mesmo piso *na casa toda.*",
+     "prompt": "Humanize esta planta sem mudar paredes e aberturas: taco na sala, cerâmica clara na cozinha e grama no quintal."
+    },
+    {
+     "eb": "Antes de enviar",
+     "titulo": "Planta técnica por baixo. *Sempre.*",
+     "corpo": "Sobreponha as duas e confira paredes, portas e janelas. Salve para a próxima planta humanizada."
+    }
+   ],
+   "legenda": "Planta humanizada com IA: 5 erros para conferir antes de mandar a imagem ao cliente.\n\nComo saber se a planta humanizada feita com IA está pronta? Sobreponha à planta técnica e procure estes 5 sinais.\n\n1 · Paredes: uma porta ou janela mudou de lugar.\n2 · Escala: o sofá não cabe na sala desenhada.\n3 · Luz: cada móvel com uma sombra para um lado.\n4 · Texto: letras inventadas no meio da planta.\n5 · Pisos: o mesmo piso da sala ao quintal.\n\nO prompt do erro 5 já corrige os pisos. Os outros quatro se resolvem conferindo com o seu projeto.\n\nO manual IA para Arquitetos segue a mesma regra nos 7 workflows, a começar pelo Workflow 01, do modelo 3D ao render: a geometria vem do arquiteto, e a IA cuida da imagem.\n\nSalve para conferir a próxima planta humanizada.\n\n#iaparaarquitetos #plantahumanizada #designdeinteriores #arquitetura #inteligenciaartificial",
+   "alt": "Carrossel sobre planta humanizada com IA: 5 erros para conferir, paredes, escala, luz, texto e pisos, com prompt de correção"
+  },
+  {
+   "horario": "19:30",
+   "tema": "Sobrado com IA",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/sobrado-2026-11-12/4-render.jpg",
+     "eb": "Planta humanizada com IA",
+     "titulo": "Da planta à *sala do sobrado.*",
+     "sub": "4 etapas, a mesma câmera e o prompt de cada uma.",
+     "fs": 96
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/sobrado-2026-11-12/1-planta.jpg",
+     "nome": "Planta técnica",
+     "n": "01",
+     "prompt": "Base fixa: paredes, escada lateral, ilha e porta do quintal não mudam."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/sobrado-2026-11-12/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "n": "02",
+     "prompt": "Humanize esta planta: taco de peroba, linho cru e grama no quintal. Mesmas paredes."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/sobrado-2026-11-12/3-obra.jpg",
+     "nome": "Obra crua",
+     "n": "03",
+     "prompt": "Mesmo ambiente e mesma câmera do render: reboco, contrapiso e escada de concreto."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/sobrado-2026-11-12/4-render.jpg",
+     "nome": "Render final",
+     "n": "04",
+     "prompt": "Mesma câmera: mesa de madeira, palhinha, escada de madeira e luz da tarde."
+    },
+    {
+     "eb": "O cuidado principal",
+     "titulo": "Gere o render *antes da obra.*",
+     "corpo": "A obra crua sai do render pronto. Assim o vão do quintal e a escada ficam no mesmo lugar nas duas."
+    },
+    {
+     "tipo": "cta",
+     "eb": "IA para arquitetos",
+     "titulo": "O manual de IA que faltava *no seu escritório.*",
+     "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+    }
+   ],
+   "legenda": "Planta humanizada com IA e render da sala: 4 etapas do mesmo sobrado, com o prompt de cada uma.\n\nPor que gerar o render antes da obra crua? Porque a obra sai do render pronto, e assim o vão do quintal e a escada ficam no mesmo lugar nas duas imagens.\n\n1 · Planta técnica: a base que não muda.\n2 · Planta humanizada: taco de peroba, linho cru e o quintal, vistos de cima.\n3 · Obra crua: reboco, contrapiso e escada de concreto, na câmera do render.\n4 · Render final: mesa de madeira, palhinha e a luz da tarde.\n\nArraste e copie os prompts. Cada um diz o que muda e o que fica.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 7 workflows, 60 prompts e 4 vídeo-aulas, por R$ 97 ou 12x de R$ 10,03. Link na bio.\n\n#iaparaarquitetos #plantahumanizada #render #sobrado #designdeinteriores",
+   "alt": "Carrossel de planta humanizada com IA de sobrado: planta técnica, planta humanizada, obra crua e sala pronta, mesma câmera, com o prompt de cada etapa"
+  }
+ ],
+ "stories": [
+  {
+   "tipo": "foto",
+   "horario": "08:30",
+   "img": "novas/rancho-varanda-01.jpg",
+   "eb": "Bom dia, arquiteto",
+   "titulo": "Madeira roliça *e telha colonial.*",
+   "corpo": "Diga no prompt a estrutura e o telhado do rancho. Sem isso, ele vira uma casa qualquer na beira do rio.",
+   "fs": 96
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "10:30",
+   "gancho": [
+    "Da estrutura ao",
+    "chalé aceso"
+   ],
+   "rotulo": "CHALÉ NA SERRA",
+   "etapas": [
+    {
+     "img": "novas/chale-2026-11-12/2-estrutura.jpg",
+     "nome": "Estrutura"
+    },
+    {
+     "img": "novas/chale-2026-11-12/3-pronto.jpg",
+     "nome": "Chalé pronto",
+     "trans": "ergue",
+     "prompt": "mesma câmera: pedra, madeira escura e janelas acesas"
+    }
+   ],
+   "frase": [
+    "O arquiteto decide.",
+    "A IA executa."
+   ]
+  },
+  {
+   "tipo": "dica",
+   "horario": "13:00",
+   "eb": "Prompt do dia · salve",
+   "titulo": "Planta humanizada: *o prompt base.*",
+   "prompt": "Humanize esta planta sem mudar paredes, portas e janelas: vista de cima, piso de cada ambiente, móveis em escala e sombras suaves.",
+   "rotulo": "Copie o prompt"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "15:30",
+   "gancho": [
+    "Da planta",
+    "à estrutura"
+   ],
+   "rotulo": "CASA DE BAIRRO",
+   "etapas": [
+    {
+     "img": "novas/bairro-2026-11-12/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/bairro-2026-11-12/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "sobrado em lote estreito: pilares, lajes e escada, mesma rua"
+    }
+   ],
+   "frase": [
+    "A geometria fica.",
+    "O resto muda."
+   ]
+  },
+  {
+   "tipo": "numero",
+   "horario": "17:20",
+   "num": "24 h",
+   "eb": "Workflow 05",
+   "titulo": "para a proposta sair, *com modelo pronto.*",
+   "corpo": "Arquivo-mestre, modelo e follow-ups prontos no manual IA para Arquitetos."
+  },
+  {
+   "tipo": "foto",
+   "horario": "19:00",
+   "img": "novas/casa-bairro-01.jpg",
+   "eb": "Fachada de bairro",
+   "titulo": "Sombra de árvore *dá escala.*",
+   "corpo": "Peça a sombra das copas na fachada e na calçada. A casa ganha tamanho real sem ninguém em cena.",
+   "fs": 96
+  },
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/sobrado-2026-11-12/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

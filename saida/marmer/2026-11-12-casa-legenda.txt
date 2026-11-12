@@ -1,0 +1,13 @@
+Projeto de arquitetura com IA: o sobrado de lote estreito da planta à fachada pronta, na mesma rua e na mesma câmera.
+
+Dá para o cliente ver a casa pronta antes do primeiro tijolo? Dá, quando cada imagem nasce da anterior e a geometria vem do projeto do arquiteto.
+
+1 · Planta: o lote estreito, a garagem e a varanda do andar de cima.
+2 · Estrutura: pilares, lajes e escada de concreto, com o mesmo ipê na calçada.
+3 · Fachada pronta: tijolo claro, brises de madeira e as luzes acesas no entardecer.
+
+O manual IA para Arquitetos é da Marmer Butik, que atende arquitetos e designers desde 2013. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97.
+
+Conheça o manual em iaparaarquitetos.com.br e siga @ia.para.arquitetos.
+
+#iaparaarquitetos #marmerbutik #arquitetura #sobrado #fachada

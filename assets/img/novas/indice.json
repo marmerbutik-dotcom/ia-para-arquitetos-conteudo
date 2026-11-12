@@ -92,7 +92,9 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYeh6hFo",
   "descricao": "Sobrado reformado em rua arborizada: reboco branco, tijolinho e portão ripado, manhã",
-  "usos": []
+  "usos": [
+   "2026-11-12 story 19:00"
+  ]
  },
  {
   "arquivo": "novas/montanha-01.jpg",
@@ -472,6 +474,145 @@
    "2026-11-11 reel 11:40",
    "2026-11-11 carrossel 12:20",
    "2026-11-11 story 19:00"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/1-planta.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqS8N478",
+  "descricao": "Planta técnica 2D do térreo de sobrado em lote estreito: sala, jantar, cozinha com ilha, lavabo, escada e quintal",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 reel 11:40",
+   "2026-11-12 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/2-humanizada.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqaeknf0",
+  "descricao": "Mesma planta humanizada: taco de peroba, sofá de linho, mesa de jantar, cozinha clara e quintal gramado com árvore",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 carrossel 12:20",
+   "2026-11-12 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/3-obra.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqRrjIFA",
+  "descricao": "Sala do sobrado em obra crua: reboco, contrapiso, escada de concreto e vão aberto para o quintal; mesma câmera do render",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 reel 11:40",
+   "2026-11-12 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/4-render.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqUf2k5I",
+  "descricao": "Sala e jantar do sobrado: taco de peroba, cadeiras de palhinha, escada de madeira, porta de vidro para o quintal, luz da tarde",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 carrossel 19:30",
+   "2026-11-12 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-12/1-planta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqTLgB48",
+  "descricao": "Planta de sobrado em lote estreito a lápis sobre papel manteiga, com régua, escalímetro e café",
+  "sequencia": "bairro-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 14:40",
+   "2026-11-12 story 15:30",
+   "2026-11-12 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-12/2-estrutura.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqe7MNoc",
+  "descricao": "Sobrado em estrutura de concreto e blocos, andaimes, rua com ipê amarelo ao entardecer; mesma câmera da casa pronta",
+  "sequencia": "bairro-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 14:40",
+   "2026-11-12 story 15:30",
+   "2026-11-12 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-12/3-pronta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqb0Dbhk",
+  "descricao": "Sobrado contemporâneo de tijolo claro, brises e portão de ripas em rua arborizada, vista aérea 3/4 ao entardecer",
+  "sequencia": "bairro-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 14:40",
+   "2026-11-12 reel 18:10",
+   "2026-11-12 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-12/1-planta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqdu578g",
+  "descricao": "Planta, fachada e corte de chalé a nanquim sobre mesa de madeira escura, com esquadro e pinha de araucária",
+  "sequencia": "chale-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-12/2-estrutura.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqRMdCD8",
+  "descricao": "Chalé em estrutura de madeira, telhado íngreme sem telhas, base de pedra, araucárias na hora azul; mesma câmera do pronto",
+  "sequencia": "chale-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 20:40",
+   "2026-11-12 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-12/3-pronto.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqZb0xG4",
+  "descricao": "Chalé de madeira escura e pedra com janelas acesas e deck, araucárias e serra com névoa na hora azul",
+  "sequencia": "chale-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 20:40",
+   "2026-11-12 story 10:30",
+   "2026-11-12 reel 18:10"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-varanda-01.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqXiZk7Q",
+  "descricao": "Varanda de rancho com madeira roliça, telha colonial e rede, deck até o rio com névoa ao nascer do sol",
+  "sequencia": null,
+  "usos": [
+   "2026-11-12 story 08:30",
+   "2026-11-12 reel 18:10"
   ]
  }
 ]
