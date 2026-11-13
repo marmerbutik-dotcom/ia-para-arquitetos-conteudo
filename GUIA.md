@@ -150,6 +150,8 @@ O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualiza
 | M0 · Evolução | vídeos-modelo de 08/11 (`saida/estilo/`) | mesma câmera em etapas, linha de luz, prompt digitado | `evolucao` (5d) | ativo |
 | M1 | https://www.instagram.com/p/Dey7uwKP-bv/ (planta → obra final) | aguardando o vídeo para análise | a definir | pendente |
 | M2 | https://www.instagram.com/p/DeuFikVxyqk/ | aguardando o vídeo para análise | a definir | pendente |
+| M3 | https://www.instagram.com/p/DdssRZkR9Zz/ | aguardando o vídeo para análise | a definir | pendente |
+| — | perfil @render3d.fabiogarcia (melhores posts) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir | pendente |
 
 Modelo pendente não entra na pauta. Quando um modelo ficar ativo, a rotina compara o alcance dele com os outros nas métricas do Metricool e registra no relatório do dia.
 
