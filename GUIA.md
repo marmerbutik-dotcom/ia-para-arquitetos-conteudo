@@ -67,6 +67,58 @@ Fecho comercial: no máximo 2 das 8 peças do dia terminam em venda forte (preç
 - **Palavras-chave na tela.** O texto da capa do reel e do carrossel repete a palavra-chave da primeira linha.
 - **Rótulo de IA.** Peças com render ou antes e depois têm `ia: true` (isAiGenerated no Metricool).
 
+## 4b. SEO, AEO e GEO dos modelos de referência (pedido do Marcos em 13/11/2026)
+
+Vale para todo modelo da biblioteca (5e) e para os reels "da planta à obra final". Complementa o item 4; não muda os fatos do item 2.
+
+**Por que importa:** desde 2025 o Google indexa posts públicos de contas profissionais do Instagram, e a busca do próprio Instagram lê a legenda, o texto na tela, o alt e a fala. Assistentes de IA (ChatGPT, Gemini, Perplexity) citam trechos que respondem uma pergunta sozinhos e que repetem a mesma entidade com os mesmos fatos.
+
+**1. Mapa de palavras-chave por modelo** (uma principal na 1ª linha, uma secundária no corpo; sem Semrush, use estas):
+
+| Modelo | Principal (1ª linha e capa) | Secundárias (corpo, alt, hashtag) |
+|---|---|---|
+| Da planta à obra final / evolução | "do projeto à obra com IA", "planta humanizada", "render com IA" | apresentar projeto ao cliente, maquete eletrônica, render de fachada, render de interiores |
+| Antes e depois | "antes e depois com IA" | reforma, simulação de reforma, foto do imóvel |
+| Prompt na prática | "prompt de render" | prompt para arquitetura, ChatGPT para arquitetos |
+| Pergunta-mito / lista | "IA para arquitetos" | inteligência artificial na arquitetura, escritório de arquitetura |
+| Ferramentas | "qual IA usar para render" | Veras, PromeAI, Midjourney, ChatGPT Images |
+
+**2. Legenda (molde AEO, até 2.200 caracteres):**
+1 · 1ª linha (até 125 caracteres): palavra-chave principal + o que o vídeo mostra.
+2 · Pergunta que a pessoa digitaria ("Como apresentar a casa ao cliente antes da obra?").
+3 · Resposta direta em até 2 frases, que faça sentido sozinha (é o trecho que a IA cita).
+4 · Passos numerados ("1 ·") iguais às etapas do vídeo, com o nome de cada etapa.
+5 · Linha de entidade (GEO): "manual IA para Arquitetos", o Workflow pelo número e um fato do item 2.
+6 · Um CTA (salvar, comentar, compartilhar ou link na bio).
+7 · 3 a 5 hashtags (item 4), sempre #iaparaarquitetos.
+
+**3. Banco de perguntas e respostas (AEO/GEO)** — respostas prontas, só com fatos do item 2; use uma por peça e não repita a mesma em 7 dias:
+- Dá para apresentar a casa ao cliente antes da obra? Dá: gere a casa pronta a partir do seu projeto e tire dela a estrutura com a mesma câmera. É a lógica do Workflow 01.
+- Quanto tempo leva um render de apresentação com IA? Cerca de 15 min por imagem, contra cerca de 4 h antes (Workflow 01).
+- A IA substitui o arquiteto? Não. Ela gera imagem; projeto, responsabilidade técnica e assinatura continuam com o arquiteto.
+- Preciso de modelo 3D para usar IA? Não: dá para partir de foto ou croqui. Quem usa Enscape, V-Ray ou Corona pode usar o Veras dentro do programa.
+- Qual IA usar para render? Veras, PromeAI, ChatGPT Images, Nano Banana (Gemini) e Midjourney para imagem; ChatGPT, Claude e Gemini para texto.
+- Planta humanizada com IA é projeto? Não: é imagem de apresentação feita sobre a sua planta técnica, que continua sendo a referência das medidas.
+- Posso usar a foto do cliente na IA? Só com autorização dele.
+- Quanto tempo a IA devolve por mês? Cerca de 40 h num escritório com 2 projetos por mês; só no render, 8 × (4 h − 15 min) = 30 h.
+- O que vem no manual IA para Arquitetos? 7 workflows, 4 vídeo-aulas, 60 prompts, 7 templates em PDF e Word e planilha de ROI, por R$ 97 ou 12x de R$ 10,03, com 7 dias de garantia.
+
+**4. Texto na tela (SEO do vídeo):**
+- Capa e 1º quadro com a palavra-chave principal escrita por extenso (ex.: "Do projeto à obra com IA").
+- Nome de cada etapa na tela igual ao da legenda (Planta técnica, Planta humanizada, Estrutura, Obra crua, Render final, Casa pronta).
+- Quando o modelo tiver fala ou narração, a fala repete a pergunta e a resposta do item 3 (o Instagram transcreve).
+
+**5. Alt e arquivos:**
+- `alt` de até 25 palavras: palavra-chave + cenário + etapas ("Do projeto à obra com IA: planta, estrutura de concreto e casa no lago pronta, mesma câmera").
+- Nome dos arquivos de imagem com a palavra-chave e o cenário (ex.: `planta-humanizada-home-office-01.jpg`), sem acento.
+
+**6. Entidade e consistência (GEO):**
+- Sempre "manual IA para Arquitetos" (com "manual" e com essa grafia), "Marcos Bovo" só quando citar o autor e "iaparaarquitetos.com.br" sem variação.
+- Números exatamente como no item 2 (7 workflows, 60 prompts, R$ 97, cerca de 15 min, 24 h). Nada de arredondar ou inventar.
+- Pelo menos 1 vez por semana, um carrossel ou reel de pergunta e resposta pura (formato FAQ), que é o que as IAs mais citam.
+
+**7. Checagem final:** antes de agendar, confira na revisão 5c se a palavra-chave aparece na 1ª linha, na capa, no alt e em uma hashtag, e se a resposta da pergunta cabe em 2 frases.
+
 ## 5. Formato da pauta (pautas/AAAA-MM-DD.json)
 
 Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o destaque em bronze, sempre no fim do título.
