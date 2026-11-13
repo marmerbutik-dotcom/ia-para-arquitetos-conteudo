@@ -184,13 +184,119 @@ def roteiro_faixas(spec):
     return T, frame, b
 
 
+# ------------------------------------------------------------------ modo esboco (M9, ref. @andre.design06)
+CIANO = np.array([90, 225, 255], np.float32)
+BRANCO = np.array([255, 252, 245], np.float32)
+OURO = np.array([255, 200, 120], np.float32)
+
+
+def bordas(img, lo=50, hi=140, larg=2):
+    g = cv2.GaussianBlur(cv2.cvtColor(img, cv2.COLOR_RGB2GRAY), (5, 5), 0)
+    e = cv2.Canny(g, lo, hi)
+    dens = cv2.GaussianBlur(e.astype(np.float32) / 255, (0, 0), 14)
+    e[dens > .16] = 0                                   # tira textura (folhagem, ruído): só fica desenho
+    n, lab, st, _ = cv2.connectedComponentsWithStats(e, 8)
+    e[np.isin(lab, np.where(st[:, cv2.CC_STAT_AREA] < 40)[0])] = 0
+    if larg > 1: e = cv2.dilate(e, np.ones((larg, larg), np.uint8))
+    return e.astype(np.float32) / 255
+
+
+def brilho(f, linha, cor, k, raio=9):
+    """soma linhas brilhantes (núcleo + halo) sobre f (float 0..1)"""
+    if k <= 0: return f
+    halo = cv2.GaussianBlur(linha, (0, 0), raio)[..., None]
+    nucleo = linha[..., None]
+    c = cor / 255
+    return np.clip(f * (1 - .85 * nucleo * k) + (nucleo * .95 + halo * 1.6) * c * k, 0, 1)
+
+
+def roteiro_esboco(spec):
+    """obra crua → desenho de linhas brancas dos móveis → contornos dourados → ambiente pronto com luz"""
+    final = E.carrega(spec['final']); base = E.carrega(spec['base'])
+    if spec.get('alinha', True):
+        base, cc = E.alinha(base, final); print('alinhamento', round(float(cc), 3))
+    ed = bordas(final, *spec.get('canny', [50, 140]))
+    for b in spec.get('sem', []): ed *= 1 - caixa(b, .01)        # áreas sem desenho (ex.: jardim pela janela)
+    ordem = .65 * (1 - YY) + .35 * RU                  # o desenho nasce de baixo para cima
+    t0, d_tr = .8, 2.6                                  # gancho na obra, depois o traço
+    t_ou = t0 + d_tr; d_ou = .9                         # traço vira dourado
+    t_fi = t_ou + .3; d_fi = 2.0                        # preenche
+    t_luz = t_fi + d_fi - .3; d_luz = 1.2
+    t_hold = t_luz + d_luz; d_hold = 1.4
+    t_card = t_hold + d_hold; d_card = 2.4
+    T = t_card + d_card
+    bf = base.astype(np.float32) / 255; ff = final.astype(np.float32) / 255
+
+    def frame(t):
+        esc = .45 * E.ease((t - t0) / .6) * (1 - E.ease((t - t_fi) / d_fi))
+        f = bf * (1 - esc)
+        p = (t - t0) / d_tr
+        rev = ss(-.02, .02, p * 1.1 - ordem) if p > 0 else np.zeros_like(ordem)
+        lin = ed * rev
+        a = cresce_mask([.5, .78], (t - t_fi) / d_fi, 1.3)[..., None] if t > t_fi else 0
+        f = f * (1 - a) + ff * a
+        ko = E.ease((t - t_ou) / d_ou)
+        cor = BRANCO * (1 - ko) + OURO * ko
+        kl = 1.0 - E.ease((t - t_fi - .6) / 1.2)
+        f = brilho(f, lin, cor, kl)
+        f = (f * 255).astype(np.uint8)
+        f = acende(f, E.ease((t - t_luz) / d_luz))
+        f = E.kb(f, 1.0 + .04 * E.ease(t / T))
+        if t >= t_card: return final_card(f, E.ease((t - t_card) / .6))
+        return E.compoe(f, ASS)
+    return T, frame, acende(final, 1.0)
+
+
+# ------------------------------------------------------------------ modo neon (M8/M10, ref. @morph0200)
+def roteiro_neon(spec):
+    """planta em fundo escuro → linhas ciano traçam → estrutura cresce do papel → pronta, câmera afastando (drone)"""
+    im = [E.carrega(p) for p in spec['etapas']]       # planta, estrutura, pronta
+    if spec.get('alinha', True):
+        for i in range(len(im) - 1, 0, -1):
+            im[i - 1], cc = E.alinha(im[i - 1], im[i]); print('alinhamento', i, round(float(cc), 3))
+    planta, estr, pronta = im[0], im[1], im[-1]
+    ed_p = bordas(planta, 40, 120); ed_e = bordas(estr, 50, 140)
+    ordem = np.sqrt(((XX - .5) * W / H) ** 2 + (YY - .55) ** 2) / .75 + (RU - .5) * .25
+    pf = planta.astype(np.float32) / 255
+    escura = (pf.mean(axis=2, keepdims=True) * np.array([.35, .42, .55], np.float32))   # planta vira "blueprint" escuro
+    ef = estr.astype(np.float32) / 255; rf = pronta.astype(np.float32) / 255
+    t0, d1 = .7, 2.0            # traço ciano na planta
+    t2, d2 = t0 + d1, 1.8       # estrutura sobe do papel (de baixo para cima)
+    t3, d3 = t2 + d2 + .2, 2.0  # pronta se forma
+    t_hold = t3 + d3; d_hold = 1.6
+    t_card = t_hold + d_hold; d_card = 2.4
+    T = t_card + d_card
+    zi = spec.get('zoom_ini', 1.35)
+
+    def frame(t):
+        f = escura * (1 - E.ease((t - t0 + .7) / .7) * .3) + pf * .3 * (1 - E.ease(t / .7))
+        p = (t - t0) / d1
+        lin = ed_p * (ss(-.03, .03, p * 1.15 - ordem) if p > 0 else 0)
+        f = brilho(f, lin, CIANO, 1 - E.ease((t - t2) / d2))
+        if t > t2:
+            q = E.eout((t - t2) / d2)
+            sobe = ss(-.04, .04, (1 - YY) - (1.15 - q * 1.3) + (RU - .5) * .12)[..., None]
+            f = f * (1 - sobe) + ef * sobe
+            f = brilho(f, ed_e * sobe[..., 0], CIANO, .6 * (1 - E.ease((t - t3) / d3)))
+        if t > t3:
+            a = cresce_mask([.5, .9], (t - t3) / d3, 1.4)[..., None]
+            f = f * (1 - a) + rf * a
+        f = (np.clip(f, 0, 1) * 255).astype(np.uint8)
+        f = acende(f, .6 * E.ease((t - t3 - d3 * .6) / 1.2))
+        z = zi - (zi - 1.0) * E.ease(t / t_card)          # afastamento contínuo, como um drone
+        f = E.kb(f, z, .5, .55)
+        if t >= t_card: return final_card(f, E.ease((t - t_card) / .6))
+        return E.compoe(f, ASS)
+    return T, frame, pronta
+
+
 ASS = None
 
 
 def render(spec, saida, capa=None, som_ofs=0.0, som=True, crf=19):
     global ASS
     ASS = assinatura()
-    T, frame, capa_img = (roteiro_cresce if spec['modo'] == 'cresce' else roteiro_faixas)(spec)
+    T, frame, capa_img = {'cresce': roteiro_cresce, 'faixas': roteiro_faixas, 'esboco': roteiro_esboco, 'neon': roteiro_neon}[spec['modo']](spec)
     saida = str(saida); tmp = saida + '.v.mp4'
     pr = subprocess.Popen(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                            '-c:v', 'libx264', '-preset', 'veryfast', '-crf', str(crf), '-pix_fmt', 'yuv420p', tmp], stdin=subprocess.PIPE)
