@@ -204,6 +204,7 @@ O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualiza
 | M2 | https://www.instagram.com/p/DeuFikVxyqk/ | aguardando o vídeo para análise | a definir | pendente |
 | M3 | https://www.instagram.com/p/DdssRZkR9Zz/ | aguardando o vídeo para análise | a definir | pendente |
 | M4 | https://www.instagram.com/reel/De1_aGksYmg/ | aguardando o vídeo para análise | a definir | pendente |
+| M5 | https://www.instagram.com/reel/DfGzx0pswmR/ | aguardando o vídeo para análise | a definir | pendente |
 | — | perfil @render3d.fabiogarcia (melhores posts) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir | pendente |
 | — | perfil @luck_lucky934 (melhores posts, reels, stories e trilhas) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir; trilha: só se existir no catálogo comercial do Instagram (audioConfiguration) | pendente |
 
