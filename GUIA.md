@@ -210,6 +210,13 @@ O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualiza
 
 Modelo pendente não entra na pauta. Quando um modelo ficar ativo, a rotina compara o alcance dele com os outros nas métricas do Metricool e registra no relatório do dia.
 
+## 5f. Música (pedido do Marcos em 13/11/2026: "lounge, lofi, aesthetic, instrumentais, em alta no Brasil e nos EUA")
+
+- **Estilos:** lofi chill hop (78–88 BPM, Rhodes, vinil), deep house / afro house aesthetic de pôr do sol (115–122 BPM), bossa nova lofi (Brasil), slowed + reverb instrumental, piano ambient cinematográfico (estilo "Luminary", instrumental em alta em nov/2026). Nunca funk, sertanejo, forró, pagode, axé, nem trilha de Natal.
+- **Catálogo do Instagram (audioConfiguration no Metricool):** em 13/11 a conta @ia.para.arquitetos devolveu 403 (o catálogo só funciona em conta Business ligada a uma Página do Facebook). Enquanto isso não mudar, NÃO mande audioConfiguration nesta marca; a música vai embutida no mp4.
+- **Quando o catálogo liberar:** a cada semana, pegue nas listas de áudios em alta (Professional Dashboard do Instagram, Buffer, Later, CreatorDB) as faixas instrumentais ou chill marcadas como "uso comercial" e teste o nome no audioId (o Metricool devolve os candidatos). Música licenciada de artista conhecido não entra (não aparece para conta comercial).
+- **Enquanto isso:** trilhas próprias do ElevenLabs (eleven_music_v2_5, "No vocals") nos estilos acima, salvas em `assets/media/trilhas/` com nome do estilo e BPM; nunca a mesma trilha com o mesmo trecho no mesmo dia; os cortes dos reels caem na batida.
+
 ## 5b. Imagens novas todo dia (pedido do Marcos em 7/11/2026)
 
 Todo dia a rotina **gera as 2 sequências do estilo evolução (7 imagens novas)** e as usa como fundo dos reels, capas de carrossel e stories. A regra é **alternar cenários para não ficar repetitivo**.
