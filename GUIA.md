@@ -152,6 +152,7 @@ O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualiza
 | M2 | https://www.instagram.com/p/DeuFikVxyqk/ | aguardando o vídeo para análise | a definir | pendente |
 | M3 | https://www.instagram.com/p/DdssRZkR9Zz/ | aguardando o vídeo para análise | a definir | pendente |
 | — | perfil @render3d.fabiogarcia (melhores posts) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir | pendente |
+| — | perfil @luck_lucky934 (melhores posts, reels, stories e trilhas) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir; trilha: só se existir no catálogo comercial do Instagram (audioConfiguration) | pendente |
 
 Modelo pendente não entra na pauta. Quando um modelo ficar ativo, a rotina compara o alcance dele com os outros nas métricas do Metricool e registra no relatório do dia.
 
