@@ -213,7 +213,7 @@ O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualiza
 | — | perfil @render3d.fabiogarcia (melhores posts) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir | pendente |
 | — | perfil @luck_lucky934 (melhores posts, reels, stories e trilhas) | aguardando dados (concorrentes no Metricool) ou vídeos | a definir; trilha: só se existir no catálogo comercial do Instagram (audioConfiguration) | pendente |
 
-Vídeo IA (M6, M7 e as versões IA de M8–M10): em 13/11 não há crédito de vídeo (ElevenLabs exige plano pago para vídeo; Runway plano Free com 5 créditos; Higgsfield sem créditos). Até haver crédito, M6 e M7 ficam pendentes e M8/M9/M10 rodam pelo motor local.
+Vídeo IA (M6, M7 e as versões IA de M8–M10): em 13/11 não há crédito de vídeo (ElevenLabs exige plano pago para vídeo; Runway plano Free com 5 créditos; Higgsfield sem créditos). Até haver crédito, M6 e M7 ficam pendentes e M8/M9/M10 rodam pelo motor local. O Marcos tem ChatGPT, Gemini e CapCut pagos (13/11), mas sem conector aqui: os clipes de vídeo IA são gerados por ele com o kit `saida/modelos/kit-video-ia/` (quadros + prompts) e enviados de volta; a rotina monta fecho, trilha, capa, legenda e agenda.
 
 Modelo pendente não entra na pauta. Quando um modelo ficar ativo, a rotina compara o alcance dele com os outros nas métricas do Metricool e registra no relatório do dia.
 
