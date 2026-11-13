@@ -2,17 +2,17 @@
 
 Este repositório gera e hospeda as peças diárias do perfil **@ia.para.arquitetos** (infoproduto "IA para Arquitetos", da Marmer Butik, vendido em https://iaparaarquitetos.com.br). A rotina roda sozinha: escreve a pauta do dia seguinte, gera as peças, sobe aqui e agenda tudo no Metricool, que publica nos horários.
 
-## 1. Volume e horários (fixo, aprovado pelo Marcos em 7/11/2026)
+## 1. Volume e horários (reduzido pelo Marcos em 13/11/2026: "diminua a frequência, 1 carrossel por dia, 3 reels, 4 stories")
 
-Todo dia, fuso America/Sao_Paulo:
+Todo dia, fuso America/Sao_Paulo, a partir de 14/11/2026 (8 peças por dia):
 
 | Tipo | Qtde | Horários |
 |---|---|---|
-| Reel | 5 | 07:40 · 11:40 · 14:40 · 18:10 · 20:40 |
-| Carrossel | 2 | 12:20 · 19:30 |
-| Story | 7 | 08:30 · 10:30 · 13:00 · 15:30 · 17:20 · 19:00 · 21:30 |
+| Reel | 3 | 11:40 · 14:40 · 20:40 |
+| Carrossel | 1 | 19:30 |
+| Story | 4 | 08:30 · 13:00 · 17:20 · 21:30 |
 
-Os horários seguem o melhor horário do público no Metricool (picos 11–12 h e 17–20 h). Reels sempre com no mínimo 2 h de intervalo. Publicação direta (autoPublish true), sem aprovação prévia.
+Os horários seguem os reels que mais alcançaram na 1ª semana (14:40 e 20:40) e o pico do público no Metricool (11–12 h e 17–20 h). Reels sempre com no mínimo 2 h de intervalo. (Até 13/11 eram 5 reels, 2 carrosséis e 7 stories.) Publicação direta (autoPublish true), sem aprovação prévia.
 
 ## 2. Sobre o produto: só fatos confirmados
 
@@ -49,7 +49,7 @@ Estes são os pilares. Gire entre eles e não repita o mesmo tema em 7 dias (con
 6. **Ferramentas.** Quando usar cada uma, sem prometer recurso que não conhece.
 7. **Bastidores e autoria.** O arquiteto decide, a IA executa. Repertório e assinatura são do arquiteto.
 
-Fecho comercial: no máximo 1 em cada 3 peças termina em venda forte (preço e "link na bio"). As outras terminam em salvar, comentar ou compartilhar.
+Fecho comercial: no máximo 2 das 8 peças do dia terminam em venda forte (preço e "link na bio"), contando o story `link`. As outras terminam em salvar, comentar ou compartilhar.
 
 ## 4. SEO, AEO e GEO em toda peça
 
@@ -73,7 +73,7 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
 
 - **Reel tipo `evolucao`** (o estilo principal desde 8/11, ver 5d): a mesma cena passando por etapas, com linha de luz, wireframe e prompt sendo digitado.
   - Campos: `gancho` (2 linhas; a 2ª sai em itálico bronze), `rotulo` (canto superior direito, curto, em maiúsculas), `etapas` (3 ou 4, cada uma com `img`, `nome`, `trans`, `prompt` opcional e `foco` no `mergulho`), `frase` (2 linhas sobre a última etapa), `legenda`, `alt`, `horario`. O cartão final com logo e site entra sozinho.
-  - Use 3 por dia (pelo menos um de interior e um de casa/fachada; o 3º alterna). Duração sai entre 14 e 18 s. O Marcos gostou do formato (8/11) e pediu mais.
+  - Use 2 por dia (um de interior e um de casa/fachada). Duração sai entre 14 e 18 s. O Marcos gostou do formato (8/11) e pediu mais.
 - **Reel tipo `wipe`** (antes e depois que se revela):
   - Campos: `par` (w1 render, w2 peça, w3 imóvel), `gancho`, `passos` (2 a 4 itens, cada um com `titulo` e `prompt`), `final`, `resumo` e `fim` (cartão final).
   - Use no máximo 1 por dia.
@@ -84,10 +84,10 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
 - **Carrossel:**
   - De 5 a 8 slides, com `tema` (rodapé curto).
   - Tipos de slide: `capa` (com `par` ou `img`), texto (com `num`, `eb`, `titulo`, `corpo`, `prompt`), `lista` (`itens` como ["texto", "detalhe"]), `imagem` (`par`), `etapa` e `cta`.
-  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). Um carrossel por dia é "etapas": capa com a última imagem, 1 slide `etapa` por etapa (com o prompt de cada uma), 1 slide de texto com o cuidado principal e `cta`.
+  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). O carrossel do dia alterna: dia ímpar é "etapas" (capa com a última imagem, 1 slide `etapa` por etapa, com o prompt de cada uma, 1 slide de texto com o cuidado principal e `cta`); dia par é um carrossel normal (lista, erros, prompts, conta do escritório).
 - **Story (tudo automático, sem adesivos — pedido do Marcos em 7/11):** o story precisa funcionar sozinho, sem enquete, caixa de perguntas, emoji deslizante nem adesivo de link. NUNCA escreva no story algo que peça voto, resposta na caixa ou toque em adesivo ("vote", "responda aqui", "toque no link"). Use perguntas só como gancho retórico, já respondidas no próprio story.
   - Tipos: `foto` (imagem de fundo + título + corpo curto), `dica` (prompt), `imagem` (`par`), `numero`, `lista`, `link` e `evolucao`.
-  - `evolucao`: story em vídeo (10 a 14 s), com os mesmos campos do reel `evolucao` mas só 2 ou 3 etapas e sem `legenda`. Sai como `story-NN.mp4`, sem cartão final. Use 2 por dia, em horários separados.
+  - `evolucao`: story em vídeo (10 a 14 s), com os mesmos campos do reel `evolucao` mas só 2 ou 3 etapas e sem `legenda`. Sai como `story-NN.mp4`, sem cartão final. Use 1 por dia.
   - O tipo `link` mostra o preço e a linha "Link na bio · iaparaarquitetos.com.br" (já vem no modelo). É o último story do dia.
   - Não use o campo `nota`.
 - Imagens disponíveis em `assets/img` (além das novas de `assets/img/novas`, ver 5b):
@@ -102,7 +102,7 @@ Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e gr
 
 O Marcos mandou 6 reels de referência (planta que vira planta humanizada, obra crua que vira render, planta que vira estrutura e casa pronta, sempre com a mesma câmera) e pediu esse estilo nos reels, carrosséis e stories. Os 2 vídeos-modelo estão na LP (seção "Em movimento") e em `saida/estilo/`.
 
-**Mix diário:** 3 reels `evolucao` + 2 reels dos outros tipos (no máximo 1 `wipe`); 1 carrossel "etapas" + 1 carrossel normal; 2 stories `evolucao` + 5 stories estáticos.
+**Mix diário (desde 14/11):** 2 reels `evolucao` (1 interior, 1 casa) + 1 reel de outro tipo (pergunta-mito ou lista, que são os que mais alcançam; `wipe` no máximo 1 vez por semana); 1 carrossel (etapas no dia ímpar, normal no dia par); 1 story `evolucao` + 2 stories estáticos + o story `link` às 21:30.
 
 **Sequências do dia (Canva, por referência):** cada dia gere 2 sequências novas no cenário do rodízio (5b), uma de interior e uma de casa:
 - **Interior (4 imagens):** 1 planta técnica (desenho 2D preto sobre branco, vista de cima, cotas, sem texto legível) → 2 planta humanizada (`imageReferences` = imagem 1; "mesma planta, mesmas paredes e mesmo enquadramento, agora humanizada: vista de cima, pisos, móveis, plantas, sombras suaves") → 4 render do ambiente principal na altura do olho → 3 obra crua (`imageReferences` = imagem 4; "mesmo ambiente, mesma câmera e mesmas aberturas, em obra: concreto e reboco crus, sem móveis, tubulação aparente"). Gere a 4 antes da 3: a obra sai da imagem pronta, então as linhas casam.
@@ -143,7 +143,7 @@ As pastas `novas/estilo-apto` e `novas/estilo-casa` são as sequências dos víd
 
 ## 5b. Imagens novas todo dia (pedido do Marcos em 7/11/2026)
 
-Todo dia a rotina **gera de 4 a 5 imagens novas** e as usa como fundo dos reels, capas de carrossel e stories. A regra é **alternar cenários para não ficar repetitivo**.
+Todo dia a rotina **gera as 2 sequências do estilo evolução (7 imagens novas)** e as usa como fundo dos reels, capas de carrossel e stories. A regra é **alternar cenários para não ficar repetitivo**.
 
 **Cenários em rodízio** (rotação na ordem abaixo, retomando de onde o último dia parou, conforme `assets/img/novas/indice.json`):
 1. casa na praia
@@ -157,7 +157,7 @@ Todo dia a rotina **gera de 4 a 5 imagens novas** e as usa como fundo dos reels,
 9. área interna (alternar: sala, cozinha, banheiro com cuba de pedra, quarto, home office, varanda gourmet)
 10. móveis em diferentes cenários (poltrona, mesa de jantar, aparador, luminária em ambientes variados)
 
-Por dia: pegue os próximos 3 cenários da fila e gere de 4 a 5 imagens (2 de um cenário, 1 ou 2 dos outros). Varie hora do dia (manhã, tarde, entardecer, noite com luz acesa), estação, materiais e estilo (contemporâneo, rústico, minimalista, tropical moderno, colonial reinterpretado). Nunca repita a mesma combinação cenário + estilo + hora em 14 dias.
+Por dia: pegue os próximos 2 cenários da fila (um para a sequência de interior, outro para a de casa; se o cenário da vez for de casa, a sequência de interior usa a área interna mais próxima na fila). Imagem solta extra só se faltar fundo para algum story. Varie hora do dia (manhã, tarde, entardecer, noite com luz acesa), estação, materiais e estilo (contemporâneo, rústico, minimalista, tropical moderno, colonial reinterpretado). Nunca repita a mesma combinação cenário + estilo + hora em 14 dias.
 
 **Como gerar (Canva, assinatura do Marcos):**
 1. `Canva generate-image` com `aspectRatio: PORTRAIT_9_16` e um prompt em português no formato: "Fotografia de arquitetura editorial, vertical: <cenário detalhado: estilo, materiais, paisagem, hora do dia, luz>, câmera na altura do olho, verticais corrigidas, fotorrealista, sem pessoas, sem texto, sem logotipos". Espere uns 20 s e consulte `get-generate-image-job` até SUCCESS. Guarde o media id (ex.: MAHaQGVNws0).
@@ -205,12 +205,12 @@ Corrija na pauta e gere de novo antes de agendar. Uma legenda com erro é pior q
   - **Story:** `instagramData: {"type":"STORY"}`, `media: [jpg ou mp4]`, sem `text`.
 - **Data:** `date` e `publicationDate` no horário do manifesto, com timezone America/Sao_Paulo.
 - **Horário já ocupado:** antes de agendar, chame getScheduledPosts do dia. Se um horário do item 1 já tiver um post (o Marcos ou uma sessão anterior pode ter agendado algo à mão), não agende outra peça do mesmo tipo nele: pule a peça correspondente da pauta e registre no relatório.
-- **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 14 posts (contando os que já estavam agendados).
+- **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 8 posts (3 reels, 1 carrossel, 4 stories), contando os que já estavam agendados. Posts em rascunho (draft) não contam.
 - **Erro:** se uma chamada der erro, corrija o JSON e tente de novo uma vez. Se falhar de novo, pule a peça e registre em `relatorios/AAAA-MM-DD.md`.
 
 ## 6b. 1 reel por dia na @marmerbutik (pedido do Marcos em 8/11/2026)
 
-A Marmer Butik vende o manual, então todo dia vai **1 reel de estilo evolução** para o Instagram @marmerbutik. É só 1 por dia: "não muitos".
+A Marmer Butik vende o manual, então todo dia vai **1 reel de estilo evolução** para o Instagram @marmerbutik. É só 1 por dia: "não muitos". Desde 13/11 a @marmerbutik também tem limite de 3 reels por dia, e este reel conta como um deles (a rotina semanal da Marmer faz os outros 2).
 - **Marca:** Marmer Butik, **blogId 6358659**, rede só `instagram` (sem TikTok, Facebook, YouTube ou outras redes). É a ÚNICA peça que esta rotina agenda nessa marca.
 - **Horário:** 14:00 (fuso de São Paulo). A grade de reels da Marmer é 09:30, 12:00, 16:30, 18:00, 20:00 e 21:00, e quem cuida dela é outra rotina, que não deve ser tocada. Antes de agendar, confira com getScheduledPosts (brandId 6358659, só o dia; a resposta é grande, filtre por horário) se 14:00 já tem um REEL de IA para Arquitetos. Se tiver, não agende outro.
 - **Vídeo próprio, nunca o mesmo mp4 da @ia.para.arquitetos.** Renderize com `engine/evolui.py`, a partir de uma das sequências do dia (alterne: dia par casa, dia ímpar interior), com outro `gancho`, outra `frase`, prompts de tela diferentes e `"rotulo": "MARMER BUTIK"`. Pode usar 3 etapas em vez de 4. Grave em `saida/marmer/AAAA-MM-DD-<tema>.mp4` e a capa ao lado (`capa=`). Exemplo: `python3 -c "import sys,json; sys.path.insert(0,'engine'); import evolui; evolui.render(json.load(open('spec.json')),'saida/marmer/AAAA-MM-DD-casa.mp4',capa='saida/marmer/AAAA-MM-DD-casa-capa.jpg',som_ofs=9)"`.
