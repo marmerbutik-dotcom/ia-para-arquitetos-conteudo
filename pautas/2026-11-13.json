@@ -1,0 +1,400 @@
+{
+ "data": "2026-11-13",
+ "obs": "Sexta. Rodízio: casa em frente ao lago, casa com piscina e área interna (home office). 10 imagens novas no Canva: 3 sequências (home office 4 etapas, casa no lago 3, casa com piscina minimalista 3). Palavra-chave do dia: 'planta humanizada' nas peças de interior e 'render com IA' nas de fachada (Semrush sem saldo de API). Métricas de 05 a 12/11: lista ('3 sinais', 108) e pergunta-mito ('substituir o arquiteto', 65) seguem na frente; entre os de evolução, o melhor ainda é o do chalé com 'planta humanizada' na primeira linha (78). Por isso os 2 reels fora do estilo são uma pergunta e uma lista.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "07:40",
+   "ia": true,
+   "gancho": [
+    "Da planta ao",
+    "home office pronto"
+   ],
+   "rotulo": "HOME OFFICE",
+   "etapas": [
+    {
+     "img": "novas/homeoffice-2026-11-13/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/homeoffice-2026-11-13/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: cimento queimado, carvalho e couro, mesmas paredes"
+    },
+    {
+     "img": "novas/homeoffice-2026-11-13/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.5,
+      0.42
+     ]
+    },
+    {
+     "img": "novas/homeoffice-2026-11-13/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma janela: mesa de carvalho, estante e luz da manhã"
+    }
+   ],
+   "frase": [
+    "Mesma câmera.",
+    "Mesma arquitetura."
+   ],
+   "legenda": "Planta humanizada com IA de home office: da planta técnica ao escritório pronto, com a janela no mesmo lugar.\n\nComo mostrar ao cliente o home office antes da obra sem a IA mexer nas paredes? Faça cada etapa a partir da anterior e diga no prompt o que fica igual.\n\n1 · Planta técnica: janela larga, porta, mesa e estante definidas por você.\n2 · Planta humanizada: cimento queimado, carvalho, couro caramelo e tapete, vistos de cima.\n3 · Obra crua: reboco, contrapiso e eletrodutos aparentes, na mesma câmera do render.\n4 · Render final: mesa de carvalho na janela, estante de piso a teto e a luz da manhã.\n\nNo home office, a régua da sequência é a janela da mesa. Se ela muda de lugar entre a obra e o render, a imagem deixou de ser o seu projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar o próximo home office.\n\n#iaparaarquitetos #plantahumanizada #homeoffice #designdeinteriores #render",
+   "alt": "Planta humanizada com IA de home office: planta técnica, planta humanizada, obra crua e escritório pronto com mesa de carvalho na janela, mesma câmera"
+  },
+  {
+   "tipo": "cenas",
+   "horario": "11:40",
+   "ia": true,
+   "cenas": [
+    {
+     "fundo": "novas/piscina-2026-11-13/3-pronta.jpg",
+     "eb": "Pergunta de quem começa",
+     "titulo": "IA no escritório: *por onde começar?*",
+     "dur": 2.8
+    },
+    {
+     "num": "01",
+     "titulo": "Uma tarefa *só.*",
+     "corpo": "Escolha a que mais toma horas da sua semana: render, proposta ou briefing.",
+     "dur": 3.4
+    },
+    {
+     "num": "02",
+     "titulo": "Um workflow, *do começo ao fim.*",
+     "corpo": "Termine um passo a passo inteiro antes de testar outra IA.",
+     "dur": 3.4
+    },
+    {
+     "num": "03",
+     "titulo": "Faça *a conta.*",
+     "corpo": "Num escritório com 2 projetos por mês: 8 renders × (4 h − 15 min) = 30 h.",
+     "dur": 3.6
+    },
+    {
+     "eb": "Manual IA para Arquitetos",
+     "titulo": "Uma tarefa. *Depois a próxima.*",
+     "corpo": "Comece pelo Workflow 01: o render",
+     "dur": 2.8
+    }
+   ],
+   "legenda": "IA para arquitetos: por onde começar no escritório? Por uma tarefa só, a que mais toma horas da sua semana.\n\nQuem tenta usar IA em tudo ao mesmo tempo passa o mês testando ferramenta e a rotina não muda. Comece por uma tarefa e meça.\n\n1 · Uma tarefa: render, proposta ou briefing. Escolha a que mais pesa hoje.\n2 · Um workflow: siga um passo a passo do começo ao fim antes de testar outra IA.\n3 · A conta: num escritório com 2 projetos por mês, 8 renders × (4 h − 15 min) = 30 h.\n\nSe a tarefa for o render, o caminho é o Workflow 01 do manual IA para Arquitetos: do modelo 3D ao render, em cerca de 15 min por imagem.\n\nQual tarefa você tiraria primeiro da sua semana? Conta nos comentários.\n\n#iaparaarquitetos #inteligenciaartificial #escritoriodearquitetura #arquitetos #arquitetura",
+   "alt": "Vídeo sobre IA para arquitetos: por onde começar no escritório, com uma tarefa, um workflow e a conta de 30 h por mês em render"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "14:40",
+   "ia": true,
+   "gancho": [
+    "Do píer no papel",
+    "à casa no lago"
+   ],
+   "rotulo": "CASA NO LAGO",
+   "etapas": [
+    {
+     "img": "novas/lago-2026-11-13/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/lago-2026-11-13/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: casa térrea, deck e píer até a água, duas águas"
+    },
+    {
+     "img": "novas/lago-2026-11-13/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera: madeira, pedra, luzes acesas e reflexo no lago"
+    }
+   ],
+   "frase": [
+    "Apresente a casa",
+    "antes da obra."
+   ],
+   "legenda": "Render com IA de casa no lago: da planta sobre a mesa à casa acesa refletida na água, com a mesma câmera.\n\nComo apresentar uma casa à beira do lago antes da obra? Gere a casa pronta, tire dela a estrutura e mantenha o ângulo, a margem e as araucárias.\n\n1 · Planta: a casa térrea, a varanda, o deck e o píer até a água.\n2 · Estrutura: pilares, vigas e tesouras sem telhas, e o píer só com a madeira.\n3 · Casa pronta: madeira, pedra, portas de vidro e as luzes acesas refletidas no lago.\n\nNo lago, a régua da sequência é a linha da margem. Se ela sobe ou desce entre a estrutura e o render, a câmera mudou junto.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #casanolago #arquitetura #inteligenciaartificial",
+   "alt": "Render com IA de casa no lago: planta sobre a mesa, estrutura com tesouras sem telhas e casa pronta acesa refletida na água, mesma câmera"
+  },
+  {
+   "tipo": "cenas",
+   "horario": "18:10",
+   "ia": true,
+   "cenas": [
+    {
+     "fundo": "novas/lago-2026-11-13/1-planta.jpg",
+     "eb": "Conta do escritório",
+     "titulo": "3 tarefas e o tempo *de cada uma.*",
+     "dur": 2.8
+    },
+    {
+     "num": "01",
+     "eb": "Workflow 01",
+     "titulo": "Render *em cerca de 15 min.*",
+     "corpo": "Do modelo 3D à imagem de apresentação. Antes, cerca de 4 h.",
+     "dur": 3.4
+    },
+    {
+     "num": "02",
+     "eb": "Workflow 04",
+     "titulo": "Briefing *em cerca de 1 h.*",
+     "corpo": "Briefing e moodboard a partir das anotações da primeira reunião.",
+     "dur": 3.4
+    },
+    {
+     "num": "03",
+     "eb": "Workflow 05",
+     "titulo": "Proposta *em 24 h.*",
+     "corpo": "Arquivo-mestre, modelo e follow-ups prontos.",
+     "dur": 3.4
+    },
+    {
+     "eb": "Manual IA para Arquitetos",
+     "titulo": "7 workflows. *Comece por um.*",
+     "corpo": "60 prompts prontos",
+     "dur": 2.8
+    }
+   ],
+   "legenda": "IA no escritório de arquitetura: 3 tarefas e quanto tempo cada uma leva com o workflow certo.\n\nQuanto tempo a IA devolve na rotina do escritório? Depende da tarefa. Estas são 3 contas do manual IA para Arquitetos.\n\n1 · Render de apresentação: cerca de 15 min por imagem, contra cerca de 4 h antes (Workflow 01).\n2 · Briefing e moodboard: cerca de 1 h (Workflow 04).\n3 · Proposta: em 24 h, com arquivo-mestre, modelo e follow-ups (Workflow 05).\n\nOs outros 4 workflows cobrem a peça no ambiente, o antes e depois, o marketing e os documentos de obra.\n\nSalve e mande para quem divide o escritório com você.\n\n#iaparaarquitetos #escritoriodearquitetura #produtividade #arquitetura #inteligenciaartificial",
+   "alt": "Vídeo com 3 tarefas do escritório de arquitetura com IA: render em cerca de 15 min, briefing em cerca de 1 h e proposta em 24 h"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do traço à",
+    "casa com piscina"
+   ],
+   "rotulo": "CASA COM PISCINA",
+   "etapas": [
+    {
+     "img": "novas/piscina-2026-11-13/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/piscina-2026-11-13/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: casa térrea, laje em balanço e piscina longa"
+    },
+    {
+     "img": "novas/piscina-2026-11-13/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: pedra clara, oliveiras e sol da manhã"
+    }
+   ],
+   "frase": [
+    "A geometria fica.",
+    "O resto muda."
+   ],
+   "legenda": "Render com IA de casa com piscina: da planta a nanquim à casa minimalista pronta, na mesma vista aérea.\n\nComo mostrar a casa e a piscina antes da obra sem a IA mudar a implantação? Gere a casa pronta, tire dela a estrutura e mantenha a laje e a piscina no mesmo lugar.\n\n1 · Planta: a casa térrea, a piscina longa paralela à casa e o jardim.\n2 · Estrutura: pilares, laje em balanço e a piscina ainda em concreto, vistos do alto.\n3 · Casa pronta: volumes brancos, pedra clara, oliveiras e o sol baixo da manhã.\n\nNa casa minimalista, quem denuncia a IA é a linha reta: a borda da piscina e o beiral da laje precisam seguir paralelos na estrutura e no render.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para o próximo projeto com piscina.\n\n#iaparaarquitetos #render #casacompiscina #arquiteturaminimalista #arquitetura",
+   "alt": "Render com IA de casa minimalista com piscina: planta a nanquim, estrutura de concreto com piscina escavada e casa branca pronta pela manhã, mesma vista aérea"
+  }
+ ],
+ "carrosseis": [
+  {
+   "horario": "12:20",
+   "tema": "Render com água",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/lago-2026-11-13/3-pronta.jpg",
+     "eb": "Render com IA",
+     "titulo": "Casa com água: *5 cuidados no prompt.*",
+     "sub": "Lago, rio ou piscina.",
+     "fs": 96
+    },
+    {
+     "num": "01",
+     "eb": "Linha d'água",
+     "titulo": "A margem *não se move.*",
+     "corpo": "Desenhe a margem na planta e repita no prompt: a mesma linha d'água em todas as etapas."
+    },
+    {
+     "num": "02",
+     "eb": "Reflexo",
+     "titulo": "Peça o reflexo *da casa.*",
+     "corpo": "Água calma devolve a fachada e as luzes acesas. É o que dá profundidade à cena."
+    },
+    {
+     "num": "03",
+     "eb": "Vento",
+     "titulo": "Água lisa *ou ondulada?*",
+     "corpo": "Diga no prompt. A lisa espelha a casa; a ondulada quebra o reflexo."
+    },
+    {
+     "num": "04",
+     "eb": "Borda e píer",
+     "titulo": "Material *com nome.*",
+     "corpo": "Deck de cumaru, borda de pedra clara, píer de madeira. Nada de \"acabamento bonito\"."
+    },
+    {
+     "num": "05",
+     "eb": "Hora",
+     "titulo": "A hora *muda a água.*",
+     "prompt": "Casa térrea em frente ao lago, mesma margem da planta: deck de cumaru, píer de madeira, água calma refletindo a casa acesa ao anoitecer."
+    },
+    {
+     "eb": "Antes de enviar",
+     "titulo": "Confira a margem *e a borda.*",
+     "corpo": "Se a água subiu ou a piscina encolheu, a IA mudou o projeto. Volte ao prompt."
+    }
+   ],
+   "legenda": "Render com IA de casa com água: 5 cuidados no prompt para lago, rio ou piscina.\n\nPor que a água sai estranha no render feito com IA? Quase sempre faltou dizer no prompt onde ela está, como se comporta e a que horas.\n\n1 · Linha d'água: a margem fica no mesmo lugar em todas as etapas.\n2 · Reflexo: peça a casa e as luzes refletidas na água calma.\n3 · Vento: água lisa espelha; água ondulada quebra o reflexo.\n4 · Borda e píer: deck de cumaru, borda de pedra clara, píer de madeira.\n5 · Hora: ao anoitecer a água espelha as luzes; de manhã, mostra a cor da piscina.\n\nO prompt do slide 6 junta os cinco cuidados. É a lógica do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para o próximo projeto com água.\n\n#iaparaarquitetos #render #renderizacao #casanolago #arquitetura",
+   "alt": "Carrossel sobre render com IA de casa com água: linha d'água, reflexo, vento, borda e píer e hora do dia, com prompt pronto"
+  },
+  {
+   "horario": "19:30",
+   "tema": "Home office com IA",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/homeoffice-2026-11-13/4-render.jpg",
+     "eb": "Planta humanizada com IA",
+     "titulo": "Da planta ao *home office pronto.*",
+     "sub": "4 etapas, a mesma janela e o prompt de cada uma.",
+     "fs": 96
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-13/1-planta.jpg",
+     "nome": "Planta técnica",
+     "n": "01",
+     "prompt": "Base fixa: paredes, janela larga, porta, mesa e estante não mudam."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-13/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "n": "02",
+     "prompt": "Humanize esta planta: cimento queimado, carvalho, couro caramelo e tapete. Mesmas paredes."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-13/3-obra.jpg",
+     "nome": "Obra crua",
+     "n": "03",
+     "prompt": "Mesmo ambiente e mesma câmera do render: reboco, contrapiso e eletrodutos aparentes."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-13/4-render.jpg",
+     "nome": "Render final",
+     "n": "04",
+     "prompt": "Mesma câmera e mesma janela: mesa de carvalho, estante de piso a teto e luz da manhã."
+    },
+    {
+     "eb": "O cuidado principal",
+     "titulo": "A mesa *segue a janela.*",
+     "corpo": "No home office, a luz de trabalho vem da janela. Se a mesa troca de parede entre a planta e o render, o projeto mudou."
+    },
+    {
+     "tipo": "cta",
+     "eb": "IA para arquitetos",
+     "titulo": "O manual de IA que faltava *no seu escritório.*",
+     "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+    }
+   ],
+   "legenda": "Planta humanizada com IA e render de home office: 4 etapas do mesmo escritório, com o prompt de cada uma.\n\nComo manter a mesa, a janela e a estante no lugar da planta até o render? Cada prompt diz o que muda e o que fica.\n\n1 · Planta técnica: a base que não muda.\n2 · Planta humanizada: cimento queimado, carvalho e couro caramelo, vistos de cima.\n3 · Obra crua: reboco, contrapiso e eletrodutos, na câmera do render.\n4 · Render final: mesa de carvalho na janela, estante de piso a teto e luz da manhã.\n\nArraste e copie os prompts.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 7 workflows, 60 prompts e 4 vídeo-aulas, por R$ 97 ou 12x de R$ 10,03. Link na bio.\n\n#iaparaarquitetos #plantahumanizada #homeoffice #render #designdeinteriores",
+   "alt": "Carrossel de planta humanizada com IA de home office: planta técnica, planta humanizada, obra crua e escritório pronto, mesma câmera, com o prompt de cada etapa"
+  }
+ ],
+ "stories": [
+  {
+   "tipo": "foto",
+   "horario": "08:30",
+   "img": "novas/lago-2026-11-13/1-planta.jpg",
+   "eb": "Bom dia, arquiteto",
+   "titulo": "A margem *entra na planta.*",
+   "corpo": "Desenhe a linha d'água e o píer na implantação. É a referência que a IA precisa manter até o render.",
+   "fs": 96
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "10:30",
+   "gancho": [
+    "Da estrutura à",
+    "casa acesa"
+   ],
+   "rotulo": "CASA NO LAGO",
+   "etapas": [
+    {
+     "img": "novas/lago-2026-11-13/2-estrutura.jpg",
+     "nome": "Estrutura"
+    },
+    {
+     "img": "novas/lago-2026-11-13/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera: madeira, pedra e luzes refletidas no lago"
+    }
+   ],
+   "frase": [
+    "O arquiteto decide.",
+    "A IA executa."
+   ]
+  },
+  {
+   "tipo": "dica",
+   "horario": "13:00",
+   "eb": "Prompt do dia · salve",
+   "titulo": "Home office: *a luz vem da janela.*",
+   "prompt": "Mesma câmera e mesma janela: mesa de carvalho junto à janela, estante de piso a teto, luz da manhã vinda do jardim, sem pessoas.",
+   "rotulo": "Copie o prompt"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "15:30",
+   "gancho": [
+    "Do nanquim",
+    "ao concreto"
+   ],
+   "rotulo": "CASA COM PISCINA",
+   "etapas": [
+    {
+     "img": "novas/piscina-2026-11-13/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/piscina-2026-11-13/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: laje em balanço e piscina longa"
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ]
+  },
+  {
+   "tipo": "numero",
+   "horario": "17:20",
+   "num": "60",
+   "eb": "Manual IA para Arquitetos",
+   "titulo": "prompts prontos, *do render à obra.*",
+   "corpo": "Para copiar e adaptar ao seu projeto, junto com 7 workflows e 4 vídeo-aulas."
+  },
+  {
+   "tipo": "foto",
+   "horario": "19:00",
+   "img": "novas/piscina-2026-11-13/2-estrutura.jpg",
+   "eb": "Casa com piscina",
+   "titulo": "Tire a estrutura *da casa pronta.*",
+   "corpo": "Gere a casa pronta primeiro e peça a mesma câmera em concreto. Laje e piscina ficam no lugar.",
+   "fs": 96
+  },
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/piscina-2026-11-13/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

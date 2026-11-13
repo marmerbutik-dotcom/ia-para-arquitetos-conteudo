@@ -614,5 +614,132 @@
    "2026-11-12 story 08:30",
    "2026-11-12 reel 18:10"
   ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/1-planta.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHawWI8Mqs",
+  "descricao": "Planta técnica 2D de home office de 4 x 5 m: janela larga, mesa longa, estante de parede inteira e poltrona",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/2-humanizada.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHawTt8ACA",
+  "descricao": "Mesma planta humanizada: cimento queimado, mesa de carvalho na janela, estante de madeira, poltrona de couro caramelo e tapete",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30",
+   "2026-11-13 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/3-obra.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHaweCy6VI",
+  "descricao": "Home office em obra crua: reboco, contrapiso e vão da janela aberto para o jardim, mesma câmera do render",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30",
+   "2026-11-13 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/4-render.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHawdtr7Tw",
+  "descricao": "Home office contemporâneo: mesa de carvalho junto à janela para o jardim, estante de piso a teto com maquetes, poltrona de couro caramelo, luz da manhã",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30",
+   "2026-11-13 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-13/1-planta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-13",
+  "canva_media": "MAHawZz0pVk",
+  "descricao": "Planta de casa térrea à beira do lago a lápis sobre papel manteiga, com deck, píer e margem, régua e esquadro na mesa",
+  "sequencia": "lago-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 14:40",
+   "2026-11-13 reel 18:10",
+   "2026-11-13 story 08:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-13/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-13",
+  "canva_media": "MAHawd7VaXk",
+  "descricao": "Casa no lago em estrutura: pilares, vigas e tesouras sem telhas, píer só com a madeira, araucárias ao anoitecer",
+  "sequencia": "lago-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 14:40",
+   "2026-11-13 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-13/3-pronta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-13",
+  "canva_media": "MAHawYeYyn4",
+  "descricao": "Casa térrea de madeira e pedra em frente ao lago ao anoitecer, luzes acesas refletidas na água, deck e píer, araucárias",
+  "sequencia": "lago-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 14:40",
+   "2026-11-13 carrossel 12:20",
+   "2026-11-13 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-13/1-planta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-13",
+  "canva_media": "MAHawXNssqI",
+  "descricao": "Planta a nanquim de casa térrea minimalista com piscina longa e jardim sobre mesa de concreto",
+  "sequencia": "piscina-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 20:40",
+   "2026-11-13 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-13/2-estrutura.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-13",
+  "canva_media": "MAHawXBMCrs",
+  "descricao": "Casa minimalista em estrutura de concreto com laje em balanço e piscina escavada, terreno de obra pela manhã",
+  "sequencia": "piscina-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 20:40",
+   "2026-11-13 story 15:30",
+   "2026-11-13 story 19:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-13/3-pronta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-13",
+  "canva_media": "MAHawYVh_H4",
+  "descricao": "Casa térrea minimalista branca com piscina longa de pedra clara, oliveiras e gramíneas, vista aérea pela manhã",
+  "sequencia": "piscina-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 20:40",
+   "2026-11-13 reel 11:40",
+   "2026-11-13 story 21:30"
+  ]
  }
 ]
