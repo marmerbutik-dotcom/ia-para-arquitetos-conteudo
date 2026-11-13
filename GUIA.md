@@ -141,6 +141,18 @@ As pastas `novas/estilo-apto` e `novas/estilo-casa` são as sequências dos víd
 **Textos do estilo:** o `prompt` na tela é curto (até cerca de 90 caracteres) e diz o que muda e o que fica ("mesma câmera, mesma arquitetura"). Os nomes das etapas são de obra e projeto (Planta técnica, Planta humanizada, Obra crua, Estrutura, Render final, Casa pronta). A legenda explica a sequência em passos numerados e liga ao Workflow que mais se aproxima (W01 render a partir do modelo; W03 antes e depois mantendo a arquitetura), sem dizer que o manual traz um workflow de planta humanizada. Para a `frase`, alterne entre estas, sem repetir no mesmo dia: "O arquiteto decide. / A IA executa.", "Mesma câmera. / Mesma arquitetura.", "Apresente a casa / antes da obra.", "Do papel à / apresentação.", "A geometria fica. / O resto muda.".
 
 
+## 5e. Biblioteca de modelos de referência (pedido do Marcos em 13/11/2026)
+
+O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualizações ("precisamos de vários modelos diferentes rodando ao mesmo tempo"). Cada referência vira um modelo nesta tabela, com a análise do que deu certo e o tipo de pauta que o replica. A rotina gira os modelos: os 3 reels do dia usam 3 modelos diferentes, e nenhum modelo aparece em 2 dias seguidos no mesmo horário. O estilo `evolucao` (5d) é o modelo M0.
+
+| Modelo | Referência | O que deu certo (gancho, ritmo, texto, música) | Como replicar (tipo de pauta) | Status |
+|---|---|---|---|---|
+| M0 · Evolução | vídeos-modelo de 08/11 (`saida/estilo/`) | mesma câmera em etapas, linha de luz, prompt digitado | `evolucao` (5d) | ativo |
+| M1 | https://www.instagram.com/p/Dey7uwKP-bv/ (planta → obra final) | aguardando o vídeo para análise | a definir | pendente |
+| M2 | https://www.instagram.com/p/DeuFikVxyqk/ | aguardando o vídeo para análise | a definir | pendente |
+
+Modelo pendente não entra na pauta. Quando um modelo ficar ativo, a rotina compara o alcance dele com os outros nas métricas do Metricool e registra no relatório do dia.
+
 ## 5b. Imagens novas todo dia (pedido do Marcos em 7/11/2026)
 
 Todo dia a rotina **gera as 2 sequências do estilo evolução (7 imagens novas)** e as usa como fundo dos reels, capas de carrossel e stories. A regra é **alternar cenários para não ficar repetitivo**.
