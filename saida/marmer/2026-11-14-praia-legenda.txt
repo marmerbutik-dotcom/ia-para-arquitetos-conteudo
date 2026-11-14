@@ -1,0 +1,13 @@
+Render com IA de casa de praia: da planta a lápis ao sobrado pronto na duna, sempre com a mesma câmera.
+
+Dá para mostrar ao cliente a casa de praia antes da obra? Dá: gere a casa pronta a partir do seu projeto e tire dela a estrutura com a mesma câmera.
+
+1 · Planta: sobrado, deck, piscina e passarela até a areia.
+2 · Estrutura: pilares e lajes de concreto, com a piscina ainda na forma.
+3 · Casa pronta: concreto branco, cumaru e vidro diante do mar.
+
+A sequência segue a lógica do Workflow 01 do manual IA para Arquitetos, da Marmer Butik: render de apresentação em cerca de 15 min, com 7 workflows, 60 prompts e 4 vídeo-aulas.
+
+Conheça o manual em iaparaarquitetos.com.br e siga @ia.para.arquitetos.
+
+#iaparaarquitetos #marmerbutik #arquitetura #casadepraia #render

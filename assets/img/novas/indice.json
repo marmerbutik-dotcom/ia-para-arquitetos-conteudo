@@ -449,7 +449,8 @@
   "descricao": "Planta e corte de casa na montanha a nanquim sobre mesa de madeira, curvas de nível, régua e café, luz de neblina",
   "sequencia": "montanha-2026-11-11",
   "usos": [
-   "2026-11-11 reel 20:40"
+   "2026-11-11 reel 20:40",
+   "2026-11-14 reel 14:40 (fundo)"
   ]
  },
  {
@@ -740,6 +741,92 @@
    "2026-11-13 reel 20:40",
    "2026-11-13 reel 11:40",
    "2026-11-13 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/1-planta.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2Qm_bRw",
+  "descricao": "Planta técnica 2D de sala de jantar de casa de campo: mesa de 8 lugares, aparador e porta-janela para o jardim",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40",
+   "2026-11-14 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/2-humanizada.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2RFP47g",
+  "descricao": "Mesma planta humanizada: ladrilho terracota, mesa de madeira com cadeiras de couro, aparador e jardim",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40",
+   "2026-11-14 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/3-obra.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2QQu1Po",
+  "descricao": "Sala de jantar em obra crua: reboco, tijolo, contrapiso, vigas de madeira e vão aberto para o jardim à noite",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/4-render.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2duTgb0",
+  "descricao": "Sala de jantar colonial reinterpretada à noite: mesa de demolição, cadeiras de couro, pendente de vidro âmbar, ladrilho terracota",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40",
+   "2026-11-14 story 13:00",
+   "2026-11-14 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-14/1-planta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2cIeddo",
+  "descricao": "Planta de sobrado de praia a lápis sobre mesa clara, com deck, piscina estreita e passarela até a areia",
+  "sequencia": "praia-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 20:40",
+   "2026-11-14 story 08:30",
+   "2026-11-14 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-14/2-estrutura.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2cK2mZg",
+  "descricao": "Sobrado de praia em estrutura de concreto na duna, piscina na forma, mar ao fundo, vista aérea",
+  "sequencia": "praia-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 20:40",
+   "2026-11-14 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-14/3-pronta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2e-pNG0",
+  "descricao": "Sobrado de praia minimalista de concreto branco e cumaru, piscina estreita, passarela sobre a restinga até o mar, manhã",
+  "sequencia": "praia-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 20:40",
+   "2026-11-14 marmer 14:00",
+   "2026-11-14 story 21:30"
   ]
  }
 ]

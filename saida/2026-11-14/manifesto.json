@@ -1,0 +1,105 @@
+{
+ "data": "2026-11-14",
+ "pecas": [
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "08:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Planta humanizada com IA de sala de jantar: da planta técnica à mesa posta à noite, com a porta-janela no mesmo lugar.\n\nComo mostrar ao cliente a sala de jantar antes da obra, sem a IA mexer nas paredes? Faça cada etapa a partir da anterior e diga no prompt o que fica igual.\n\n1 · Planta técnica: mesa de 8 lugares, aparador e porta-janela para o jardim, definidos por você.\n2 · Planta humanizada: ladrilho terracota, mesa de madeira e cadeiras de couro, vistos de cima.\n3 · Obra crua: reboco, contrapiso e vigas de madeira, na mesma câmera do render.\n4 · Render final: mesa de demolição, pendente de vidro âmbar e a luz da noite.\n\nNa sala de jantar, a régua da sequência é o eixo da mesa com a porta-janela. Se a mesa sai do eixo entre a planta e o render, a imagem deixou de ser o seu projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar a próxima sala de jantar.\n\n#iaparaarquitetos #plantahumanizada #saladejantar #designdeinteriores #render",
+   "alt": "Planta humanizada com IA de sala de jantar: planta técnica, planta humanizada, obra crua e mesa de demolição posta à noite, mesma câmera",
+   "horario": "11:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-02",
+   "arquivos": [
+    "story-02.mp4"
+   ],
+   "horario": "13:00",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-02",
+   "arquivos": [
+    "reel-02.mp4"
+   ],
+   "capa": "reel-02-capa.jpg",
+   "duracao": 15.6,
+   "legenda": "IA para arquitetos não é só render: 4 tarefas do escritório que também cabem num workflow.\n\nIA para arquitetos serve só para render? Não. A imagem é a parte mais visível, mas briefing, proposta, marketing e documentos de obra também andam mais rápido com o prompt certo.\n\n1 · Briefing e moodboard: em cerca de 1 h, a partir das anotações da reunião (Workflow 04).\n2 · Proposta: em 24 h, com arquivo-mestre, modelo e follow-ups (Workflow 05).\n3 · Marketing: 2 h por semana, com rotina, 12 pautas e prompts de legenda (Workflow 06).\n4 · Documentos e obra: atas, memoriais, cronogramas e manual do morador (Workflow 07).\n\nPara texto, o manual cita ChatGPT, Claude e Gemini. Em todos os casos, a revisão e a decisão final são suas.\n\nO manual IA para Arquitetos tem 7 workflows. O render é o Workflow 01; os outros 6 vão da peça no ambiente aos documentos de obra.\n\nQual dessas 4 tarefas mais toma o seu tempo hoje? Conta nos comentários.\n\n#iaparaarquitetos #inteligenciaartificial #escritoriodearquitetura #propostacomercial #arquitetos",
+   "alt": "Vídeo sobre IA para arquitetos além do render: briefing em cerca de 1 h, proposta em 24 h, marketing em 2 h por semana e documentos de obra",
+   "horario": "14:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-03",
+   "arquivos": [
+    "story-03.jpg"
+   ],
+   "horario": "17:20",
+   "link": "",
+   "nota": "",
+   "ia": false
+  },
+  {
+   "tipo": "CARROSSEL",
+   "id": "carrossel-01",
+   "arquivos": [
+    "carrossel-01-01.jpg",
+    "carrossel-01-02.jpg",
+    "carrossel-01-03.jpg",
+    "carrossel-01-04.jpg",
+    "carrossel-01-05.jpg",
+    "carrossel-01-06.jpg",
+    "carrossel-01-07.jpg"
+   ],
+   "legenda": "Render de interiores com IA à noite: 5 linhas no prompt para a luz acesa não ficar com cara de IA.\n\nPor que o render noturno feito com IA parece falso? Quase sempre o prompt não diz a hora, não dá nome às luminárias e esquece o lado de fora da janela.\n\n1 · Hora: escreva \"noite, luzes acesas\".\n2 · Fontes: pendente, arandela, vela. Só as que estão no projeto.\n3 · Cor: luz quente nas luminárias e jardim escuro lá fora.\n4 · Janela: nada de céu azul atrás do vidro.\n5 · Geometria: trave câmera e vãos antes de pedir a luz.\n\nO prompt do slide 6 junta as cinco linhas. É a lógica do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para o próximo render noturno.\n\n#iaparaarquitetos #renderizacao #designdeinteriores #iluminacao #render",
+   "alt": "Carrossel sobre render de interiores com IA à noite: sala de jantar com pendente aceso e 5 linhas de prompt para a luz",
+   "horario": "19:30",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-03",
+   "arquivos": [
+    "reel-03.mp4"
+   ],
+   "capa": "reel-03-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Render com IA de casa na praia: da planta a lápis ao sobrado pronto sobre a restinga, com a mesma câmera aérea.\n\nComo apresentar uma casa de praia antes da obra? Gere a casa pronta, tire dela a estrutura e mantenha o ângulo, a duna e a linha do mar.\n\n1 · Planta: o sobrado, o deck, a piscina estreita e a passarela até a areia.\n2 · Estrutura: pilares, lajes e escada de concreto, com a piscina ainda na forma.\n3 · Casa pronta: concreto branco, cumaru, vidro e a restinga até o mar, numa manhã de céu limpo.\n\nNa praia, a régua da sequência é o horizonte. Se a linha do mar sobe ou desce entre a estrutura e o render, a câmera mudou junto.\n\nO Workflow 01 do manual IA para Arquitetos leva o render de apresentação de cerca de 4 h para cerca de 15 min. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #casadepraia #arquiteturacontemporanea #arquitetura",
+   "alt": "Render com IA de casa na praia: planta a lápis, estrutura de concreto na duna e sobrado de concreto branco e cumaru pronto, mesma câmera",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-04",
+   "arquivos": [
+    "story-04.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}
