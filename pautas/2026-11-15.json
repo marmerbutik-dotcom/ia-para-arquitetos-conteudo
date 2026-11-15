@@ -1,0 +1,121 @@
+{
+ "data": "2026-11-15",
+ "obs": "Domingo (dia ímpar: carrossel de etapas; reel da Marmer com a sequência de interior). Os 3 horários de reel (11:40, 14:40, 20:40) já estavam ocupados pelos reels extras de 14/11 (m3 loft, m6 prompt em 4 partes, m5 estrutura explicada, ids 428279688, 428279700, 428279717), que contam no mix; esta pauta cobre só o carrossel e os 4 stories. Rodízio: casa na montanha (casa térrea em L de pedra e cumaru, telha metálica escura, entardecer de inverno com lareira acesa) e apartamento (sala ampla com varanda e vista da cidade à noite, moderno brasileiro). 7 imagens novas no Canva. Palavras-chave: 'planta humanizada' (carrossel) e 'render com IA' (stories); Semrush sem unidades de API. Venda forte: carrossel 19:30 e story 21:30 (os 3 reels já agendados não vendem).",
+ "reels": [],
+ "carrosseis": [
+  {
+   "horario": "19:30",
+   "ia": true,
+   "tema": "Apartamento com vista",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/apartamento-2026-11-15/4-render.jpg",
+     "eb": "Planta humanizada com IA",
+     "titulo": "Da planta à *sala com vista.*",
+     "sub": "4 etapas, a mesma varanda e o prompt de cada uma.",
+     "fs": 96
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/apartamento-2026-11-15/1-planta.jpg",
+     "nome": "Planta técnica",
+     "n": "01",
+     "prompt": "Base fixa: paredes, porta de correr, varanda, mesa e sofá não mudam."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/apartamento-2026-11-15/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "n": "02",
+     "prompt": "Humanize esta planta: granilite, deque na varanda, linho e freijó. Mesmas paredes."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/apartamento-2026-11-15/3-obra.jpg",
+     "nome": "Obra crua",
+     "n": "03",
+     "prompt": "Mesma câmera do render: reboco, contrapiso, fios aparentes e o vão da varanda aberto."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/apartamento-2026-11-15/4-render.jpg",
+     "nome": "Render final",
+     "n": "04",
+     "prompt": "Mesma câmera e mesmo vão: freijó, linho, pendente de palha e a cidade acesa lá fora."
+    },
+    {
+     "eb": "O cuidado principal",
+     "titulo": "A varanda *não anda.*",
+     "corpo": "No apartamento, o vão da varanda é a régua da sequência. Se a porta de vidro muda de largura entre a obra e o render, o cliente percebe na hora."
+    },
+    {
+     "tipo": "cta",
+     "eb": "IA para arquitetos",
+     "titulo": "O manual de IA que faltava *no seu escritório.*",
+     "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+    }
+   ],
+   "legenda": "Planta humanizada com IA de apartamento: da planta técnica à sala pronta à noite, com a cidade acesa na varanda.\n\nComo levar o cliente da planta até a sala com vista sem a IA mexer nas paredes? Cada etapa nasce da anterior, e o prompt diz o que muda e o que fica.\n\n1 · Planta técnica: paredes, porta de correr, varanda, mesa e sofá definidos por você.\n2 · Planta humanizada: granilite, deque na varanda, linho e freijó, vistos de cima.\n3 · Obra crua: reboco, contrapiso e fios aparentes, na mesma câmera do render.\n4 · Render final: painel de freijó, sofá de linho, pendente de palha e a cidade iluminada lá fora.\n\nGere o render antes da obra crua e tire a obra dele. Assim o vão da varanda fica exatamente no mesmo lugar nas duas imagens.\n\nArraste e copie os prompts.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01. São 7 workflows, 60 prompts e 4 vídeo-aulas, por R$ 97 ou 12x de R$ 10,03. Link na bio.\n\n#iaparaarquitetos #plantahumanizada #apartamento #designdeinteriores #render",
+   "alt": "Carrossel de planta humanizada com IA de apartamento: planta técnica, planta humanizada, obra crua e sala pronta com vista da cidade à noite, mesma câmera"
+  }
+ ],
+ "stories": [
+  {
+   "tipo": "foto",
+   "horario": "08:30",
+   "img": "novas/montanha-2026-11-15/1-planta.jpg",
+   "eb": "Bom dia, arquiteto",
+   "titulo": "A escada *nasce nas curvas.*",
+   "corpo": "Desenhe o caminho e o terraço sobre as curvas de nível. É a referência que a IA mantém até a casa pronta.",
+   "fs": 96
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "13:00",
+   "gancho": [
+    "Da planta à",
+    "lareira acesa"
+   ],
+   "rotulo": "CASA NA MONTANHA",
+   "etapas": [
+    {
+     "img": "novas/montanha-2026-11-15/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/montanha-2026-11-15/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: casa em L, pedra e tesouras de madeira"
+    },
+    {
+     "img": "novas/montanha-2026-11-15/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera: cumaru, telha escura e lareira acesa"
+    }
+   ],
+   "frase": [
+    "Apresente a casa",
+    "antes da obra."
+   ]
+  },
+  {
+   "tipo": "dica",
+   "horario": "17:20",
+   "eb": "Prompt do dia · salve",
+   "titulo": "Serra no inverno: *acenda o fogo.*",
+   "prompt": "Mesma câmera aérea: casa em L de pedra e cumaru, telha metálica escura, lareira e fogo de chão acesos, entardecer de inverno na serra, sem pessoas.",
+   "rotulo": "Copie o prompt"
+  },
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/montanha-2026-11-15/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

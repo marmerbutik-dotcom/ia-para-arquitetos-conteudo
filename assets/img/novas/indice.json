@@ -828,5 +828,87 @@
    "2026-11-14 marmer 14:00",
    "2026-11-14 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/1-planta.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8Yvdz_U",
+  "descricao": "Planta técnica 2D de apartamento: sala e jantar em L, cozinha com bancada, quarto, banheiro e varanda ao longo da fachada",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/2-humanizada.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8dEw6So",
+  "descricao": "Mesma planta humanizada: granilite, deque na varanda, sofá de linho, poltronas de couro e mesa redonda de freijó",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30",
+   "2026-11-15 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/3-obra.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8QLx48c",
+  "descricao": "Sala do apartamento em obra crua à noite: reboco, contrapiso, fios aparentes e o vão da varanda aberto para a cidade; mesma câmera do render",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30",
+   "2026-11-15 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/4-render.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8Swx0gA",
+  "descricao": "Sala de apartamento moderno brasileiro à noite: granilite, painel de freijó, sofá de linho, pendente de palha e varanda com vista da cidade",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30",
+   "2026-11-15 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-15/1-planta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8QN3rKY",
+  "descricao": "Planta de casa de montanha em L a nanquim sobre papel manteiga, curvas de nível, escada de acesso, hortênsia e chá na mesa de madeira escura",
+  "sequencia": "montanha-2026-11-15",
+  "usos": [
+   "2026-11-15 story 08:30",
+   "2026-11-15 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-15/2-estrutura.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8TVU6Oc",
+  "descricao": "Casa de montanha em estrutura: paredes de pedra, tesouras de madeira sem telhas, terreno de obra, araucárias e serra ao entardecer; mesma câmera",
+  "sequencia": "montanha-2026-11-15",
+  "usos": [
+   "2026-11-15 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-15/3-pronta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8WaAZNU",
+  "descricao": "Casa térrea em L de pedra e cumaru com telha metálica escura, lareira e fogo de chão acesos, hortênsias e araucárias, entardecer de inverno",
+  "sequencia": "montanha-2026-11-15",
+  "usos": [
+   "2026-11-15 story 13:00",
+   "2026-11-15 story 21:30"
+  ]
  }
 ]
