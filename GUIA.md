@@ -2,17 +2,17 @@
 
 Este repositório gera e hospeda as peças diárias do perfil **@ia.para.arquitetos** (infoproduto "IA para Arquitetos", da Marmer Butik, vendido em https://iaparaarquitetos.com.br). A rotina roda sozinha: escreve a pauta do dia seguinte, gera as peças, sobe aqui e agenda tudo no Metricool, que publica nos horários.
 
-## 1. Volume e horários (reduzido pelo Marcos em 13/11/2026: "diminua a frequência, 1 carrossel por dia, 3 reels, 4 stories")
+## 1. Volume e horários (reduzido pelo Marcos em 16/11/2026: "diminua o fluxo de postagens", grade de 4 por dia)
 
-Todo dia, fuso America/Sao_Paulo, a partir de 14/11/2026 (8 peças por dia):
+Todo dia, fuso America/Sao_Paulo, a partir de 17/11/2026 (o resto de 16/11 já seguiu esta grade):
 
 | Tipo | Qtde | Horários |
 |---|---|---|
-| Reel | 3 | 11:40 · 14:40 · 20:40 |
-| Carrossel | 1 | 19:30 |
-| Story | 4 | 08:30 · 13:00 · 17:20 · 21:30 |
+| Reel | 2 por dia | 11:40 · 20:40 |
+| Story | 2 por dia | 13:00 (evolução em vídeo) · 21:30 (link) |
+| Carrossel | 3 por semana (seg, qua e sex) | 19:30 |
 
-Os horários seguem os reels que mais alcançaram na 1ª semana (14:40 e 20:40) e o pico do público no Metricool (11–12 h e 17–20 h). Reels sempre com no mínimo 2 h de intervalo. (Até 13/11 eram 5 reels, 2 carrosséis e 7 stories.) Publicação direta (autoPublish true), sem aprovação prévia.
+São 4 peças por dia, 5 nos dias de carrossel (cerca de 31 por semana, antes eram 56). O 14:40 saiu da grade por ser o horário de menor alcance da 1ª semana; 11:40 e 20:40 ficaram por estarem entre os melhores. Publicação direta (autoPublish true), sem aprovação prévia. (Até 13/11: 5 reels, 2 carrosséis e 7 stories; de 14 a 16/11: 3 reels, 1 carrossel e 4 stories.)
 
 ## 2. Sobre o produto: só fatos confirmados
 
@@ -49,7 +49,7 @@ Estes são os pilares. Gire entre eles e não repita o mesmo tema em 7 dias (con
 6. **Ferramentas.** Quando usar cada uma, sem prometer recurso que não conhece.
 7. **Bastidores e autoria.** O arquiteto decide, a IA executa. Repertório e assinatura são do arquiteto.
 
-Fecho comercial: no máximo 2 das 8 peças do dia terminam em venda forte (preço e "link na bio"), contando o story `link`. As outras terminam em salvar, comentar ou compartilhar.
+Fecho comercial: no máximo 2 peças do dia terminam em venda forte (preço e "link na bio"), contando o story `link`. As outras terminam em salvar, comentar ou compartilhar.
 
 ## 4. SEO, AEO e GEO em toda peça
 
@@ -136,7 +136,7 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
 - **Carrossel:**
   - De 5 a 8 slides, com `tema` (rodapé curto).
   - Tipos de slide: `capa` (com `par` ou `img`), texto (com `num`, `eb`, `titulo`, `corpo`, `prompt`), `lista` (`itens` como ["texto", "detalhe"]), `imagem` (`par`), `etapa` e `cta`.
-  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). O carrossel do dia alterna: dia ímpar é "etapas" (capa com a última imagem, 1 slide `etapa` por etapa, com o prompt de cada uma, 1 slide de texto com o cuidado principal e `cta`); dia par é um carrossel normal (lista, erros, prompts, conta do escritório).
+  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). O carrossel sai só segunda, quarta e sexta: na quarta é "etapas" (capa com a última imagem, 1 slide `etapa` por etapa, com o prompt de cada uma, 1 slide de texto com o cuidado principal e `cta`); segunda e sexta é um carrossel normal (lista, erros, prompts, conta do escritório).
 - **Story (tudo automático, sem adesivos — pedido do Marcos em 7/11):** o story precisa funcionar sozinho, sem enquete, caixa de perguntas, emoji deslizante nem adesivo de link. NUNCA escreva no story algo que peça voto, resposta na caixa ou toque em adesivo ("vote", "responda aqui", "toque no link"). Use perguntas só como gancho retórico, já respondidas no próprio story.
   - Tipos: `foto` (imagem de fundo + título + corpo curto), `dica` (prompt), `imagem` (`par`), `numero`, `lista`, `link` e `evolucao`.
   - `evolucao`: story em vídeo (10 a 14 s), com os mesmos campos do reel `evolucao` mas só 2 ou 3 etapas e sem `legenda`. Sai como `story-NN.mp4`, sem cartão final. Use 1 por dia.
@@ -154,7 +154,7 @@ Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e gr
 
 O Marcos mandou 6 reels de referência (planta que vira planta humanizada, obra crua que vira render, planta que vira estrutura e casa pronta, sempre com a mesma câmera) e pediu esse estilo nos reels, carrosséis e stories. Os 2 vídeos-modelo estão na LP (seção "Em movimento") e em `saida/estilo/`.
 
-**Mix diário (desde 14/11):** 2 reels `evolucao` (1 interior, 1 casa) + 1 reel de outro tipo (pergunta-mito ou lista, que são os que mais alcançam; `wipe` no máximo 1 vez por semana); 1 carrossel (etapas no dia ímpar, normal no dia par); 1 story `evolucao` + 2 stories estáticos + o story `link` às 21:30.
+**Mix diário (desde 17/11, grade de 4 por dia):** 2 reels `evolucao` (11:40 interior, 20:40 casa; às quartas o reel das 11:40 vira pergunta-mito/FAQ, que cumpre o FAQ semanal do 4b; `wipe` no máximo 1 vez por semana, no lugar de um `evolucao`); 1 story `evolucao` às 13:00 + o story `link` às 21:30; carrossel às 19:30 só segunda, quarta e sexta (quarta = carrossel de etapas com slides `etapa`; segunda e sexta = carrossel normal). Terça, quinta, sábado e domingo não têm carrossel.
 
 **Sequências do dia (Canva, por referência):** cada dia gere 2 sequências novas no cenário do rodízio (5b), uma de interior e uma de casa:
 - **Interior (4 imagens):** 1 planta técnica (desenho 2D preto sobre branco, vista de cima, cotas, sem texto legível) → 2 planta humanizada (`imageReferences` = imagem 1; "mesma planta, mesmas paredes e mesmo enquadramento, agora humanizada: vista de cima, pisos, móveis, plantas, sombras suaves") → 4 render do ambiente principal na altura do olho → 3 obra crua (`imageReferences` = imagem 4; "mesmo ambiente, mesma câmera e mesmas aberturas, em obra: concreto e reboco crus, sem móveis, tubulação aparente"). Gere a 4 antes da 3: a obra sai da imagem pronta, então as linhas casam.
@@ -195,7 +195,7 @@ As pastas `novas/estilo-apto` e `novas/estilo-casa` são as sequências dos víd
 
 ## 5e. Biblioteca de modelos de referência (pedido do Marcos em 13/11/2026)
 
-O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualizações ("precisamos de vários modelos diferentes rodando ao mesmo tempo"). Cada referência vira um modelo nesta tabela, com a análise do que deu certo e o tipo de pauta que o replica. A rotina gira os modelos: os 3 reels do dia usam 3 modelos diferentes, e nenhum modelo aparece em 2 dias seguidos no mesmo horário. O estilo `evolucao` (5d) é o modelo M0.
+O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualizações ("precisamos de vários modelos diferentes rodando ao mesmo tempo"). Cada referência vira um modelo nesta tabela, com a análise do que deu certo e o tipo de pauta que o replica. A rotina gira os modelos: os 2 reels do dia usam modelos diferentes, e nenhum modelo aparece em 2 dias seguidos no mesmo horário. O estilo `evolucao` (5d) é o modelo M0.
 
 | Modelo | Referência | O que deu certo (gancho, ritmo, texto, música) | Como replicar (tipo de pauta) | Status |
 |---|---|---|---|---|
@@ -288,7 +288,7 @@ Corrija na pauta e gere de novo antes de agendar. Uma legenda com erro é pior q
   - **Story:** `instagramData: {"type":"STORY"}`, `media: [jpg ou mp4]`, sem `text`.
 - **Data:** `date` e `publicationDate` no horário do manifesto, com timezone America/Sao_Paulo.
 - **Horário já ocupado:** antes de agendar, chame getScheduledPosts do dia. Se um horário do item 1 já tiver um post (o Marcos ou uma sessão anterior pode ter agendado algo à mão), não agende outra peça do mesmo tipo nele: pule a peça correspondente da pauta e registre no relatório.
-- **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 8 posts (3 reels, 1 carrossel, 4 stories), contando os que já estavam agendados. Posts em rascunho (draft) não contam.
+- **Conferência:** no fim, chame getScheduledPosts do dia e confira que são 4 posts (2 reels e 2 stories), ou 5 nos dias de carrossel (seg, qua e sex), contando os que já estavam agendados. Posts em rascunho (draft) não contam.
 - **Erro:** se uma chamada der erro, corrija o JSON e tente de novo uma vez. Se falhar de novo, pule a peça e registre em `relatorios/AAAA-MM-DD.md`.
 
 ## 6b. 1 reel por dia na @marmerbutik (pedido do Marcos em 8/11/2026)
