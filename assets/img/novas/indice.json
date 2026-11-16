@@ -102,7 +102,9 @@
   "data": "2026-11-09",
   "canva_media": "MAHaYeJ8inw",
   "descricao": "Sala de casa de montanha à noite: lareira de pedra, poltrona de couro, araucárias",
-  "usos": []
+  "usos": [
+   "2026-11-16 reel 14:40"
+  ]
  },
  {
   "arquivo": "novas/chale-2026-11-09/1-planta.jpg",
@@ -909,6 +911,92 @@
   "usos": [
    "2026-11-15 story 13:00",
    "2026-11-15 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/1-planta.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCSFthCQ",
+  "descricao": "Planta técnica 2D de suíte master: cama, closet linear, banheiro com duas cubas e box, porta para pequena varanda",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40",
+   "2026-11-16 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/2-humanizada.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCXwhw8Y",
+  "descricao": "Mesma planta humanizada: carvalho claro, linho, tapete de juta, closet de freijó e plantas na varanda",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40",
+   "2026-11-16 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/3-obra.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCdlfEyw",
+  "descricao": "Suíte em obra crua: reboco, contrapiso, eletrodutos aparentes e o vão da varanda aberto; mesma câmera do render",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/4-render.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCcIi5pc",
+  "descricao": "Suíte master japandi: cabeceira ripada de freijó, linho cru, banco de palha, pendente de papel e luz da manhã pela varanda",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40",
+   "2026-11-16 story 13:00",
+   "2026-11-16 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-16/1-planta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCea-J-A",
+  "descricao": "Planta de casa térrea de bairro a lápis sobre papel manteiga na prancheta, com garagem, jardim, sala integrada e quintal",
+  "sequencia": "bairro-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 20:40",
+   "2026-11-16 story 08:30",
+   "2026-11-16 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-16/2-estrutura.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCQFAVYc",
+  "descricao": "Casa térrea em estrutura de concreto e blocos, piscina sem revestimento, rua de bairro ao entardecer; mesma câmera aérea",
+  "sequencia": "bairro-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 20:40",
+   "2026-11-16 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-16/3-pronta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCX0QEyY",
+  "descricao": "Casa térrea contemporânea de tijolo claro e cumaru, portão ripado, ipê amarelo e piscina nos fundos, entardecer, vista aérea",
+  "sequencia": "bairro-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 20:40",
+   "2026-11-16 marmer 14:00",
+   "2026-11-16 story 21:30"
   ]
  }
 ]
