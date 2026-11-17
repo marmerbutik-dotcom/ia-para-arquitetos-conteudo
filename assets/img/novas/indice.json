@@ -998,5 +998,89 @@
    "2026-11-16 marmer 14:00",
    "2026-11-16 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/1-planta.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIVksBY8",
+  "descricao": "Planta técnica 2D de varanda gourmet: bancada em L com churrasqueira, ilha com cooktop, mesa de 8 lugares, sofá e jardineira",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/2-humanizada.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIY6k4mQ",
+  "descricao": "Planta humanizada da varanda gourmet: porcelanato amadeirado, quartzito, palhinha, sisal e folhagens tropicais, fim de tarde",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 story 13:00",
+   "2026-11-17 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/3-obra.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbITGLqHw",
+  "descricao": "Varanda gourmet em obra crua: laje aparente, churrasqueira e bancada em alvenaria, palmeiras ao fundo (tirada do render)",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/4-render.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIe3mmQc",
+  "descricao": "Varanda gourmet tropical moderna: churrasqueira de pedra, quartzito, forro de cumaru, pendentes de fibra, mesa de madeira, fim de tarde",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 story 13:00",
+   "2026-11-17 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-17/1-planta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-17",
+  "canva_media": "MAHbITKpyRM",
+  "descricao": "Planta de chalé em A a grafite sobre papel vegetal na prancheta escura, escalímetro, lapiseira e borracha",
+  "sequencia": "chale-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-17/2-estrutura.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIfeFoe0",
+  "descricao": "Estrutura de chalé em A: tesouras de madeira, piso do mezanino, chaminé de pedra e deck nas vigas, araucárias (tirada da casa pronta)",
+  "sequencia": "chale-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-17/3-pronta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIfkMMkg",
+  "descricao": "Chalé em A de madeira queimada com empena de vidro acesa, deck e chaminé de pedra entre araucárias, entardecer de inverno com geada, vista aérea",
+  "sequencia": "chale-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 20:40",
+   "2026-11-17 story 21:30"
+  ]
  }
 ]

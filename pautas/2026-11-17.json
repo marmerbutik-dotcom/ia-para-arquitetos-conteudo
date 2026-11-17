@@ -1,0 +1,128 @@
+{
+ "data": "2026-11-17",
+ "obs": "Terça-feira (sem carrossel; dia ímpar: reel da Marmer com a sequência de interior). Primeiro dia da grade de 4 peças (16/11). Nada agendado antes para o dia. Rodízio: chalé de montanha (chalé em A de madeira queimada entre araucárias, entardecer de inverno, vista aérea) e área interna (varanda gourmet tropical moderna, fim de tarde). 7 imagens novas no Canva. Palavras-chave (Semrush sem unidades de API; GUIA 4b e métricas): 'planta humanizada com IA' (interior) e 'do projeto à obra com IA' (casa). Métricas 10 a 16/11: fachada em etapas (263), prédio em 4 etapas (115), home office com 'planta humanizada' (113) e cozinha da obra crua ao render (105) na frente.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "11:40",
+   "ia": true,
+   "gancho": [
+    "Da planta à",
+    "varanda gourmet"
+   ],
+   "rotulo": "VARANDA GOURMET",
+   "etapas": [
+    {
+     "img": "novas/varanda-2026-11-17/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/varanda-2026-11-17/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: quartzito, palhinha e folhagens, mesmas paredes"
+    },
+    {
+     "img": "novas/varanda-2026-11-17/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.42,
+      0.3
+     ]
+    },
+    {
+     "img": "novas/varanda-2026-11-17/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma churrasqueira: pedra, forro de cumaru e luz dourada"
+    }
+   ],
+   "frase": [
+    "A geometria fica.",
+    "O resto muda."
+   ],
+   "legenda": "Planta humanizada com IA de varanda gourmet: da planta técnica à churrasqueira pronta, sem a bancada mudar de parede.\n\nComo mostrar a varanda gourmet ao cliente antes da obra, sem a IA trocar a churrasqueira de lugar? Faça cada etapa a partir da anterior e escreva no prompt o que fica igual.\n\n1 · Planta técnica: bancada em L com churrasqueira, ilha com cooktop, mesa de 8 lugares e jardineira, definidos por você.\n2 · Planta humanizada: porcelanato amadeirado, quartzito, cadeiras de palhinha e folhagens tropicais, vistos de cima.\n3 · Obra crua: laje aparente, churrasqueira e bancada em alvenaria, na mesma câmera do render.\n4 · Render final: pedra na parede da churrasqueira, forro de cumaru, pendentes de fibra e a luz dourada do fim de tarde.\n\nNa varanda gourmet, a régua da sequência é a parede da churrasqueira: coifa, bancada e ilha no mesmo alinhamento. Se a churrasqueira muda de lugar entre a obra e o render, a imagem deixou de ser o seu projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar a próxima varanda gourmet.\n\n#iaparaarquitetos #plantahumanizada #varandagourmet #designdeinteriores #render",
+   "alt": "Planta humanizada com IA de varanda gourmet: planta técnica, planta humanizada, obra crua e varanda tropical pronta ao fim de tarde, mesma câmera"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do grafite ao",
+    "chalé em A"
+   ],
+   "rotulo": "CHALÉ EM A",
+   "etapas": [
+    {
+     "img": "novas/chale-2026-11-17/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/chale-2026-11-17/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: chalé em A, mezanino, lareira e deck na frente"
+    },
+    {
+     "img": "novas/chale-2026-11-17/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: madeira queimada, empena de vidro e janelas acesas"
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ],
+   "legenda": "Do projeto à obra com IA: chalé em A na serra, da planta a grafite às janelas acesas, sempre com a mesma câmera aérea.\n\nQuanto tempo leva um render de apresentação com IA? Cerca de 15 min por imagem, contra cerca de 4 h antes, seguindo o Workflow 01.\n\n1 · Planta: o triângulo do chalé, o mezanino, a lareira central e o deck na frente.\n2 · Estrutura: as tesouras de madeira em A, o piso do mezanino, a chaminé de pedra e o deck só nas vigas.\n3 · Casa pronta: madeira queimada, telhado metálico escuro, empena de vidro e as luzes acesas no entardecer de inverno.\n\nNo chalé em A, a régua da sequência é a empena: o triângulo das tesouras e o da fachada de vidro têm a mesma altura e a mesma inclinação. Se ele muda entre a estrutura e o render, mudou a câmera ou mudou o projeto.\n\nNo manual IA para Arquitetos, esse caminho é o Workflow 01, do modelo 3D ao render. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #chale #casadecampo #arquitetura",
+   "alt": "Do projeto à obra com IA: planta a grafite, estrutura em A e chalé de madeira queimada pronto entre araucárias ao entardecer, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "evolucao",
+   "horario": "13:00",
+   "gancho": [
+    "Da planta à",
+    "churrasqueira acesa"
+   ],
+   "rotulo": "VARANDA GOURMET",
+   "etapas": [
+    {
+     "img": "novas/varanda-2026-11-17/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/varanda-2026-11-17/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize: madeira, linho e folhagens"
+    },
+    {
+     "img": "novas/varanda-2026-11-17/4-render.jpg",
+     "nome": "Render final",
+     "trans": "mergulho",
+     "foco": [
+      0.42,
+      0.3
+     ]
+    }
+   ],
+   "frase": [
+    "O arquiteto decide.",
+    "A IA executa."
+   ]
+  },
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/chale-2026-11-17/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "data": "2026-11-17",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Planta humanizada com IA de varanda gourmet: da planta técnica à churrasqueira pronta, sem a bancada mudar de parede.\n\nComo mostrar a varanda gourmet ao cliente antes da obra, sem a IA trocar a churrasqueira de lugar? Faça cada etapa a partir da anterior e escreva no prompt o que fica igual.\n\n1 · Planta técnica: bancada em L com churrasqueira, ilha com cooktop, mesa de 8 lugares e jardineira, definidos por você.\n2 · Planta humanizada: porcelanato amadeirado, quartzito, cadeiras de palhinha e folhagens tropicais, vistos de cima.\n3 · Obra crua: laje aparente, churrasqueira e bancada em alvenaria, na mesma câmera do render.\n4 · Render final: pedra na parede da churrasqueira, forro de cumaru, pendentes de fibra e a luz dourada do fim de tarde.\n\nNa varanda gourmet, a régua da sequência é a parede da churrasqueira: coifa, bancada e ilha no mesmo alinhamento. Se a churrasqueira muda de lugar entre a obra e o render, a imagem deixou de ser o seu projeto.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para apresentar a próxima varanda gourmet.\n\n#iaparaarquitetos #plantahumanizada #varandagourmet #designdeinteriores #render",
+   "alt": "Planta humanizada com IA de varanda gourmet: planta técnica, planta humanizada, obra crua e varanda tropical pronta ao fim de tarde, mesma câmera",
+   "horario": "11:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.mp4"
+   ],
+   "horario": "13:00",
+   "link": "",
+   "nota": "",
+   "ia": true
+  },
+  {
+   "tipo": "REEL",
+   "id": "reel-02",
+   "arquivos": [
+    "reel-02.mp4"
+   ],
+   "capa": "reel-02-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Do projeto à obra com IA: chalé em A na serra, da planta a grafite às janelas acesas, sempre com a mesma câmera aérea.\n\nQuanto tempo leva um render de apresentação com IA? Cerca de 15 min por imagem, contra cerca de 4 h antes, seguindo o Workflow 01.\n\n1 · Planta: o triângulo do chalé, o mezanino, a lareira central e o deck na frente.\n2 · Estrutura: as tesouras de madeira em A, o piso do mezanino, a chaminé de pedra e o deck só nas vigas.\n3 · Casa pronta: madeira queimada, telhado metálico escuro, empena de vidro e as luzes acesas no entardecer de inverno.\n\nNo chalé em A, a régua da sequência é a empena: o triângulo das tesouras e o da fachada de vidro têm a mesma altura e a mesma inclinação. Se ele muda entre a estrutura e o render, mudou a câmera ou mudou o projeto.\n\nNo manual IA para Arquitetos, esse caminho é o Workflow 01, do modelo 3D ao render. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas, por R$ 97. Link na bio.\n\n#iaparaarquitetos #render #chale #casadecampo #arquitetura",
+   "alt": "Do projeto à obra com IA: planta a grafite, estrutura em A e chalé de madeira queimada pronto entre araucárias ao entardecer, mesma câmera",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-02",
+   "arquivos": [
+    "story-02.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}
