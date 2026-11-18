@@ -1082,5 +1082,92 @@
    "2026-11-17 reel 20:40",
    "2026-11-17 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/1-planta.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOZgaNZ8",
+  "descricao": "Planta técnica 2D de banheiro de suíte: bancada com cuba de pedra, box, banheira livre, vaso, nicho e janela alta",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 story 13:00",
+   "2026-11-18 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/2-humanizada.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOWah_hs",
+  "descricao": "Mesma planta humanizada: travertino, bancada de madeira com cuba de pedra, seixos no box, banheira livre, sombras da tarde",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/3-obra.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOYvWa6o",
+  "descricao": "Banheiro em obra crua: reboco, contrapiso, pontos hidráulicos, nicho do box e janela alta; mesma câmera do render (tirada do render)",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/4-render.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbORYTjFU",
+  "descricao": "Banheiro contemporâneo natural: travertino, cuba esculpida em pedra, bancada de madeira, banheira livre, box de seixos, luz da tarde",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 11:40",
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-18/1-planta.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOY_zCK8",
+  "descricao": "Planta a lápis de rancho térreo com varanda contínua, telhado de quatro águas e deck até o rio, sobre prancheta de madeira",
+  "sequencia": "rancho-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 20:40",
+   "2026-11-18 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-18/2-estrutura.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOah3pDA",
+  "descricao": "Rancho em estrutura: pilares de madeira, madeiramento do telhado sem telhas, deck e píer só nas vigas, terra exposta; mesma câmera aérea (tirada da casa pronta)",
+  "sequencia": "rancho-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 20:40",
+   "2026-11-18 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-18/3-pronta.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-18",
+  "canva_media": "MAHbORBqVWY",
+  "descricao": "Rancho colonial reinterpretado na beira do rio: telha cerâmica de quatro águas, paredes caiadas, varanda, deck e píer, ipês floridos, névoa da manhã, vista aérea",
+  "sequencia": "rancho-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 20:40",
+   "2026-11-18 marmer 14:00",
+   "2026-11-18 story 21:30"
+  ]
  }
 ]

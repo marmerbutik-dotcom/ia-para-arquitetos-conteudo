@@ -1,0 +1,184 @@
+{
+ "data": "2026-11-18",
+ "obs": "Quarta-feira: reel 11:40 de pergunta-mito/FAQ (cumpre o FAQ semanal do 4b), reel 20:40 evolução de casa, carrossel de etapas às 19:30, story evolução 13:00 e story link 21:30. Dia par: reel da Marmer com a sequência de casa. Nada agendado antes para o dia. Rodízio: rancho na beira do rio (colonial reinterpretado, manhã com névoa) e área interna (banheiro com cuba de pedra, travertino, luz da tarde). 7 imagens novas no Canva. Semrush sem unidades de API: palavras-chave pelo GUIA 4b e pelas métricas ('IA para arquitetos' no FAQ, 'planta humanizada com IA' no carrossel, 'render com IA' no rancho). Métricas 10 a 17/11: fachada em etapas (263), prédio (117), estrutura explicada (106), home office com planta humanizada (113) e cozinha da obra crua ao render (105) na frente; FAQ 'IA não é só render' (64) foi o melhor FAQ.",
+ "reels": [
+  {
+   "tipo": "cenas",
+   "horario": "11:40",
+   "ia": true,
+   "cenas": [
+    {
+     "fundo": "novas/banheiro-2026-11-18/4-render.jpg",
+     "eb": "IA para arquitetos",
+     "titulo": "Precisa de modelo 3D *para usar IA?*",
+     "dur": 2.8
+    },
+    {
+     "fundo": "novas/banheiro-2026-11-18/1-planta.jpg",
+     "num": "01",
+     "titulo": "Não. Comece *pelo desenho.*",
+     "corpo": "Planta ou croqui já servem de base. O prompt diz o que não muda: paredes, janela e bancada.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/banheiro-2026-11-18/3-obra.jpg",
+     "num": "02",
+     "titulo": "Ou pela *foto do imóvel.*",
+     "corpo": "A foto é a base do antes e depois que mantém a arquitetura. É o Workflow 03.",
+     "dur": 3.4
+    },
+    {
+     "num": "03",
+     "titulo": "Já modela? *Use o Veras.*",
+     "corpo": "Quem usa Enscape, V-Ray ou Corona tem o Veras dentro do próprio programa.",
+     "dur": 3.4
+    },
+    {
+     "fundo": "novas/banheiro-2026-11-18/4-render.jpg",
+     "eb": "Workflow 01",
+     "titulo": "O ponto de partida muda. *O cuidado, não.*",
+     "corpo": "A geometria vem do seu projeto",
+     "dur": 2.8
+    }
+   ],
+   "legenda": "IA para arquitetos: precisa de modelo 3D para gerar o render do banheiro? Não. Dá para partir de croqui ou foto.\n\nA IA de imagem parte da foto do imóvel ou do seu croqui. O modelo 3D é só mais um caminho, para quem já modela.\n\n1 · Desenho: planta técnica ou croqui. No prompt, diga o que não muda: paredes, janela e bancada.\n2 · Foto: a foto do imóvel é a base do antes e depois que mantém a arquitetura (Workflow 03).\n3 · Modelo 3D: quem já modela tem o Veras dentro do Enscape, do V-Ray ou do Corona (Workflow 01).\n\nEm qualquer caminho, confira os pontos fixos antes de mandar ao cliente. No banheiro, são a janela, o box e a bancada da cuba de pedra.\n\nO manual IA para Arquitetos organiza esses pontos de partida em 7 workflows, com 60 prompts prontos.\n\nMande para quem acha que precisa modelar tudo antes de usar IA.\n\n#iaparaarquitetos #inteligenciaartificial #arquitetos #banheiro #render",
+   "alt": "IA para arquitetos sem modelo 3D: planta técnica, obra crua e render de banheiro com cuba de pedra e banheira livre"
+  },
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do lápis ao",
+    "rancho no rio"
+   ],
+   "rotulo": "RANCHO NO RIO",
+   "etapas": [
+    {
+     "img": "novas/rancho-2026-11-18/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/rancho-2026-11-18/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: rancho térreo, varanda contínua e deck até o rio"
+    },
+    {
+     "img": "novas/rancho-2026-11-18/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: telha cerâmica, paredes caiadas e névoa no rio"
+    }
+   ],
+   "frase": [
+    "Apresente a casa",
+    "antes da obra."
+   ],
+   "legenda": "Render com IA de rancho na beira do rio: da planta a lápis à casa pronta com névoa na água, na mesma câmera aérea.\n\nComo apresentar o rancho antes da obra sem a IA mexer no rio? Gere a casa pronta primeiro e tire dela a estrutura, com a mesma câmera. Assim a margem, o deck e o píer ficam no mesmo lugar.\n\n1 · Planta: a casa térrea, a varanda contínua e o deck que desce até a água.\n2 · Estrutura: pilares de madeira, o telhado só no madeiramento, sem telhas, e o deck só nas vigas.\n3 · Casa pronta: telhado de quatro águas em telha cerâmica, paredes caiadas, ipês floridos e a névoa da manhã sobre o rio.\n\nNo rancho, a régua da sequência é o deck: ele sai da varanda e termina no píer. Se o deck muda de ângulo entre a estrutura e o render, a câmera mudou junto.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para o próximo projeto na beira do rio.\n\n#iaparaarquitetos #render #rancho #casadecampo #arquitetura",
+   "alt": "Render com IA de rancho na beira do rio: planta a lápis, estrutura de madeira e casa pronta com deck e píer, mesma câmera aérea"
+  }
+ ],
+ "carrosseis": [
+  {
+   "horario": "19:30",
+   "ia": true,
+   "tema": "Banheiro com IA",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/banheiro-2026-11-18/4-render.jpg",
+     "eb": "Planta humanizada com IA",
+     "titulo": "Da planta ao *banheiro pronto.*",
+     "sub": "4 etapas, a mesma geometria e o prompt de cada uma.",
+     "fs": 100
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/banheiro-2026-11-18/1-planta.jpg",
+     "nome": "Planta técnica",
+     "n": "01",
+     "prompt": "Use esta planta como base: box, banheira, bancada e janela não mudam de lugar."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/banheiro-2026-11-18/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "n": "02",
+     "prompt": "Mesmas paredes, vista de cima: travertino, madeira, seixos no box e luz da tarde."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/banheiro-2026-11-18/3-obra.jpg",
+     "nome": "Obra crua",
+     "n": "03",
+     "prompt": "Mesma câmera do render: reboco cru, contrapiso e pontos hidráulicos, sem louças."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/banheiro-2026-11-18/4-render.jpg",
+     "nome": "Render final",
+     "n": "04",
+     "prompt": "Altura do olho, da porta: cuba de pedra, banheira livre e sol pela janela alta."
+    },
+    {
+     "eb": "O cuidado principal",
+     "titulo": "Gere o render *antes da obra crua.*",
+     "corpo": "A obra sai da imagem pronta. Assim a janela alta, o nicho do box e os pontos da bancada ficam no mesmo lugar."
+    },
+    {
+     "tipo": "cta",
+     "eb": "IA para arquitetos",
+     "titulo": "O manual de IA que faltava *no seu escritório.*",
+     "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+    }
+   ],
+   "legenda": "Planta humanizada com IA de banheiro: 4 etapas da mesma suíte, da planta técnica à cuba de pedra, com o prompt de cada uma.\n\nPor que gerar o render antes da obra crua? Porque a obra sai da imagem pronta, e assim a janela alta, o nicho do box e os pontos da bancada ficam no mesmo lugar.\n\n1 · Planta técnica: box, banheira livre, bancada, vaso e janela alta, definidos por você.\n2 · Planta humanizada: travertino, madeira, seixos no box e as sombras da tarde, vistos de cima.\n3 · Obra crua: reboco, contrapiso e pontos hidráulicos, na mesma câmera do render.\n4 · Render final: cuba esculpida em pedra, banheira livre e o sol entrando pela janela alta.\n\nArraste e copie os prompts. Cada um diz o que muda e o que fica.\n\nA lógica é a do Workflow 01 do manual IA para Arquitetos: a geometria vem do seu projeto, e a IA cuida da imagem.\n\nSalve para o próximo projeto de banheiro.\n\n#iaparaarquitetos #plantahumanizada #banheiro #designdeinteriores #render",
+   "alt": "Carrossel de planta humanizada com IA de banheiro: planta técnica, planta humanizada, obra crua e banheiro pronto com cuba de pedra, com o prompt de cada etapa"
+  }
+ ],
+ "stories": [
+  {
+   "tipo": "evolucao",
+   "horario": "13:00",
+   "gancho": [
+    "Da planta à",
+    "cuba de pedra"
+   ],
+   "rotulo": "BANHEIRO",
+   "etapas": [
+    {
+     "img": "novas/banheiro-2026-11-18/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/banheiro-2026-11-18/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize: travertino, madeira e seixos no box"
+    },
+    {
+     "img": "novas/banheiro-2026-11-18/4-render.jpg",
+     "nome": "Render final",
+     "trans": "mergulho",
+     "foco": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ]
+  },
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/rancho-2026-11-18/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}
