@@ -1169,5 +1169,39 @@
    "2026-11-18 marmer 14:00",
    "2026-11-18 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-19/1-planta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-19",
+  "canva_media": "MAHbUZuB27w",
+  "sequencia": "lago-2026-11-19",
+  "descricao": "Planta a nanquim de casa de 2 pavimentos em frente ao lago, com deck sobre a água e margem, sobre mesa de madeira com régua e lapiseira",
+  "usos": [
+   "2026-11-19 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-19/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-19",
+  "canva_media": "MAHbUfmTN6Q",
+  "sequencia": "lago-2026-11-19",
+  "descricao": "Mesma casa em estrutura de concreto cru: pilares e lajes, piscina escavada, deck só nas vigas, terreno de obra, reflexo no lago, fim de tarde",
+  "usos": [
+   "2026-11-19 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-19/3-pronta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-19",
+  "canva_media": "MAHbUSbUzqo",
+  "sequencia": "lago-2026-11-19",
+  "descricao": "Casa contemporânea de concreto claro em balanço sobre térreo de vidro, brises de cumaru, deck e piscina, refletida no lago ao fim de tarde dourado, morros da mata atlântica",
+  "usos": [
+   "2026-11-19 reel 20:40",
+   "2026-11-19 story 21:30"
+  ]
  }
 ]

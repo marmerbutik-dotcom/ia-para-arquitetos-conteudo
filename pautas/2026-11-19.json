@@ -1,0 +1,51 @@
+{
+ "data": "2026-11-19",
+ "obs": "Quinta-feira, grade enxuta (19/11): reel 20:40 evolução de casa (dia ímpar) e story link 21:30. Sem carrossel (não é quarta) e sem reel na Marmer (não é terça nem sexta). Nada agendado antes para o dia. Rodízio: casa em frente ao lago (contemporânea, concreto claro em balanço, vidro e cumaru, fim de tarde dourado). Semrush sem unidades de API: palavra-chave 'render com IA' pelo GUIA 4b. Métricas 11 a 18/11: os reels com mais alcance mostram a transformação já na 1ª linha com número de etapas e 'mesma câmera' (fachada em 4 etapas, 263; prédio, 117; home office, 113); a frase 'a régua da sequência é...' se repetia em quase toda legenda e foi trocada por um cuidado novo (o reflexo na água).",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do nanquim ao",
+    "reflexo no lago"
+   ],
+   "rotulo": "CASA NO LAGO",
+   "etapas": [
+    {
+     "img": "novas/lago-2026-11-19/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/lago-2026-11-19/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: 2 pavimentos, deck e piscina na beira do lago"
+    },
+    {
+     "img": "novas/lago-2026-11-19/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: concreto claro, brises de cumaru e sol baixo na água"
+    }
+   ],
+   "frase": [
+    "Mesma câmera.",
+    "Mesma arquitetura."
+   ],
+   "legenda": "Render com IA de casa no lago: 3 imagens na mesma câmera, da planta a nanquim ao reflexo na água.\n\nOnde a IA mais erra numa casa à beira d'água? No reflexo. O lago devolve uma casa que não é a sua: com outra janela, sem os brises ou com um andar a menos.\n\n1 · Planta: a casa de 2 pavimentos, o deck que avança sobre a água e a linha da margem.\n2 · Estrutura: pilares e lajes de concreto cru, a piscina ainda escavada e o deck só nas vigas.\n3 · Casa pronta: concreto claro, térreo de vidro, brises de cumaru e o sol baixo do fim de tarde no lago.\n\nAntes de mandar ao cliente, olhe só o reflexo. Os brises, o deck e os 2 pavimentos têm que aparecer ali, invertidos. Se não aparecem, escreva no prompt: o reflexo segue a fachada.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para o próximo projeto à beira d'água.\n\n#iaparaarquitetos #render #casanolago #arquiteturacontemporanea #arquitetura",
+   "alt": "Render com IA de casa no lago: planta a nanquim, estrutura de concreto e casa pronta refletida na água, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/lago-2026-11-19/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

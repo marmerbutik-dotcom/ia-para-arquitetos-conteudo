@@ -1,0 +1,29 @@
+{
+ "data": "2026-11-19",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Render com IA de casa no lago: 3 imagens na mesma câmera, da planta a nanquim ao reflexo na água.\n\nOnde a IA mais erra numa casa à beira d'água? No reflexo. O lago devolve uma casa que não é a sua: com outra janela, sem os brises ou com um andar a menos.\n\n1 · Planta: a casa de 2 pavimentos, o deck que avança sobre a água e a linha da margem.\n2 · Estrutura: pilares e lajes de concreto cru, a piscina ainda escavada e o deck só nas vigas.\n3 · Casa pronta: concreto claro, térreo de vidro, brises de cumaru e o sol baixo do fim de tarde no lago.\n\nAntes de mandar ao cliente, olhe só o reflexo. Os brises, o deck e os 2 pavimentos têm que aparecer ali, invertidos. Se não aparecem, escreva no prompt: o reflexo segue a fachada.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para o próximo projeto à beira d'água.\n\n#iaparaarquitetos #render #casanolago #arquiteturacontemporanea #arquitetura",
+   "alt": "Render com IA de casa no lago: planta a nanquim, estrutura de concreto e casa pronta refletida na água, mesma câmera",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}
