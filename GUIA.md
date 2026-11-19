@@ -2,9 +2,9 @@
 
 Este repositório gera e hospeda as peças diárias do perfil **@ia.para.arquitetos** (infoproduto "IA para Arquitetos", da Marmer Butik, vendido em https://iaparaarquitetos.com.br). A rotina roda sozinha: escreve a pauta do dia seguinte, gera as peças, sobe aqui e agenda tudo no Metricool, que publica nos horários.
 
-## 1. Volume e horários (reduzido de novo pelo Marcos em 19/11/2026: "diminua a frequência dos posts, eles não estão engajando, vamos repensar a nossa estratégia, de momento apenas diminua o fluxo")
+## 1. Volume e horários (reduzido de novo pelo Marcos em 18/11/2026: "diminua a frequência dos posts, eles não estão engajando, vamos repensar a nossa estratégia, de momento apenas diminua o fluxo")
 
-Todo dia, fuso America/Sao_Paulo, a partir de 20/11/2026 (19/11 ficou com a grade anterior):
+Todo dia, fuso America/Sao_Paulo, a partir de 19/11/2026:
 
 | Tipo | Qtde | Horários |
 |---|---|---|
@@ -12,7 +12,7 @@ Todo dia, fuso America/Sao_Paulo, a partir de 20/11/2026 (19/11 ficou com a grad
 | Story | 1 por dia | 21:30 (link) |
 | Carrossel | 1 por semana (quarta) | 19:30 |
 
-São 2 peças por dia, 3 na quarta (cerca de 15 por semana; antes eram 31). Ficou só o 20:40 por ser o horário de reel com mais alcance desde a 1ª semana. Publicação direta (autoPublish true), sem aprovação prévia. A estratégia vai ser repensada com o Marcos; até lá, vale esta grade enxuta. (Até 13/11: 5 reels, 2 carrosséis e 7 stories; de 14 a 16/11: 3 reels, 1 carrossel e 4 stories; de 17 a 19/11: 2 reels, 2 stories e carrossel seg/qua/sex.)
+São 2 peças por dia, 3 na quarta (cerca de 15 por semana; antes eram 31). Ficou só o 20:40 por ser o horário de reel com mais alcance desde a 1ª semana. Publicação direta (autoPublish true), sem aprovação prévia. A estratégia vai ser repensada com o Marcos; até lá, vale esta grade enxuta. (Até 13/11: 5 reels, 2 carrosséis e 7 stories; de 14 a 16/11: 3 reels, 1 carrossel e 4 stories; de 17 a 18/11: 2 reels, 2 stories e carrossel seg/qua/sex.)
 
 ## 2. Sobre o produto: só fatos confirmados
 
@@ -136,7 +136,7 @@ Veja `pautas/2026-11-08.json` como modelo completo. Use `*itálico*` para o dest
 - **Carrossel:**
   - De 5 a 8 slides, com `tema` (rodapé curto).
   - Tipos de slide: `capa` (com `par` ou `img`), texto (com `num`, `eb`, `titulo`, `corpo`, `prompt`), `lista` (`itens` como ["texto", "detalhe"]), `imagem` (`par`), `etapa` e `cta`.
-  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). Desde 20/11 o carrossel sai só na quarta e é "etapas" (capa com a última imagem, 1 slide `etapa` por etapa, com o prompt de cada uma, 1 slide de texto com o cuidado principal e `cta`). O carrossel normal (lista, erros, prompts, conta do escritório) fica em pausa.
+  - `etapa` (ver 5d): foto cheia de uma etapa da sequência com selo numerado. Campos: `img`, `nome`, `n` (opcional, ex.: "02"), `titulo` (opcional, curto) e `prompt` (opcional). Desde 19/11 o carrossel sai só na quarta e é "etapas" (capa com a última imagem, 1 slide `etapa` por etapa, com o prompt de cada uma, 1 slide de texto com o cuidado principal e `cta`). O carrossel normal (lista, erros, prompts, conta do escritório) fica em pausa.
 - **Story (tudo automático, sem adesivos — pedido do Marcos em 7/11):** o story precisa funcionar sozinho, sem enquete, caixa de perguntas, emoji deslizante nem adesivo de link. NUNCA escreva no story algo que peça voto, resposta na caixa ou toque em adesivo ("vote", "responda aqui", "toque no link"). Use perguntas só como gancho retórico, já respondidas no próprio story.
   - Tipos: `foto` (imagem de fundo + título + corpo curto), `dica` (prompt), `imagem` (`par`), `numero`, `lista`, `link` e `evolucao`.
   - `evolucao`: story em vídeo (10 a 14 s), com os mesmos campos do reel `evolucao` mas só 2 ou 3 etapas e sem `legenda`. Sai como `story-NN.mp4`, sem cartão final. Use 1 por dia.
@@ -154,7 +154,7 @@ Gerar: `python3 engine/gera.py pautas/AAAA-MM-DD.json`. Leva cerca de 2 min e gr
 
 O Marcos mandou 6 reels de referência (planta que vira planta humanizada, obra crua que vira render, planta que vira estrutura e casa pronta, sempre com a mesma câmera) e pediu esse estilo nos reels, carrosséis e stories. Os 2 vídeos-modelo estão na LP (seção "Em movimento") e em `saida/estilo/`.
 
-**Mix diário (desde 20/11, grade de 2 por dia):** 1 reel às 20:40, alternando `evolucao` de interior (dia par) e de casa (dia ímpar); às quartas esse reel vira pergunta-mito/FAQ, que cumpre o FAQ semanal do 4b; `wipe` no máximo 1 vez por semana, no lugar do `evolucao`. 1 story por dia, o `link` às 21:30 (o story `evolucao` das 13:00 saiu da grade). Carrossel às 19:30 só na quarta (carrossel de etapas com slides `etapa`). Os modelos M1+ da 5e entram no máximo 1 vez por semana, no lugar do reel do dia.
+**Mix diário (desde 19/11, grade de 2 por dia):** 1 reel às 20:40, alternando `evolucao` de interior (dia par) e de casa (dia ímpar); às quartas esse reel vira pergunta-mito/FAQ, que cumpre o FAQ semanal do 4b; `wipe` no máximo 1 vez por semana, no lugar do `evolucao`. 1 story por dia, o `link` às 21:30 (o story `evolucao` das 13:00 saiu da grade). Carrossel às 19:30 só na quarta (carrossel de etapas com slides `etapa`). Os modelos M1+ da 5e entram no máximo 1 vez por semana, no lugar do reel do dia.
 
 **Sequências do dia (Canva, por referência):** cada dia gere 2 sequências novas no cenário do rodízio (5b), uma de interior e uma de casa:
 - **Interior (4 imagens):** 1 planta técnica (desenho 2D preto sobre branco, vista de cima, cotas, sem texto legível) → 2 planta humanizada (`imageReferences` = imagem 1; "mesma planta, mesmas paredes e mesmo enquadramento, agora humanizada: vista de cima, pisos, móveis, plantas, sombras suaves") → 4 render do ambiente principal na altura do olho → 3 obra crua (`imageReferences` = imagem 4; "mesmo ambiente, mesma câmera e mesmas aberturas, em obra: concreto e reboco crus, sem móveis, tubulação aparente"). Gere a 4 antes da 3: a obra sai da imagem pronta, então as linhas casam.
@@ -195,7 +195,7 @@ As pastas `novas/estilo-apto` e `novas/estilo-casa` são as sequências dos víd
 
 ## 5e. Biblioteca de modelos de referência (pedido do Marcos em 13/11/2026)
 
-O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualizações ("precisamos de vários modelos diferentes rodando ao mesmo tempo"). Cada referência vira um modelo nesta tabela, com a análise do que deu certo e o tipo de pauta que o replica. A rotina gira os modelos: com 1 reel por dia (desde 20/11), um modelo M1+ entra no máximo 1 vez por semana no lugar do reel do dia, e nunca o mesmo modelo em 2 semanas seguidas. O estilo `evolucao` (5d) é o modelo M0.
+O Marcos vai trazer reels de referência que tiveram muitas curtidas e visualizações ("precisamos de vários modelos diferentes rodando ao mesmo tempo"). Cada referência vira um modelo nesta tabela, com a análise do que deu certo e o tipo de pauta que o replica. A rotina gira os modelos: com 1 reel por dia (desde 19/11), um modelo M1+ entra no máximo 1 vez por semana no lugar do reel do dia, e nunca o mesmo modelo em 2 semanas seguidas. O estilo `evolucao` (5d) é o modelo M0.
 
 | Modelo | Referência | O que deu certo (gancho, ritmo, texto, música) | Como replicar (tipo de pauta) | Status |
 |---|---|---|---|---|
