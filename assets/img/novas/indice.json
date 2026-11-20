@@ -1203,5 +1203,50 @@
    "2026-11-19 reel 20:40",
    "2026-11-19 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/1-planta.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbafsYIJs",
+  "descricao": "Planta técnica 2D de cozinha: ilha central, bancada em L, cuba sob a janela, mesa de 6 lugares junto à porta de correr",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/2-humanizada.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaf9CigQ",
+  "descricao": "Mesma planta humanizada: cimento queimado, ilha de freijó com tampo de quartzito, banquetas, mesa de madeira e plantas, sombras da manhã",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/3-obra.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaWH_YxY",
+  "descricao": "Cozinha em obra crua: reboco, contrapiso, ponto hidráulico sob a janela e vão aberto para o jardim; mesma câmera do render (tirada do render)",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/4-render.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaSYTywg",
+  "descricao": "Cozinha contemporânea brasileira: ilha de freijó com tampo de quartzito, armários verde-sálvia, banquetas de palhinha, janela para o jardim, sol da manhã",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40",
+   "2026-11-20 story 21:30"
+  ]
  }
 ]

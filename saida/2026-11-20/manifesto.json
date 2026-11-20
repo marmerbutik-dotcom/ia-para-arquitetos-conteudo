@@ -1,0 +1,29 @@
+{
+ "data": "2026-11-20",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Render com IA de cozinha: 4 imagens na mesma câmera, da planta técnica ao sol da manhã na ilha de freijó.\n\nPlanta humanizada com IA é projeto? Não. É imagem de apresentação feita sobre a sua planta técnica, que continua sendo a referência das medidas.\n\n1 · Planta técnica: ilha central, bancada em L, cuba sob a janela e mesa de 6 lugares junto à porta de correr.\n2 · Planta humanizada: cimento queimado, ilha de freijó com tampo de quartzito e plantas, vistos de cima.\n3 · Obra crua: reboco, contrapiso e os pontos de água e esgoto, na mesma câmera do render.\n4 · Render final: armários verde-sálvia, banquetas de palhinha, o jardim na janela e a luz da manhã no piso.\n\nNa cozinha, confira primeiro a cuba. Ela fica onde está o ponto de esgoto da obra. Se o render tira a cuba da janela, você mostrou ao cliente uma cozinha que a obra não entrega.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para apresentar a próxima cozinha.\n\n#iaparaarquitetos #plantahumanizada #cozinha #designdeinteriores #render",
+   "alt": "Render com IA de cozinha: planta técnica, planta humanizada, obra crua e cozinha com ilha de freijó pronta na luz da manhã, mesma câmera",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "data": "2026-11-20",
+ "obs": "Sexta-feira, grade enxuta: reel 20:40 evolução de interior (dia par) e story link 21:30. Sem carrossel (não é quarta). Reel da Marmer às 14:00 (sexta), vídeo próprio a partir da sequência de casa com piscina do dia. Nada agendado antes para o dia nas duas marcas (na Marmer, às 14:30 há só um pin de outra rotina). Rodízio: casa com piscina (modernista brasileira, cobogó e brises, manhã) e, no interior, cozinha (última em 11/11; a suíte de 16/11 ainda está nos 7 dias). Semrush sem unidades de API: palavra-chave 'render com IA' pelo GUIA 4b. Pergunta AEO do dia: 'Planta humanizada com IA é projeto?' (última em 12/11). Cuidado novo da legenda: a cuba presa ao ponto de esgoto.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do traço ao",
+    "café da manhã"
+   ],
+   "rotulo": "COZINHA COM ILHA",
+   "etapas": [
+    {
+     "img": "novas/cozinha-2026-11-20/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/cozinha-2026-11-20/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: freijó, quartzito e sombras da manhã, mesmas paredes"
+    },
+    {
+     "img": "novas/cozinha-2026-11-20/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.5,
+      0.42
+     ]
+    },
+    {
+     "img": "novas/cozinha-2026-11-20/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma janela: ilha de freijó, armários verde-sálvia e sol da manhã"
+    }
+   ],
+   "frase": [
+    "A geometria fica.",
+    "O resto muda."
+   ],
+   "legenda": "Render com IA de cozinha: 4 imagens na mesma câmera, da planta técnica ao sol da manhã na ilha de freijó.\n\nPlanta humanizada com IA é projeto? Não. É imagem de apresentação feita sobre a sua planta técnica, que continua sendo a referência das medidas.\n\n1 · Planta técnica: ilha central, bancada em L, cuba sob a janela e mesa de 6 lugares junto à porta de correr.\n2 · Planta humanizada: cimento queimado, ilha de freijó com tampo de quartzito e plantas, vistos de cima.\n3 · Obra crua: reboco, contrapiso e os pontos de água e esgoto, na mesma câmera do render.\n4 · Render final: armários verde-sálvia, banquetas de palhinha, o jardim na janela e a luz da manhã no piso.\n\nNa cozinha, confira primeiro a cuba. Ela fica onde está o ponto de esgoto da obra. Se o render tira a cuba da janela, você mostrou ao cliente uma cozinha que a obra não entrega.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para apresentar a próxima cozinha.\n\n#iaparaarquitetos #plantahumanizada #cozinha #designdeinteriores #render",
+   "alt": "Render com IA de cozinha: planta técnica, planta humanizada, obra crua e cozinha com ilha de freijó pronta na luz da manhã, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/cozinha-2026-11-20/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}
