@@ -1248,5 +1248,38 @@
    "2026-11-20 reel 20:40",
    "2026-11-20 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-20/1-planta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaRhcM3I",
+  "descricao": "Planta a nanquim de casa térrea modernista com pátio interno, varanda com brises e piscina, sobre papel manteiga na mesa de madeira, régua paralela, esquadro e lapiseira",
+  "sequencia": "piscina-2026-11-20",
+  "usos": [
+   "2026-11-20 reel Marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-20/2-estrutura.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaisz0ak",
+  "descricao": "Mesma casa em estrutura de concreto cru: pilares, vigas e laje plana, pátio em terra, piscina escavada; mesma câmera aérea (tirada da casa pronta)",
+  "sequencia": "piscina-2026-11-20",
+  "usos": [
+   "2026-11-20 reel Marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-20/3-pronta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-20",
+  "canva_media": "MAHbasE_2Bg",
+  "descricao": "Casa térrea modernista brasileira com pátio interno arborizado, laje de concreto, brises de madeira, cobogó branco e piscina de pastilha verde, jardim tropical, manhã, vista aérea",
+  "sequencia": "piscina-2026-11-20",
+  "usos": [
+   "2026-11-20 reel Marmer 14:00"
+  ]
  }
 ]
