@@ -1,0 +1,51 @@
+{
+ "data": "2026-11-21",
+ "obs": "Sábado, grade enxuta (19/11): reel 20:40 evolução de casa (dia ímpar) e story link 21:30. Sem carrossel (não é quarta) e sem reel na Marmer (não é terça nem sexta). Nada agendado antes para o dia. Rodízio: casa na praia (térrea de pedra e madeira, telhado verde, entardecer com luzes acesas; combinação nova). Semrush sem unidades de API: palavra-chave 'do projeto à obra com IA' pelo GUIA 4b. Métricas 13 a 20/11: lideram as casas em etapas na mesma câmera (sobrado em 4 etapas, 265; chalé em A, 129; prédio, 119) e os interiores com 'planta humanizada' (home office, 114); salvamentos 0 a 1, comentários e compartilhamentos em zero. Mantido: número de imagens e 'mesma câmera' na 1ª linha, e um cuidado concreto (o telhado verde) no lugar da frase-régua.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do projeto à obra",
+    "com IA, na praia"
+   ],
+   "rotulo": "CASA NA PRAIA",
+   "etapas": [
+    {
+     "img": "novas/praia-2026-11-21/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/praia-2026-11-21/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: casa térrea, varanda, deck e piscina em raia na restinga"
+    },
+    {
+     "img": "novas/praia-2026-11-21/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: pedra, madeira, telhado verde e luzes acesas ao entardecer"
+    }
+   ],
+   "frase": [
+    "O arquiteto decide.",
+    "A IA executa."
+   ],
+   "legenda": "Do projeto à obra com IA: casa de praia em 3 imagens na mesma câmera, do papel manteiga às luzes acesas.\n\nPor que gerar a casa pronta antes da estrutura? Porque a estrutura sai da imagem pronta, com a mesma câmera. Assim a laje, a piscina e a linha do mar ficam no mesmo lugar nas duas imagens.\n\n1 · Planta: a casa térrea, a varanda, o deck, a piscina em raia e a restinga até a areia.\n2 · Estrutura: pilares, vigas e laje de concreto, a piscina ainda na forma de madeira e o deck só nas vigas.\n3 · Casa pronta: pedra, madeira, telhado verde, portas de vidro e as luzes acesas no entardecer.\n\nNa casa de praia, confira o telhado verde antes de mandar ao cliente. A IA tende a trocar a cobertura vegetal por telha ou a deixar a laje lisa. Se isso acontecer, escreva no prompt: a cobertura continua verde e plana.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 7 templates em PDF e Word.\n\nSalve para apresentar a próxima casa de praia.\n\n#iaparaarquitetos #casadepraia #telhadoverde #render #arquitetura",
+   "alt": "Do projeto à obra com IA: planta a lápis, estrutura de concreto e casa de praia com telhado verde pronta, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/praia-2026-11-21/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

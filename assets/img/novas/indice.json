@@ -1281,5 +1281,39 @@
   "usos": [
    "2026-11-20 reel Marmer 14:00"
   ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-21/1-planta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-21",
+  "sequencia": "praia-2026-11-21",
+  "canva_media": "MAHbgZaopUg",
+  "descricao": "Planta de casa de praia térrea a lápis sobre papel manteiga em mesa de madeira escura, varanda em L, deck, piscina em raia e restinga",
+  "usos": [
+   "2026-11-21 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-21/2-estrutura.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-21",
+  "sequencia": "praia-2026-11-21",
+  "canva_media": "MAHbga7kzVE",
+  "descricao": "Casa de praia em estrutura de concreto: pilares, vigas e laje, piscina escavada na forma de madeira, deck só nas vigas, mesma vista aérea com restinga e mar",
+  "usos": [
+   "2026-11-21 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-21/3-pronta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-21",
+  "sequencia": "praia-2026-11-21",
+  "canva_media": "MAHbgQXkWKE",
+  "descricao": "Casa de praia térrea de pedra e madeira com telhado verde, varanda com portas de vidro, piscina em raia e restinga, vista aérea 3/4 ao entardecer com luzes acesas",
+  "usos": [
+   "2026-11-21 reel 20:40",
+   "2026-11-21 story 21:30"
+  ]
  }
 ]
