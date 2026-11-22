@@ -1,0 +1,60 @@
+{
+ "data": "2026-11-22",
+ "obs": "Domingo, grade enxuta (19/11): reel 20:40 evolução de interior (dia par) e story link 21:30. Sem carrossel (não é quarta) e sem reel na Marmer (não é terça nem sexta). Nada agendado antes para o dia. Cenário: área interna (sala de estar minimalista com lareira, noite com luzes acesas; combinação nova em 14 dias). Semrush sem unidades de API: palavra-chave 'planta humanizada com IA' pelo GUIA 4b. Métricas 14 a 21/11: lideram as sequências em 4 etapas na mesma câmera (sobrado 265, chalé 129, prédio 119, cozinha da obra crua 106); salvamentos 0 a 1, comentários e compartilhamentos em zero. Mantido: 4 etapas, número de imagens na 1ª linha e um cuidado concreto (o forro com LED). Pergunta AEO nova na semana: qual IA usar para render.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Planta humanizada",
+    "com IA, na sala"
+   ],
+   "rotulo": "SALA COM LAREIRA",
+   "etapas": [
+    {
+     "img": "novas/sala-2026-11-22/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/sala-2026-11-22/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: carvalho claro, linho, travertino e jardim, mesmas paredes"
+    },
+    {
+     "img": "novas/sala-2026-11-22/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.45,
+      0.5
+     ]
+    },
+    {
+     "img": "novas/sala-2026-11-22/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma janela: lareira acesa, LED no forro e jardim iluminado à noite"
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ],
+   "legenda": "Planta humanizada com IA de sala de estar: 4 imagens na mesma câmera, da planta técnica à lareira acesa à noite.\n\nQual IA usar para render de interiores? Para imagem, o manual cita Veras, PromeAI, ChatGPT Images, Nano Banana (Gemini) e Midjourney. Quem já modela no Enscape, no V-Ray ou no Corona tem o Veras dentro do programa.\n\n1 · Planta técnica: a parede da lareira com a estante embutida, o sofá em L, a porta lateral e a janela de piso a teto para o jardim.\n2 · Planta humanizada: carvalho claro, tapete de lã, linho cru e a mesa de travertino, vistos de cima.\n3 · Obra crua: reboco, contrapiso, o nicho da lareira em alvenaria e o rasgo do forro ainda aberto, na mesma câmera do render.\n4 · Render final: fogo na lareira, estante de nogueira, LED quente no forro e o jardim iluminado lá fora.\n\nNa sala à noite, confira primeiro o forro. A luz tem que sair do rasgo de gesso que aparece na obra crua. Se o render acende o LED em outro lugar, você mostrou ao cliente um forro que não está no projeto.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para apresentar a próxima sala de estar.\n\n#iaparaarquitetos #plantahumanizada #saladeestar #designdeinteriores #render",
+   "alt": "Planta humanizada com IA: planta técnica, planta humanizada, obra crua e sala de estar com lareira acesa à noite, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/sala-2026-11-22/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

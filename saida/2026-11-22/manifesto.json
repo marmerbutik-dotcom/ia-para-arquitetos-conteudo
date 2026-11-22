@@ -1,0 +1,29 @@
+{
+ "data": "2026-11-22",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 18.1,
+   "legenda": "Planta humanizada com IA de sala de estar: 4 imagens na mesma câmera, da planta técnica à lareira acesa à noite.\n\nQual IA usar para render de interiores? Para imagem, o manual cita Veras, PromeAI, ChatGPT Images, Nano Banana (Gemini) e Midjourney. Quem já modela no Enscape, no V-Ray ou no Corona tem o Veras dentro do programa.\n\n1 · Planta técnica: a parede da lareira com a estante embutida, o sofá em L, a porta lateral e a janela de piso a teto para o jardim.\n2 · Planta humanizada: carvalho claro, tapete de lã, linho cru e a mesa de travertino, vistos de cima.\n3 · Obra crua: reboco, contrapiso, o nicho da lareira em alvenaria e o rasgo do forro ainda aberto, na mesma câmera do render.\n4 · Render final: fogo na lareira, estante de nogueira, LED quente no forro e o jardim iluminado lá fora.\n\nNa sala à noite, confira primeiro o forro. A luz tem que sair do rasgo de gesso que aparece na obra crua. Se o render acende o LED em outro lugar, você mostrou ao cliente um forro que não está no projeto.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para apresentar a próxima sala de estar.\n\n#iaparaarquitetos #plantahumanizada #saladeestar #designdeinteriores #render",
+   "alt": "Planta humanizada com IA: planta técnica, planta humanizada, obra crua e sala de estar com lareira acesa à noite, mesma câmera",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}

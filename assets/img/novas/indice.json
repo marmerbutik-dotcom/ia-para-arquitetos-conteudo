@@ -1315,5 +1315,65 @@
    "2026-11-21 reel 20:40",
    "2026-11-21 story 21:30"
   ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/1-planta.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmXEMbSg",
+  "descricao": "Planta técnica 2D de sala de estar: parede da lareira com estante embutida, sofá em L, porta lateral e janela de piso a teto para o jardim",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
+    "data": "2026-11-22",
+    "peca": "reel 20:40 evolução"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/2-humanizada.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmeyQC34",
+  "descricao": "Mesma planta humanizada: carvalho claro, tapete de lã, sofá de linho cru, mesa de travertino, lareira e jardim, sombras suaves",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
+    "data": "2026-11-22",
+    "peca": "reel 20:40 evolução"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/3-obra.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmSNwK7s",
+  "descricao": "Sala de estar em obra crua: reboco e blocos, contrapiso, nicho da lareira em alvenaria, rasgo do forro aberto e vão da janela; mesma câmera do render (tirada do render)",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
+    "data": "2026-11-22",
+    "peca": "reel 20:40 evolução"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/4-render.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmZXp7pA",
+  "descricao": "Sala de estar minimalista: lareira de concreto acesa, estante de nogueira, sofá em L de linho, mesa de travertino, LED quente no forro e jardim iluminado, noite",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
+    "data": "2026-11-22",
+    "peca": "reel 20:40 evolução"
+   },
+   {
+    "data": "2026-11-22",
+    "peca": "story 21:30 link"
+   }
+  ]
  }
 ]
