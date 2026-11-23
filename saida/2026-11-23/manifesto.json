@@ -1,0 +1,29 @@
+{
+ "data": "2026-11-23",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 15.8,
+   "legenda": "Render com IA de casa na montanha: 3 imagens na mesma câmera aérea, do croqui à manhã de sol na serra.\n\nQuanto tempo a IA devolve por mês ao escritório? Cerca de 40 h, num escritório com 2 projetos por mês. Só no render, a conta é 8 × (4 h − 15 min) = 30 h.\n\n1 · Croqui: o volume de 2 pavimentos, os terraços em degraus, a escada externa e as curvas de nível da encosta.\n2 · Estrutura: pilares, lajes e os muros de arrimo dos terraços em concreto cru, ainda sem vidro nem madeira.\n3 · Casa pronta: concreto claro, ripado de cumaru, panos de vidro e o sol da manhã entrando pela lateral.\n\nNa casa em encosta, confira os muros de arrimo. Cada terraço do render tem que cair sobre um muro que já está na estrutura. Se a IA soma um degrau ou apaga a escada, o terreno do render não é o do seu projeto.\n\nNo manual IA para Arquitetos, esse render é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para apresentar a próxima casa em encosta.\n\n#iaparaarquitetos #render #casadecampo #arquiteturacontemporanea #arquitetura",
+   "alt": "Render com IA: croqui, estrutura de concreto com muros de arrimo e casa na montanha em terraços pronta, mesma câmera aérea",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}
