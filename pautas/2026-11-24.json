@@ -1,0 +1,60 @@
+{
+ "data": "2026-11-24",
+ "obs": "Terça, grade enxuta (19/11): reel 20:40 evolução de interior (dia par) e story link 21:30. Sem carrossel (não é quarta). Reel da Marmer às 14:00 (terça) com a sequência de casa (casa de bairro), vídeo próprio em saida/marmer. Nada agendado antes para o dia nas duas marcas (14:00 livre na Marmer). Cenários: apartamento (suíte de casal com vista da cidade, contemporânea, noite com luzes acesas) e casa de bairro (sobrado colonial reinterpretado, manhã de sol); combinações novas em 14 dias. Semrush sem unidades de API: palavra-chave 'render de interiores com IA' pelo GUIA 4b. Métricas 16 a 23/11: alcance baixo (6 a 34; casa de praia 34, sala 10), salvamentos 0 a 1, comentários e compartilhamentos em zero, retenção de 70 % a 93 %. Mantido: 4 etapas na mesma câmera e um cuidado concreto (a janela). Pergunta AEO: a IA substitui o arquiteto (último uso 16/11).",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Render de interiores",
+    "com IA, na suíte"
+   ],
+   "rotulo": "SUÍTE NA CIDADE",
+   "etapas": [
+    {
+     "img": "novas/suite-2026-11-24/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/suite-2026-11-24/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: carvalho escuro, nogueira e linho grafite, mesmas paredes"
+    },
+    {
+     "img": "novas/suite-2026-11-24/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.45,
+      0.28
+     ]
+    },
+    {
+     "img": "novas/suite-2026-11-24/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma janela: LED quente no forro e a cidade acesa lá fora"
+    }
+   ],
+   "frase": [
+    "Mesma câmera.",
+    "Mesma arquitetura."
+   ],
+   "legenda": "Render de interiores com IA: suíte de apartamento em 4 imagens na mesma câmera, da planta técnica à cidade acesa na janela.\n\nA IA substitui o arquiteto? Não. Ela gera a imagem; projeto, responsabilidade técnica e assinatura continuam com o arquiteto.\n\n1 · Planta técnica: a cama na parede da janela, os armários nas duas laterais, o banheiro e a varanda, definidos por você.\n2 · Planta humanizada: carvalho escuro, nogueira nos armários, roupa de cama grafite e o deck da varanda, vistos de cima.\n3 · Obra crua: reboco, contrapiso, eletrodutos aparentes e o rasgo do forro ainda aberto, com a mesma janela para a cidade.\n4 · Render final: cabeceira de linho, armários de nogueira até o teto, LED quente no forro e as luzes da cidade lá fora.\n\nNa suíte à noite, a régua da sequência é a janela. A largura e o peitoril da obra crua têm que ser os mesmos do render. Se a IA alarga a janela para caber mais cidade, você mostrou ao cliente uma esquadria que não está no projeto.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.\n\nSalve para apresentar a próxima suíte.\n\n#iaparaarquitetos #render #designdeinteriores #quartodecasal #apartamento",
+   "alt": "Render de interiores com IA: planta técnica, planta humanizada, obra crua e suíte de apartamento à noite com vista da cidade, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/suite-2026-11-24/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}
