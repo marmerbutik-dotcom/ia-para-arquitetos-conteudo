@@ -1,0 +1,6 @@
+{"tipo": "evolucao", "gancho": ["Do lápis ao", "sobrado de bairro"], "rotulo": "MARMER BUTIK",
+ "etapas": [
+  {"img": "novas/bairro-2026-11-24/1-planta.jpg", "nome": "Planta"},
+  {"img": "novas/bairro-2026-11-24/2-estrutura.jpg", "nome": "Estrutura", "trans": "luz", "prompt": "a partir desta planta: sobrado de 2 pavimentos, garagem na frente e quintal"},
+  {"img": "novas/bairro-2026-11-24/3-pronta.jpg", "nome": "Casa pronta", "trans": "ergue", "prompt": "mesma vista aérea: telha cerâmica, paredes caiadas e janelas verdes"}],
+ "frase": ["Apresente a casa", "antes da obra."]}

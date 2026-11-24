@@ -1,1425 +1,1527 @@
 [
-  {
-    "arquivo": "novas/praia-01.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-07",
-    "canva_media": "MAHaQGVNws0",
-    "descricao": "Casa de praia contemporânea em madeira e concreto, varanda aberta para o mar, pôr do sol",
-    "usos": []
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-09/1-planta.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYZQA1lk",
-    "descricao": "Planta técnica 2D de apartamento de 3 quartos com sala integrada e varanda",
-    "usos": [
-      "2026-11-10 reel 20:40"
-    ],
-    "sequencia": "apartamento-2026-11-09"
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-09/2-humanizada.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYRxz9Xo",
-    "descricao": "Mesma planta humanizada: madeira clara, móveis, plantas e sombras",
-    "usos": [
-      "2026-11-10 reel 20:40",
-      "2026-11-10 story 19:00"
-    ],
-    "sequencia": "apartamento-2026-11-09"
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-09/3-obra.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYVm5BQM",
-    "descricao": "Sala do apartamento em obra crua, mesma câmera do render, entardecer",
-    "usos": [
-      "2026-11-10 reel 20:40"
-    ],
-    "sequencia": "apartamento-2026-11-09"
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-09/4-render.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYbw7PHw",
-    "descricao": "Sala contemporânea integrada à cozinha e varanda com vista da cidade, entardecer",
-    "usos": [
-      "2026-11-10 reel 11:40",
-      "2026-11-10 reel 20:40"
-    ],
-    "sequencia": "apartamento-2026-11-09"
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-09/1-planta.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYULOS2g",
-    "descricao": "Planta de casa de 2 pavimentos a lápis sobre mesa de madeira, régua e lápis",
-    "usos": [
-      "2026-11-09 reel 07:40"
-    ],
-    "sequencia": "montanha-2026-11-09"
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-09/2-estrutura.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYfdDBZU",
-    "descricao": "Estrutura de concreto da casa na encosta, vista aérea ao entardecer, araucárias",
-    "usos": [
-      "2026-11-09 reel 07:40"
-    ],
-    "sequencia": "montanha-2026-11-09"
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-09/3-pronta.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYev-so8",
-    "descricao": "Casa contemporânea na encosta: concreto, madeira, vidro e telhado verde, entardecer",
-    "usos": [
-      "2026-11-09 reel 07:40"
-    ],
-    "sequencia": "montanha-2026-11-09"
-  },
-  {
-    "arquivo": "novas/casa-bairro-01.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYeh6hFo",
-    "descricao": "Sobrado reformado em rua arborizada: reboco branco, tijolinho e portão ripado, manhã",
-    "usos": [
-      "2026-11-12 story 19:00"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-01.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaYeJ8inw",
-    "descricao": "Sala de casa de montanha à noite: lareira de pedra, poltrona de couro, araucárias",
-    "usos": [
-      "2026-11-16 reel 14:40"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-09/1-planta.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaanbepbA",
-    "descricao": "Planta técnica de chalé com lareira central, quarto e varanda",
-    "sequencia": "chale-2026-11-09",
-    "usos": [
-      "2026-11-09 story 08:30",
-      "2026-11-09 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-09/2-humanizada.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaarF_01c",
-    "descricao": "Planta humanizada do chalé: pinho, lareira de pedra e móveis",
-    "sequencia": "chale-2026-11-09",
-    "usos": [
-      "2026-11-09 story 08:30",
-      "2026-11-09 reel 20:40",
-      "2026-11-09 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-09/3-obra.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaarXcR7w",
-    "descricao": "Interior do chalé em obra crua: tesouras brutas e lareira de tijolo",
-    "sequencia": "chale-2026-11-09",
-    "usos": [
-      "2026-11-09 reel 20:40",
-      "2026-11-09 story 19:00",
-      "2026-11-09 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-09/4-render.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-09",
-    "canva_media": "MAHaasqEH6E",
-    "descricao": "Interior de chalé com lareira de pedra, tesouras de madeira e mata nevoenta, manhã",
-    "sequencia": "chale-2026-11-09",
-    "usos": [
-      "2026-11-09 reel 20:40",
-      "2026-11-09 story 19:00",
-      "2026-11-09 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-2026-11-09/1-antes.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-09",
-    "canva_media": "MAHaagwNLio",
-    "descricao": "Rancho antigo malconservado na beira do rio, fim de tarde",
-    "sequencia": "rancho-2026-11-09",
-    "usos": [
-      "2026-11-09 reel 14:40",
-      "2026-11-09 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-2026-11-09/2-maquete.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-09",
-    "canva_media": "MAHaagx6D4w",
-    "descricao": "Maquete branca do rancho, mesma geometria",
-    "sequencia": "rancho-2026-11-09",
-    "usos": [
-      "2026-11-09 reel 14:40"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-2026-11-09/3-reforma.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-09",
-    "canva_media": "MAHaarJXjVk",
-    "descricao": "Rancho reformado: reboco branco, telhas novas, esquadrias verdes e jardim",
-    "sequencia": "rancho-2026-11-09",
-    "usos": [
-      "2026-11-09 reel 14:40",
-      "2026-11-09 carrossel 12:20",
-      "2026-11-09 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-09/1-planta.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-09",
-    "canva_media": "MAHaauEKmUY",
-    "descricao": "Planta de implantação em aquarela de casa em L com deck e píer",
-    "sequencia": "lago-2026-11-09",
-    "usos": [
-      "2026-11-09 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-09/2-estrutura.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-09",
-    "canva_media": "MAHaat2eV7o",
-    "descricao": "Estrutura metálica da casa à beira do lago, vista aérea com névoa",
-    "sequencia": "lago-2026-11-09",
-    "usos": [
-      "2026-11-09 carrossel 19:30",
-      "2026-11-09 story 15:30"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-09/3-pronta.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-09",
-    "canva_media": "MAHaatzR6gc",
-    "descricao": "Casa térrea em L à beira do lago com deck e píer, manhã com névoa",
-    "sequencia": "lago-2026-11-09",
-    "usos": [
-      "2026-11-09 carrossel 19:30",
-      "2026-11-09 story 15:30",
-      "2026-11-09 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-10/1-planta.jpg",
-    "cenario": "área interna (banheiro)",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeQYxMR8",
-    "descricao": "Planta técnica de banheiro de suíte com banheira, duas cubas e box",
-    "sequencia": "banheiro-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 07:40",
-      "2026-11-10 carrossel 19:30",
-      "2026-11-10 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-10/2-humanizada.jpg",
-    "cenario": "área interna (banheiro)",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeYiJGLY",
-    "descricao": "Planta humanizada do banheiro: piso de pedra clara, bancada de madeira, cubas de pedra",
-    "sequencia": "banheiro-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 07:40",
-      "2026-11-10 carrossel 19:30",
-      "2026-11-10 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-10/3-obra.jpg",
-    "cenario": "área interna (banheiro)",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeVP7P0w",
-    "descricao": "Banheiro em obra crua: reboco, contrapiso e pontos hidráulicos, mesma câmera do render",
-    "sequencia": "banheiro-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 07:40",
-      "2026-11-10 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-10/4-render.jpg",
-    "cenario": "área interna (banheiro)",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeSK_Dh0",
-    "descricao": "Banheiro de suíte contemporâneo, bancada de pedra, banheira livre junto à janela, manhã",
-    "sequencia": "banheiro-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 07:40",
-      "2026-11-10 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-10/1-planta.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeXUFKf0",
-    "descricao": "Planta de casa térrea com piscina sobre a mesa do escritório",
-    "sequencia": "piscina-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 14:40",
-      "2026-11-10 story 15:30",
-      "2026-11-10 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-10/2-estrutura.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeRs3tzk",
-    "descricao": "Casa térrea em estrutura de concreto com piscina escavada, vista aérea ao entardecer",
-    "sequencia": "piscina-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 14:40",
-      "2026-11-10 carrossel 12:20",
-      "2026-11-10 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-10/3-pronta.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeY_QgjY",
-    "descricao": "Casa térrea tropical moderna com piscina longa, vista aérea 3/4 ao entardecer",
-    "sequencia": "piscina-2026-11-10",
-    "usos": [
-      "2026-11-10 reel 14:40",
-      "2026-11-10 story 15:30",
-      "2026-11-10 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/moveis-poltrona-01.jpg",
-    "cenario": "móveis em cenários",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeVikBoI",
-    "descricao": "Poltrona de couro caramelo e madeira em sala com tijolo branco, luz da manhã",
-    "sequencia": null,
-    "usos": [
-      "2026-11-10 reel 11:40",
-      "2026-11-10 story 08:30"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-noite-01.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-10",
-    "canva_media": "MAHaeWMQ6ps",
-    "descricao": "Piscina iluminada de casa contemporânea à noite, deck de madeira e fachada de vidro",
-    "sequencia": null,
-    "usos": [
-      "2026-11-10 reel 11:40",
-      "2026-11-10 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-11/1-planta.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-11",
-    "canva_media": "MAHakZHYG2k",
-    "descricao": "Planta técnica 2D de apartamento compacto: cozinha integrada com ilha, quarto, banheiro e varanda",
-    "sequencia": "apartamento-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 07:40",
-      "2026-11-11 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-11/2-humanizada.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-11",
-    "canva_media": "MAHakUKJDpM",
-    "descricao": "Mesma planta humanizada em estilo japandi: carvalho claro, ilha, mesa de jantar, sofá de linho e plantas",
-    "sequencia": "apartamento-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 07:40",
-      "2026-11-11 story 10:30",
-      "2026-11-11 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-11/3-obra.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-11",
-    "canva_media": "MAHakU2MnFI",
-    "descricao": "Cozinha e jantar do apartamento em obra crua: concreto, contrapiso e tubulação aparente, mesma janela e câmera do render",
-    "sequencia": "apartamento-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 07:40",
-      "2026-11-11 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-11/4-render.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-11",
-    "canva_media": "MAHakda57gM",
-    "descricao": "Cozinha integrada japandi: ilha de carvalho com tampo de pedra, mesa de jantar e janela contínua com vista da cidade, luz da manhã",
-    "sequencia": "apartamento-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 07:40",
-      "2026-11-11 marmer 14:00",
-      "2026-11-11 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-11/1-planta.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-11",
-    "canva_media": "MAHakTAJ3X4",
-    "descricao": "Planta de casa de praia térrea a lápis sobre mesa de madeira, com varanda, deck e piscina, régua e lapiseira",
-    "sequencia": "praia-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 14:40",
-      "2026-11-11 carrossel 19:30",
-      "2026-11-11 story 15:30"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-11/2-estrutura.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-11",
-    "canva_media": "MAHakatYbls",
-    "descricao": "Casa de praia em estrutura: pilares e caibros de madeira, sem telhas, piscina escavada, mesma vista aérea com coqueiros e mar",
-    "sequencia": "praia-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 14:40",
-      "2026-11-11 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-11/3-pronta.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-11",
-    "canva_media": "MAHakdMgGpU",
-    "descricao": "Casa de praia térrea tropical moderna: madeira, pedra, telha cerâmica, varanda, deck e piscina, vista aérea 3/4 pela manhã",
-    "sequencia": "praia-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 14:40",
-      "2026-11-11 carrossel 19:30",
-      "2026-11-11 story 15:30"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-11/3-pronta.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-11",
-    "canva_media": "MAHakRzWCU0",
-    "descricao": "Casa na montanha de pedra e vidro com deck em balanço sobre a encosta, araucárias e neblina da manhã",
-    "sequencia": "montanha-2026-11-11",
-    "usos": [
-      "2026-11-11 story 08:30",
-      "2026-11-11 reel 11:40",
-      "2026-11-11 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-11/1-planta.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-11",
-    "canva_media": "MAHakVPhS84",
-    "descricao": "Planta e corte de casa na montanha a nanquim sobre mesa de madeira, curvas de nível, régua e café, luz de neblina",
-    "sequencia": "montanha-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 20:40",
-      "2026-11-14 reel 14:40 (fundo)"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-11/2-estrutura.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-11",
-    "canva_media": "MAHakVc4mo8",
-    "descricao": "Casa na montanha em estrutura de concreto e aço, deck em balanço sem acabamento, andaimes, araucárias e neblina; mesma câmera da casa pronta",
-    "sequencia": "montanha-2026-11-11",
-    "usos": [
-      "2026-11-11 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-varanda-01.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-11",
-    "canva_media": "MAHakccLrcM",
-    "descricao": "Varanda coberta de casa de praia ao entardecer: forro de ripas, piso de pedra, sofá de tecido cru e vista para o mar",
-    "sequencia": null,
-    "usos": [
-      "2026-11-11 reel 11:40",
-      "2026-11-11 carrossel 12:20",
-      "2026-11-11 story 19:00"
-    ]
-  },
-  {
-    "arquivo": "novas/sobrado-2026-11-12/1-planta.jpg",
-    "cenario": "casa de bairro (sala do sobrado)",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqS8N478",
-    "descricao": "Planta técnica 2D do térreo de sobrado em lote estreito: sala, jantar, cozinha com ilha, lavabo, escada e quintal",
-    "sequencia": "sobrado-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 07:40",
-      "2026-11-12 reel 11:40",
-      "2026-11-12 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/sobrado-2026-11-12/2-humanizada.jpg",
-    "cenario": "casa de bairro (sala do sobrado)",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqaeknf0",
-    "descricao": "Mesma planta humanizada: taco de peroba, sofá de linho, mesa de jantar, cozinha clara e quintal gramado com árvore",
-    "sequencia": "sobrado-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 07:40",
-      "2026-11-12 carrossel 12:20",
-      "2026-11-12 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/sobrado-2026-11-12/3-obra.jpg",
-    "cenario": "casa de bairro (sala do sobrado)",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqRrjIFA",
-    "descricao": "Sala do sobrado em obra crua: reboco, contrapiso, escada de concreto e vão aberto para o quintal; mesma câmera do render",
-    "sequencia": "sobrado-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 07:40",
-      "2026-11-12 reel 11:40",
-      "2026-11-12 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/sobrado-2026-11-12/4-render.jpg",
-    "cenario": "casa de bairro (sala do sobrado)",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqUf2k5I",
-    "descricao": "Sala e jantar do sobrado: taco de peroba, cadeiras de palhinha, escada de madeira, porta de vidro para o quintal, luz da tarde",
-    "sequencia": "sobrado-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 07:40",
-      "2026-11-12 carrossel 19:30",
-      "2026-11-12 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/bairro-2026-11-12/1-planta.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqTLgB48",
-    "descricao": "Planta de sobrado em lote estreito a lápis sobre papel manteiga, com régua, escalímetro e café",
-    "sequencia": "bairro-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 14:40",
-      "2026-11-12 story 15:30",
-      "2026-11-12 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/bairro-2026-11-12/2-estrutura.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqe7MNoc",
-    "descricao": "Sobrado em estrutura de concreto e blocos, andaimes, rua com ipê amarelo ao entardecer; mesma câmera da casa pronta",
-    "sequencia": "bairro-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 14:40",
-      "2026-11-12 story 15:30",
-      "2026-11-12 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/bairro-2026-11-12/3-pronta.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqb0Dbhk",
-    "descricao": "Sobrado contemporâneo de tijolo claro, brises e portão de ripas em rua arborizada, vista aérea 3/4 ao entardecer",
-    "sequencia": "bairro-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 14:40",
-      "2026-11-12 reel 18:10",
-      "2026-11-12 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-12/1-planta.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqdu578g",
-    "descricao": "Planta, fachada e corte de chalé a nanquim sobre mesa de madeira escura, com esquadro e pinha de araucária",
-    "sequencia": "chale-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-12/2-estrutura.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqRMdCD8",
-    "descricao": "Chalé em estrutura de madeira, telhado íngreme sem telhas, base de pedra, araucárias na hora azul; mesma câmera do pronto",
-    "sequencia": "chale-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 20:40",
-      "2026-11-12 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-12/3-pronto.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqZb0xG4",
-    "descricao": "Chalé de madeira escura e pedra com janelas acesas e deck, araucárias e serra com névoa na hora azul",
-    "sequencia": "chale-2026-11-12",
-    "usos": [
-      "2026-11-12 reel 20:40",
-      "2026-11-12 story 10:30",
-      "2026-11-12 reel 18:10"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-varanda-01.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-12",
-    "canva_media": "MAHaqXiZk7Q",
-    "descricao": "Varanda de rancho com madeira roliça, telha colonial e rede, deck até o rio com névoa ao nascer do sol",
-    "sequencia": null,
-    "usos": [
-      "2026-11-12 story 08:30",
-      "2026-11-12 reel 18:10"
-    ]
-  },
-  {
-    "arquivo": "novas/homeoffice-2026-11-13/1-planta.jpg",
-    "cenario": "área interna (home office)",
-    "data": "2026-11-13",
-    "canva_media": "MAHawWI8Mqs",
-    "descricao": "Planta técnica 2D de home office de 4 x 5 m: janela larga, mesa longa, estante de parede inteira e poltrona",
-    "sequencia": "homeoffice-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 07:40",
-      "2026-11-13 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/homeoffice-2026-11-13/2-humanizada.jpg",
-    "cenario": "área interna (home office)",
-    "data": "2026-11-13",
-    "canva_media": "MAHawTt8ACA",
-    "descricao": "Mesma planta humanizada: cimento queimado, mesa de carvalho na janela, estante de madeira, poltrona de couro caramelo e tapete",
-    "sequencia": "homeoffice-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 07:40",
-      "2026-11-13 carrossel 19:30",
-      "2026-11-13 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/homeoffice-2026-11-13/3-obra.jpg",
-    "cenario": "área interna (home office)",
-    "data": "2026-11-13",
-    "canva_media": "MAHaweCy6VI",
-    "descricao": "Home office em obra crua: reboco, contrapiso e vão da janela aberto para o jardim, mesma câmera do render",
-    "sequencia": "homeoffice-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 07:40",
-      "2026-11-13 carrossel 19:30",
-      "2026-11-13 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/homeoffice-2026-11-13/4-render.jpg",
-    "cenario": "área interna (home office)",
-    "data": "2026-11-13",
-    "canva_media": "MAHawdtr7Tw",
-    "descricao": "Home office contemporâneo: mesa de carvalho junto à janela para o jardim, estante de piso a teto com maquetes, poltrona de couro caramelo, luz da manhã",
-    "sequencia": "homeoffice-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 07:40",
-      "2026-11-13 carrossel 19:30",
-      "2026-11-13 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-13/1-planta.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-13",
-    "canva_media": "MAHawZz0pVk",
-    "descricao": "Planta de casa térrea à beira do lago a lápis sobre papel manteiga, com deck, píer e margem, régua e esquadro na mesa",
-    "sequencia": "lago-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 14:40",
-      "2026-11-13 reel 18:10",
-      "2026-11-13 story 08:30"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-13/2-estrutura.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-13",
-    "canva_media": "MAHawd7VaXk",
-    "descricao": "Casa no lago em estrutura: pilares, vigas e tesouras sem telhas, píer só com a madeira, araucárias ao anoitecer",
-    "sequencia": "lago-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 14:40",
-      "2026-11-13 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-13/3-pronta.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-13",
-    "canva_media": "MAHawYeYyn4",
-    "descricao": "Casa térrea de madeira e pedra em frente ao lago ao anoitecer, luzes acesas refletidas na água, deck e píer, araucárias",
-    "sequencia": "lago-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 14:40",
-      "2026-11-13 carrossel 12:20",
-      "2026-11-13 story 10:30"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-13/1-planta.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-13",
-    "canva_media": "MAHawXNssqI",
-    "descricao": "Planta a nanquim de casa térrea minimalista com piscina longa e jardim sobre mesa de concreto",
-    "sequencia": "piscina-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 20:40",
-      "2026-11-13 story 15:30"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-13/2-estrutura.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-13",
-    "canva_media": "MAHawXBMCrs",
-    "descricao": "Casa minimalista em estrutura de concreto com laje em balanço e piscina escavada, terreno de obra pela manhã",
-    "sequencia": "piscina-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 20:40",
-      "2026-11-13 story 15:30",
-      "2026-11-13 story 19:00"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-13/3-pronta.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-13",
-    "canva_media": "MAHawYVh_H4",
-    "descricao": "Casa térrea minimalista branca com piscina longa de pedra clara, oliveiras e gramíneas, vista aérea pela manhã",
-    "sequencia": "piscina-2026-11-13",
-    "usos": [
-      "2026-11-13 reel 20:40",
-      "2026-11-13 reel 11:40",
-      "2026-11-13 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/jantar-2026-11-14/1-planta.jpg",
-    "cenario": "móveis em diferentes cenários (sala de jantar)",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2Qm_bRw",
-    "descricao": "Planta técnica 2D de sala de jantar de casa de campo: mesa de 8 lugares, aparador e porta-janela para o jardim",
-    "sequencia": "jantar-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 11:40",
-      "2026-11-14 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/jantar-2026-11-14/2-humanizada.jpg",
-    "cenario": "móveis em diferentes cenários (sala de jantar)",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2RFP47g",
-    "descricao": "Mesma planta humanizada: ladrilho terracota, mesa de madeira com cadeiras de couro, aparador e jardim",
-    "sequencia": "jantar-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 11:40",
-      "2026-11-14 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/jantar-2026-11-14/3-obra.jpg",
-    "cenario": "móveis em diferentes cenários (sala de jantar)",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2QQu1Po",
-    "descricao": "Sala de jantar em obra crua: reboco, tijolo, contrapiso, vigas de madeira e vão aberto para o jardim à noite",
-    "sequencia": "jantar-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 11:40"
-    ]
-  },
-  {
-    "arquivo": "novas/jantar-2026-11-14/4-render.jpg",
-    "cenario": "móveis em diferentes cenários (sala de jantar)",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2duTgb0",
-    "descricao": "Sala de jantar colonial reinterpretada à noite: mesa de demolição, cadeiras de couro, pendente de vidro âmbar, ladrilho terracota",
-    "sequencia": "jantar-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 11:40",
-      "2026-11-14 story 13:00",
-      "2026-11-14 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-14/1-planta.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2cIeddo",
-    "descricao": "Planta de sobrado de praia a lápis sobre mesa clara, com deck, piscina estreita e passarela até a areia",
-    "sequencia": "praia-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 20:40",
-      "2026-11-14 story 08:30",
-      "2026-11-14 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-14/2-estrutura.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2cK2mZg",
-    "descricao": "Sobrado de praia em estrutura de concreto na duna, piscina na forma, mar ao fundo, vista aérea",
-    "sequencia": "praia-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 20:40",
-      "2026-11-14 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-14/3-pronta.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-14",
-    "canva_media": "MAHa2e-pNG0",
-    "descricao": "Sobrado de praia minimalista de concreto branco e cumaru, piscina estreita, passarela sobre a restinga até o mar, manhã",
-    "sequencia": "praia-2026-11-14",
-    "usos": [
-      "2026-11-14 reel 20:40",
-      "2026-11-14 marmer 14:00",
-      "2026-11-14 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-15/1-planta.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8Yvdz_U",
-    "descricao": "Planta técnica 2D de apartamento: sala e jantar em L, cozinha com bancada, quarto, banheiro e varanda ao longo da fachada",
-    "sequencia": "apartamento-2026-11-15",
-    "usos": [
-      "2026-11-15 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-15/2-humanizada.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8dEw6So",
-    "descricao": "Mesma planta humanizada: granilite, deque na varanda, sofá de linho, poltronas de couro e mesa redonda de freijó",
-    "sequencia": "apartamento-2026-11-15",
-    "usos": [
-      "2026-11-15 carrossel 19:30",
-      "2026-11-15 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-15/3-obra.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8QLx48c",
-    "descricao": "Sala do apartamento em obra crua à noite: reboco, contrapiso, fios aparentes e o vão da varanda aberto para a cidade; mesma câmera do render",
-    "sequencia": "apartamento-2026-11-15",
-    "usos": [
-      "2026-11-15 carrossel 19:30",
-      "2026-11-15 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/apartamento-2026-11-15/4-render.jpg",
-    "cenario": "apartamento",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8Swx0gA",
-    "descricao": "Sala de apartamento moderno brasileiro à noite: granilite, painel de freijó, sofá de linho, pendente de palha e varanda com vista da cidade",
-    "sequencia": "apartamento-2026-11-15",
-    "usos": [
-      "2026-11-15 carrossel 19:30",
-      "2026-11-15 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-15/1-planta.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8QN3rKY",
-    "descricao": "Planta de casa de montanha em L a nanquim sobre papel manteiga, curvas de nível, escada de acesso, hortênsia e chá na mesa de madeira escura",
-    "sequencia": "montanha-2026-11-15",
-    "usos": [
-      "2026-11-15 story 08:30",
-      "2026-11-15 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-15/2-estrutura.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8TVU6Oc",
-    "descricao": "Casa de montanha em estrutura: paredes de pedra, tesouras de madeira sem telhas, terreno de obra, araucárias e serra ao entardecer; mesma câmera",
-    "sequencia": "montanha-2026-11-15",
-    "usos": [
-      "2026-11-15 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-15/3-pronta.jpg",
-    "cenario": "casa na montanha",
-    "data": "2026-11-15",
-    "canva_media": "MAHa8WaAZNU",
-    "descricao": "Casa térrea em L de pedra e cumaru com telha metálica escura, lareira e fogo de chão acesos, hortênsias e araucárias, entardecer de inverno",
-    "sequencia": "montanha-2026-11-15",
-    "usos": [
-      "2026-11-15 story 13:00",
-      "2026-11-15 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/suite-2026-11-16/1-planta.jpg",
-    "cenario": "área interna (suíte master)",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCSFthCQ",
-    "descricao": "Planta técnica 2D de suíte master: cama, closet linear, banheiro com duas cubas e box, porta para pequena varanda",
-    "sequencia": "suite-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 11:40",
-      "2026-11-16 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/suite-2026-11-16/2-humanizada.jpg",
-    "cenario": "área interna (suíte master)",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCXwhw8Y",
-    "descricao": "Mesma planta humanizada: carvalho claro, linho, tapete de juta, closet de freijó e plantas na varanda",
-    "sequencia": "suite-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 11:40",
-      "2026-11-16 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/suite-2026-11-16/3-obra.jpg",
-    "cenario": "área interna (suíte master)",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCdlfEyw",
-    "descricao": "Suíte em obra crua: reboco, contrapiso, eletrodutos aparentes e o vão da varanda aberto; mesma câmera do render",
-    "sequencia": "suite-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 11:40"
-    ]
-  },
-  {
-    "arquivo": "novas/suite-2026-11-16/4-render.jpg",
-    "cenario": "área interna (suíte master)",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCcIi5pc",
-    "descricao": "Suíte master japandi: cabeceira ripada de freijó, linho cru, banco de palha, pendente de papel e luz da manhã pela varanda",
-    "sequencia": "suite-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 11:40",
-      "2026-11-16 story 13:00",
-      "2026-11-16 carrossel 19:30"
-    ]
-  },
-  {
-    "arquivo": "novas/bairro-2026-11-16/1-planta.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCea-J-A",
-    "descricao": "Planta de casa térrea de bairro a lápis sobre papel manteiga na prancheta, com garagem, jardim, sala integrada e quintal",
-    "sequencia": "bairro-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 20:40",
-      "2026-11-16 story 08:30",
-      "2026-11-16 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/bairro-2026-11-16/2-estrutura.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCQFAVYc",
-    "descricao": "Casa térrea em estrutura de concreto e blocos, piscina sem revestimento, rua de bairro ao entardecer; mesma câmera aérea",
-    "sequencia": "bairro-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 20:40",
-      "2026-11-16 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/bairro-2026-11-16/3-pronta.jpg",
-    "cenario": "casa de bairro",
-    "data": "2026-11-16",
-    "canva_media": "MAHbCX0QEyY",
-    "descricao": "Casa térrea contemporânea de tijolo claro e cumaru, portão ripado, ipê amarelo e piscina nos fundos, entardecer, vista aérea",
-    "sequencia": "bairro-2026-11-16",
-    "usos": [
-      "2026-11-16 reel 20:40",
-      "2026-11-16 marmer 14:00",
-      "2026-11-16 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/varanda-2026-11-17/1-planta.jpg",
-    "cenario": "área interna (varanda gourmet)",
-    "data": "2026-11-17",
-    "canva_media": "MAHbIVksBY8",
-    "descricao": "Planta técnica 2D de varanda gourmet: bancada em L com churrasqueira, ilha com cooktop, mesa de 8 lugares, sofá e jardineira",
-    "sequencia": "varanda-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 11:40",
-      "2026-11-17 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/varanda-2026-11-17/2-humanizada.jpg",
-    "cenario": "área interna (varanda gourmet)",
-    "data": "2026-11-17",
-    "canva_media": "MAHbIY6k4mQ",
-    "descricao": "Planta humanizada da varanda gourmet: porcelanato amadeirado, quartzito, palhinha, sisal e folhagens tropicais, fim de tarde",
-    "sequencia": "varanda-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 11:40",
-      "2026-11-17 story 13:00",
-      "2026-11-17 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/varanda-2026-11-17/3-obra.jpg",
-    "cenario": "área interna (varanda gourmet)",
-    "data": "2026-11-17",
-    "canva_media": "MAHbITGLqHw",
-    "descricao": "Varanda gourmet em obra crua: laje aparente, churrasqueira e bancada em alvenaria, palmeiras ao fundo (tirada do render)",
-    "sequencia": "varanda-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 11:40",
-      "2026-11-17 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/varanda-2026-11-17/4-render.jpg",
-    "cenario": "área interna (varanda gourmet)",
-    "data": "2026-11-17",
-    "canva_media": "MAHbIe3mmQc",
-    "descricao": "Varanda gourmet tropical moderna: churrasqueira de pedra, quartzito, forro de cumaru, pendentes de fibra, mesa de madeira, fim de tarde",
-    "sequencia": "varanda-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 11:40",
-      "2026-11-17 story 13:00",
-      "2026-11-17 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-17/1-planta.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-17",
-    "canva_media": "MAHbITKpyRM",
-    "descricao": "Planta de chalé em A a grafite sobre papel vegetal na prancheta escura, escalímetro, lapiseira e borracha",
-    "sequencia": "chale-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-17/2-estrutura.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-17",
-    "canva_media": "MAHbIfeFoe0",
-    "descricao": "Estrutura de chalé em A: tesouras de madeira, piso do mezanino, chaminé de pedra e deck nas vigas, araucárias (tirada da casa pronta)",
-    "sequencia": "chale-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/chale-2026-11-17/3-pronta.jpg",
-    "cenario": "chalé de montanha",
-    "data": "2026-11-17",
-    "canva_media": "MAHbIfkMMkg",
-    "descricao": "Chalé em A de madeira queimada com empena de vidro acesa, deck e chaminé de pedra entre araucárias, entardecer de inverno com geada, vista aérea",
-    "sequencia": "chale-2026-11-17",
-    "usos": [
-      "2026-11-17 reel 20:40",
-      "2026-11-17 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-18/1-planta.jpg",
-    "cenario": "área interna (banheiro com cuba de pedra)",
-    "data": "2026-11-18",
-    "canva_media": "MAHbOZgaNZ8",
-    "descricao": "Planta técnica 2D de banheiro de suíte: bancada com cuba de pedra, box, banheira livre, vaso, nicho e janela alta",
-    "sequencia": "banheiro-2026-11-18",
-    "usos": [
-      "2026-11-18 carrossel 19:30",
-      "2026-11-18 story 13:00",
-      "2026-11-18 reel 11:40"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-18/2-humanizada.jpg",
-    "cenario": "área interna (banheiro com cuba de pedra)",
-    "data": "2026-11-18",
-    "canva_media": "MAHbOWah_hs",
-    "descricao": "Mesma planta humanizada: travertino, bancada de madeira com cuba de pedra, seixos no box, banheira livre, sombras da tarde",
-    "sequencia": "banheiro-2026-11-18",
-    "usos": [
-      "2026-11-18 carrossel 19:30",
-      "2026-11-18 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-18/3-obra.jpg",
-    "cenario": "área interna (banheiro com cuba de pedra)",
-    "data": "2026-11-18",
-    "canva_media": "MAHbOYvWa6o",
-    "descricao": "Banheiro em obra crua: reboco, contrapiso, pontos hidráulicos, nicho do box e janela alta; mesma câmera do render (tirada do render)",
-    "sequencia": "banheiro-2026-11-18",
-    "usos": [
-      "2026-11-18 carrossel 19:30",
-      "2026-11-18 reel 11:40"
-    ]
-  },
-  {
-    "arquivo": "novas/banheiro-2026-11-18/4-render.jpg",
-    "cenario": "área interna (banheiro com cuba de pedra)",
-    "data": "2026-11-18",
-    "canva_media": "MAHbORYTjFU",
-    "descricao": "Banheiro contemporâneo natural: travertino, cuba esculpida em pedra, bancada de madeira, banheira livre, box de seixos, luz da tarde",
-    "sequencia": "banheiro-2026-11-18",
-    "usos": [
-      "2026-11-18 reel 11:40",
-      "2026-11-18 carrossel 19:30",
-      "2026-11-18 story 13:00"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-2026-11-18/1-planta.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-18",
-    "canva_media": "MAHbOY_zCK8",
-    "descricao": "Planta a lápis de rancho térreo com varanda contínua, telhado de quatro águas e deck até o rio, sobre prancheta de madeira",
-    "sequencia": "rancho-2026-11-18",
-    "usos": [
-      "2026-11-18 reel 20:40",
-      "2026-11-18 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-2026-11-18/2-estrutura.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-18",
-    "canva_media": "MAHbOah3pDA",
-    "descricao": "Rancho em estrutura: pilares de madeira, madeiramento do telhado sem telhas, deck e píer só nas vigas, terra exposta; mesma câmera aérea (tirada da casa pronta)",
-    "sequencia": "rancho-2026-11-18",
-    "usos": [
-      "2026-11-18 reel 20:40",
-      "2026-11-18 marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/rancho-2026-11-18/3-pronta.jpg",
-    "cenario": "rancho na beira do rio",
-    "data": "2026-11-18",
-    "canva_media": "MAHbORBqVWY",
-    "descricao": "Rancho colonial reinterpretado na beira do rio: telha cerâmica de quatro águas, paredes caiadas, varanda, deck e píer, ipês floridos, névoa da manhã, vista aérea",
-    "sequencia": "rancho-2026-11-18",
-    "usos": [
-      "2026-11-18 reel 20:40",
-      "2026-11-18 marmer 14:00",
-      "2026-11-18 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-19/1-planta.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-19",
-    "canva_media": "MAHbUZuB27w",
-    "sequencia": "lago-2026-11-19",
-    "descricao": "Planta a nanquim de casa de 2 pavimentos em frente ao lago, com deck sobre a água e margem, sobre mesa de madeira com régua e lapiseira",
-    "usos": [
-      "2026-11-19 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-19/2-estrutura.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-19",
-    "canva_media": "MAHbUfmTN6Q",
-    "sequencia": "lago-2026-11-19",
-    "descricao": "Mesma casa em estrutura de concreto cru: pilares e lajes, piscina escavada, deck só nas vigas, terreno de obra, reflexo no lago, fim de tarde",
-    "usos": [
-      "2026-11-19 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/lago-2026-11-19/3-pronta.jpg",
-    "cenario": "casa em frente ao lago",
-    "data": "2026-11-19",
-    "canva_media": "MAHbUSbUzqo",
-    "sequencia": "lago-2026-11-19",
-    "descricao": "Casa contemporânea de concreto claro em balanço sobre térreo de vidro, brises de cumaru, deck e piscina, refletida no lago ao fim de tarde dourado, morros da mata atlântica",
-    "usos": [
-      "2026-11-19 reel 20:40",
-      "2026-11-19 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/cozinha-2026-11-20/1-planta.jpg",
-    "cenario": "área interna (cozinha)",
-    "data": "2026-11-20",
-    "canva_media": "MAHbafsYIJs",
-    "descricao": "Planta técnica 2D de cozinha: ilha central, bancada em L, cuba sob a janela, mesa de 6 lugares junto à porta de correr",
-    "sequencia": "cozinha-2026-11-20",
-    "usos": [
-      "2026-11-20 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/cozinha-2026-11-20/2-humanizada.jpg",
-    "cenario": "área interna (cozinha)",
-    "data": "2026-11-20",
-    "canva_media": "MAHbaf9CigQ",
-    "descricao": "Mesma planta humanizada: cimento queimado, ilha de freijó com tampo de quartzito, banquetas, mesa de madeira e plantas, sombras da manhã",
-    "sequencia": "cozinha-2026-11-20",
-    "usos": [
-      "2026-11-20 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/cozinha-2026-11-20/3-obra.jpg",
-    "cenario": "área interna (cozinha)",
-    "data": "2026-11-20",
-    "canva_media": "MAHbaWH_YxY",
-    "descricao": "Cozinha em obra crua: reboco, contrapiso, ponto hidráulico sob a janela e vão aberto para o jardim; mesma câmera do render (tirada do render)",
-    "sequencia": "cozinha-2026-11-20",
-    "usos": [
-      "2026-11-20 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/cozinha-2026-11-20/4-render.jpg",
-    "cenario": "área interna (cozinha)",
-    "data": "2026-11-20",
-    "canva_media": "MAHbaSYTywg",
-    "descricao": "Cozinha contemporânea brasileira: ilha de freijó com tampo de quartzito, armários verde-sálvia, banquetas de palhinha, janela para o jardim, sol da manhã",
-    "sequencia": "cozinha-2026-11-20",
-    "usos": [
-      "2026-11-20 reel 20:40",
-      "2026-11-20 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-20/1-planta.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-20",
-    "canva_media": "MAHbaRhcM3I",
-    "descricao": "Planta a nanquim de casa térrea modernista com pátio interno, varanda com brises e piscina, sobre papel manteiga na mesa de madeira, régua paralela, esquadro e lapiseira",
-    "sequencia": "piscina-2026-11-20",
-    "usos": [
-      "2026-11-20 reel Marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-20/2-estrutura.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-20",
-    "canva_media": "MAHbaisz0ak",
-    "descricao": "Mesma casa em estrutura de concreto cru: pilares, vigas e laje plana, pátio em terra, piscina escavada; mesma câmera aérea (tirada da casa pronta)",
-    "sequencia": "piscina-2026-11-20",
-    "usos": [
-      "2026-11-20 reel Marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/piscina-2026-11-20/3-pronta.jpg",
-    "cenario": "casa com piscina",
-    "data": "2026-11-20",
-    "canva_media": "MAHbasE_2Bg",
-    "descricao": "Casa térrea modernista brasileira com pátio interno arborizado, laje de concreto, brises de madeira, cobogó branco e piscina de pastilha verde, jardim tropical, manhã, vista aérea",
-    "sequencia": "piscina-2026-11-20",
-    "usos": [
-      "2026-11-20 reel Marmer 14:00"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-21/1-planta.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-21",
-    "sequencia": "praia-2026-11-21",
-    "canva_media": "MAHbgZaopUg",
-    "descricao": "Planta de casa de praia térrea a lápis sobre papel manteiga em mesa de madeira escura, varanda em L, deck, piscina em raia e restinga",
-    "usos": [
-      "2026-11-21 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-21/2-estrutura.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-21",
-    "sequencia": "praia-2026-11-21",
-    "canva_media": "MAHbga7kzVE",
-    "descricao": "Casa de praia em estrutura de concreto: pilares, vigas e laje, piscina escavada na forma de madeira, deck só nas vigas, mesma vista aérea com restinga e mar",
-    "usos": [
-      "2026-11-21 reel 20:40"
-    ]
-  },
-  {
-    "arquivo": "novas/praia-2026-11-21/3-pronta.jpg",
-    "cenario": "casa na praia",
-    "data": "2026-11-21",
-    "sequencia": "praia-2026-11-21",
-    "canva_media": "MAHbgQXkWKE",
-    "descricao": "Casa de praia térrea de pedra e madeira com telhado verde, varanda com portas de vidro, piscina em raia e restinga, vista aérea 3/4 ao entardecer com luzes acesas",
-    "usos": [
-      "2026-11-21 reel 20:40",
-      "2026-11-21 story 21:30"
-    ]
-  },
-  {
-    "arquivo": "novas/sala-2026-11-22/1-planta.jpg",
-    "cenario": "área interna (sala de estar)",
+ {
+  "arquivo": "novas/praia-01.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-07",
+  "canva_media": "MAHaQGVNws0",
+  "descricao": "Casa de praia contemporânea em madeira e concreto, varanda aberta para o mar, pôr do sol",
+  "usos": []
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-09/1-planta.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYZQA1lk",
+  "descricao": "Planta técnica 2D de apartamento de 3 quartos com sala integrada e varanda",
+  "usos": [
+   "2026-11-10 reel 20:40"
+  ],
+  "sequencia": "apartamento-2026-11-09"
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-09/2-humanizada.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYRxz9Xo",
+  "descricao": "Mesma planta humanizada: madeira clara, móveis, plantas e sombras",
+  "usos": [
+   "2026-11-10 reel 20:40",
+   "2026-11-10 story 19:00"
+  ],
+  "sequencia": "apartamento-2026-11-09"
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-09/3-obra.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYVm5BQM",
+  "descricao": "Sala do apartamento em obra crua, mesma câmera do render, entardecer",
+  "usos": [
+   "2026-11-10 reel 20:40"
+  ],
+  "sequencia": "apartamento-2026-11-09"
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-09/4-render.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYbw7PHw",
+  "descricao": "Sala contemporânea integrada à cozinha e varanda com vista da cidade, entardecer",
+  "usos": [
+   "2026-11-10 reel 11:40",
+   "2026-11-10 reel 20:40"
+  ],
+  "sequencia": "apartamento-2026-11-09"
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-09/1-planta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYULOS2g",
+  "descricao": "Planta de casa de 2 pavimentos a lápis sobre mesa de madeira, régua e lápis",
+  "usos": [
+   "2026-11-09 reel 07:40"
+  ],
+  "sequencia": "montanha-2026-11-09"
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-09/2-estrutura.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYfdDBZU",
+  "descricao": "Estrutura de concreto da casa na encosta, vista aérea ao entardecer, araucárias",
+  "usos": [
+   "2026-11-09 reel 07:40"
+  ],
+  "sequencia": "montanha-2026-11-09"
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-09/3-pronta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYev-so8",
+  "descricao": "Casa contemporânea na encosta: concreto, madeira, vidro e telhado verde, entardecer",
+  "usos": [
+   "2026-11-09 reel 07:40"
+  ],
+  "sequencia": "montanha-2026-11-09"
+ },
+ {
+  "arquivo": "novas/casa-bairro-01.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYeh6hFo",
+  "descricao": "Sobrado reformado em rua arborizada: reboco branco, tijolinho e portão ripado, manhã",
+  "usos": [
+   "2026-11-12 story 19:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-01.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaYeJ8inw",
+  "descricao": "Sala de casa de montanha à noite: lareira de pedra, poltrona de couro, araucárias",
+  "usos": [
+   "2026-11-16 reel 14:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/1-planta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaanbepbA",
+  "descricao": "Planta técnica de chalé com lareira central, quarto e varanda",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 story 08:30",
+   "2026-11-09 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/2-humanizada.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaarF_01c",
+  "descricao": "Planta humanizada do chalé: pinho, lareira de pedra e móveis",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 story 08:30",
+   "2026-11-09 reel 20:40",
+   "2026-11-09 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/3-obra.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaarXcR7w",
+  "descricao": "Interior do chalé em obra crua: tesouras brutas e lareira de tijolo",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 20:40",
+   "2026-11-09 story 19:00",
+   "2026-11-09 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-09/4-render.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-09",
+  "canva_media": "MAHaasqEH6E",
+  "descricao": "Interior de chalé com lareira de pedra, tesouras de madeira e mata nevoenta, manhã",
+  "sequencia": "chale-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 20:40",
+   "2026-11-09 story 19:00",
+   "2026-11-09 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-09/1-antes.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-09",
+  "canva_media": "MAHaagwNLio",
+  "descricao": "Rancho antigo malconservado na beira do rio, fim de tarde",
+  "sequencia": "rancho-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 14:40",
+   "2026-11-09 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-09/2-maquete.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-09",
+  "canva_media": "MAHaagx6D4w",
+  "descricao": "Maquete branca do rancho, mesma geometria",
+  "sequencia": "rancho-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 14:40"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-09/3-reforma.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-09",
+  "canva_media": "MAHaarJXjVk",
+  "descricao": "Rancho reformado: reboco branco, telhas novas, esquadrias verdes e jardim",
+  "sequencia": "rancho-2026-11-09",
+  "usos": [
+   "2026-11-09 reel 14:40",
+   "2026-11-09 carrossel 12:20",
+   "2026-11-09 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-09/1-planta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-09",
+  "canva_media": "MAHaauEKmUY",
+  "descricao": "Planta de implantação em aquarela de casa em L com deck e píer",
+  "sequencia": "lago-2026-11-09",
+  "usos": [
+   "2026-11-09 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-09/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-09",
+  "canva_media": "MAHaat2eV7o",
+  "descricao": "Estrutura metálica da casa à beira do lago, vista aérea com névoa",
+  "sequencia": "lago-2026-11-09",
+  "usos": [
+   "2026-11-09 carrossel 19:30",
+   "2026-11-09 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-09/3-pronta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-09",
+  "canva_media": "MAHaatzR6gc",
+  "descricao": "Casa térrea em L à beira do lago com deck e píer, manhã com névoa",
+  "sequencia": "lago-2026-11-09",
+  "usos": [
+   "2026-11-09 carrossel 19:30",
+   "2026-11-09 story 15:30",
+   "2026-11-09 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/1-planta.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeQYxMR8",
+  "descricao": "Planta técnica de banheiro de suíte com banheira, duas cubas e box",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30",
+   "2026-11-10 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/2-humanizada.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeYiJGLY",
+  "descricao": "Planta humanizada do banheiro: piso de pedra clara, bancada de madeira, cubas de pedra",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30",
+   "2026-11-10 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/3-obra.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeVP7P0w",
+  "descricao": "Banheiro em obra crua: reboco, contrapiso e pontos hidráulicos, mesma câmera do render",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-10/4-render.jpg",
+  "cenario": "área interna (banheiro)",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeSK_Dh0",
+  "descricao": "Banheiro de suíte contemporâneo, bancada de pedra, banheira livre junto à janela, manhã",
+  "sequencia": "banheiro-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 07:40",
+   "2026-11-10 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-10/1-planta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeXUFKf0",
+  "descricao": "Planta de casa térrea com piscina sobre a mesa do escritório",
+  "sequencia": "piscina-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 14:40",
+   "2026-11-10 story 15:30",
+   "2026-11-10 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-10/2-estrutura.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeRs3tzk",
+  "descricao": "Casa térrea em estrutura de concreto com piscina escavada, vista aérea ao entardecer",
+  "sequencia": "piscina-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 14:40",
+   "2026-11-10 carrossel 12:20",
+   "2026-11-10 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-10/3-pronta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeY_QgjY",
+  "descricao": "Casa térrea tropical moderna com piscina longa, vista aérea 3/4 ao entardecer",
+  "sequencia": "piscina-2026-11-10",
+  "usos": [
+   "2026-11-10 reel 14:40",
+   "2026-11-10 story 15:30",
+   "2026-11-10 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/moveis-poltrona-01.jpg",
+  "cenario": "móveis em cenários",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeVikBoI",
+  "descricao": "Poltrona de couro caramelo e madeira em sala com tijolo branco, luz da manhã",
+  "sequencia": null,
+  "usos": [
+   "2026-11-10 reel 11:40",
+   "2026-11-10 story 08:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-noite-01.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-10",
+  "canva_media": "MAHaeWMQ6ps",
+  "descricao": "Piscina iluminada de casa contemporânea à noite, deck de madeira e fachada de vidro",
+  "sequencia": null,
+  "usos": [
+   "2026-11-10 reel 11:40",
+   "2026-11-10 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/1-planta.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakZHYG2k",
+  "descricao": "Planta técnica 2D de apartamento compacto: cozinha integrada com ilha, quarto, banheiro e varanda",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/2-humanizada.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakUKJDpM",
+  "descricao": "Mesma planta humanizada em estilo japandi: carvalho claro, ilha, mesa de jantar, sofá de linho e plantas",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 story 10:30",
+   "2026-11-11 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/3-obra.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakU2MnFI",
+  "descricao": "Cozinha e jantar do apartamento em obra crua: concreto, contrapiso e tubulação aparente, mesma janela e câmera do render",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-11/4-render.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-11",
+  "canva_media": "MAHakda57gM",
+  "descricao": "Cozinha integrada japandi: ilha de carvalho com tampo de pedra, mesa de jantar e janela contínua com vista da cidade, luz da manhã",
+  "sequencia": "apartamento-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 07:40",
+   "2026-11-11 marmer 14:00",
+   "2026-11-11 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-11/1-planta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakTAJ3X4",
+  "descricao": "Planta de casa de praia térrea a lápis sobre mesa de madeira, com varanda, deck e piscina, régua e lapiseira",
+  "sequencia": "praia-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 14:40",
+   "2026-11-11 carrossel 19:30",
+   "2026-11-11 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-11/2-estrutura.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakatYbls",
+  "descricao": "Casa de praia em estrutura: pilares e caibros de madeira, sem telhas, piscina escavada, mesma vista aérea com coqueiros e mar",
+  "sequencia": "praia-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 14:40",
+   "2026-11-11 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-11/3-pronta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakdMgGpU",
+  "descricao": "Casa de praia térrea tropical moderna: madeira, pedra, telha cerâmica, varanda, deck e piscina, vista aérea 3/4 pela manhã",
+  "sequencia": "praia-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 14:40",
+   "2026-11-11 carrossel 19:30",
+   "2026-11-11 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-11/3-pronta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-11",
+  "canva_media": "MAHakRzWCU0",
+  "descricao": "Casa na montanha de pedra e vidro com deck em balanço sobre a encosta, araucárias e neblina da manhã",
+  "sequencia": "montanha-2026-11-11",
+  "usos": [
+   "2026-11-11 story 08:30",
+   "2026-11-11 reel 11:40",
+   "2026-11-11 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-11/1-planta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-11",
+  "canva_media": "MAHakVPhS84",
+  "descricao": "Planta e corte de casa na montanha a nanquim sobre mesa de madeira, curvas de nível, régua e café, luz de neblina",
+  "sequencia": "montanha-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 20:40",
+   "2026-11-14 reel 14:40 (fundo)"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-11/2-estrutura.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-11",
+  "canva_media": "MAHakVc4mo8",
+  "descricao": "Casa na montanha em estrutura de concreto e aço, deck em balanço sem acabamento, andaimes, araucárias e neblina; mesma câmera da casa pronta",
+  "sequencia": "montanha-2026-11-11",
+  "usos": [
+   "2026-11-11 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-varanda-01.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-11",
+  "canva_media": "MAHakccLrcM",
+  "descricao": "Varanda coberta de casa de praia ao entardecer: forro de ripas, piso de pedra, sofá de tecido cru e vista para o mar",
+  "sequencia": null,
+  "usos": [
+   "2026-11-11 reel 11:40",
+   "2026-11-11 carrossel 12:20",
+   "2026-11-11 story 19:00"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/1-planta.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqS8N478",
+  "descricao": "Planta técnica 2D do térreo de sobrado em lote estreito: sala, jantar, cozinha com ilha, lavabo, escada e quintal",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 reel 11:40",
+   "2026-11-12 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/2-humanizada.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqaeknf0",
+  "descricao": "Mesma planta humanizada: taco de peroba, sofá de linho, mesa de jantar, cozinha clara e quintal gramado com árvore",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 carrossel 12:20",
+   "2026-11-12 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/3-obra.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqRrjIFA",
+  "descricao": "Sala do sobrado em obra crua: reboco, contrapiso, escada de concreto e vão aberto para o quintal; mesma câmera do render",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 reel 11:40",
+   "2026-11-12 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sobrado-2026-11-12/4-render.jpg",
+  "cenario": "casa de bairro (sala do sobrado)",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqUf2k5I",
+  "descricao": "Sala e jantar do sobrado: taco de peroba, cadeiras de palhinha, escada de madeira, porta de vidro para o quintal, luz da tarde",
+  "sequencia": "sobrado-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 07:40",
+   "2026-11-12 carrossel 19:30",
+   "2026-11-12 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-12/1-planta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqTLgB48",
+  "descricao": "Planta de sobrado em lote estreito a lápis sobre papel manteiga, com régua, escalímetro e café",
+  "sequencia": "bairro-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 14:40",
+   "2026-11-12 story 15:30",
+   "2026-11-12 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-12/2-estrutura.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqe7MNoc",
+  "descricao": "Sobrado em estrutura de concreto e blocos, andaimes, rua com ipê amarelo ao entardecer; mesma câmera da casa pronta",
+  "sequencia": "bairro-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 14:40",
+   "2026-11-12 story 15:30",
+   "2026-11-12 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-12/3-pronta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqb0Dbhk",
+  "descricao": "Sobrado contemporâneo de tijolo claro, brises e portão de ripas em rua arborizada, vista aérea 3/4 ao entardecer",
+  "sequencia": "bairro-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 14:40",
+   "2026-11-12 reel 18:10",
+   "2026-11-12 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-12/1-planta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqdu578g",
+  "descricao": "Planta, fachada e corte de chalé a nanquim sobre mesa de madeira escura, com esquadro e pinha de araucária",
+  "sequencia": "chale-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-12/2-estrutura.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqRMdCD8",
+  "descricao": "Chalé em estrutura de madeira, telhado íngreme sem telhas, base de pedra, araucárias na hora azul; mesma câmera do pronto",
+  "sequencia": "chale-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 20:40",
+   "2026-11-12 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-12/3-pronto.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqZb0xG4",
+  "descricao": "Chalé de madeira escura e pedra com janelas acesas e deck, araucárias e serra com névoa na hora azul",
+  "sequencia": "chale-2026-11-12",
+  "usos": [
+   "2026-11-12 reel 20:40",
+   "2026-11-12 story 10:30",
+   "2026-11-12 reel 18:10"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-varanda-01.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-12",
+  "canva_media": "MAHaqXiZk7Q",
+  "descricao": "Varanda de rancho com madeira roliça, telha colonial e rede, deck até o rio com névoa ao nascer do sol",
+  "sequencia": null,
+  "usos": [
+   "2026-11-12 story 08:30",
+   "2026-11-12 reel 18:10"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/1-planta.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHawWI8Mqs",
+  "descricao": "Planta técnica 2D de home office de 4 x 5 m: janela larga, mesa longa, estante de parede inteira e poltrona",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/2-humanizada.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHawTt8ACA",
+  "descricao": "Mesma planta humanizada: cimento queimado, mesa de carvalho na janela, estante de madeira, poltrona de couro caramelo e tapete",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30",
+   "2026-11-13 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/3-obra.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHaweCy6VI",
+  "descricao": "Home office em obra crua: reboco, contrapiso e vão da janela aberto para o jardim, mesma câmera do render",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30",
+   "2026-11-13 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-13/4-render.jpg",
+  "cenario": "área interna (home office)",
+  "data": "2026-11-13",
+  "canva_media": "MAHawdtr7Tw",
+  "descricao": "Home office contemporâneo: mesa de carvalho junto à janela para o jardim, estante de piso a teto com maquetes, poltrona de couro caramelo, luz da manhã",
+  "sequencia": "homeoffice-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 07:40",
+   "2026-11-13 carrossel 19:30",
+   "2026-11-13 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-13/1-planta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-13",
+  "canva_media": "MAHawZz0pVk",
+  "descricao": "Planta de casa térrea à beira do lago a lápis sobre papel manteiga, com deck, píer e margem, régua e esquadro na mesa",
+  "sequencia": "lago-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 14:40",
+   "2026-11-13 reel 18:10",
+   "2026-11-13 story 08:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-13/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-13",
+  "canva_media": "MAHawd7VaXk",
+  "descricao": "Casa no lago em estrutura: pilares, vigas e tesouras sem telhas, píer só com a madeira, araucárias ao anoitecer",
+  "sequencia": "lago-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 14:40",
+   "2026-11-13 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-13/3-pronta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-13",
+  "canva_media": "MAHawYeYyn4",
+  "descricao": "Casa térrea de madeira e pedra em frente ao lago ao anoitecer, luzes acesas refletidas na água, deck e píer, araucárias",
+  "sequencia": "lago-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 14:40",
+   "2026-11-13 carrossel 12:20",
+   "2026-11-13 story 10:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-13/1-planta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-13",
+  "canva_media": "MAHawXNssqI",
+  "descricao": "Planta a nanquim de casa térrea minimalista com piscina longa e jardim sobre mesa de concreto",
+  "sequencia": "piscina-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 20:40",
+   "2026-11-13 story 15:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-13/2-estrutura.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-13",
+  "canva_media": "MAHawXBMCrs",
+  "descricao": "Casa minimalista em estrutura de concreto com laje em balanço e piscina escavada, terreno de obra pela manhã",
+  "sequencia": "piscina-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 20:40",
+   "2026-11-13 story 15:30",
+   "2026-11-13 story 19:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-13/3-pronta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-13",
+  "canva_media": "MAHawYVh_H4",
+  "descricao": "Casa térrea minimalista branca com piscina longa de pedra clara, oliveiras e gramíneas, vista aérea pela manhã",
+  "sequencia": "piscina-2026-11-13",
+  "usos": [
+   "2026-11-13 reel 20:40",
+   "2026-11-13 reel 11:40",
+   "2026-11-13 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/1-planta.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2Qm_bRw",
+  "descricao": "Planta técnica 2D de sala de jantar de casa de campo: mesa de 8 lugares, aparador e porta-janela para o jardim",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40",
+   "2026-11-14 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/2-humanizada.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2RFP47g",
+  "descricao": "Mesma planta humanizada: ladrilho terracota, mesa de madeira com cadeiras de couro, aparador e jardim",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40",
+   "2026-11-14 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/3-obra.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2QQu1Po",
+  "descricao": "Sala de jantar em obra crua: reboco, tijolo, contrapiso, vigas de madeira e vão aberto para o jardim à noite",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/jantar-2026-11-14/4-render.jpg",
+  "cenario": "móveis em diferentes cenários (sala de jantar)",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2duTgb0",
+  "descricao": "Sala de jantar colonial reinterpretada à noite: mesa de demolição, cadeiras de couro, pendente de vidro âmbar, ladrilho terracota",
+  "sequencia": "jantar-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 11:40",
+   "2026-11-14 story 13:00",
+   "2026-11-14 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-14/1-planta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2cIeddo",
+  "descricao": "Planta de sobrado de praia a lápis sobre mesa clara, com deck, piscina estreita e passarela até a areia",
+  "sequencia": "praia-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 20:40",
+   "2026-11-14 story 08:30",
+   "2026-11-14 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-14/2-estrutura.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2cK2mZg",
+  "descricao": "Sobrado de praia em estrutura de concreto na duna, piscina na forma, mar ao fundo, vista aérea",
+  "sequencia": "praia-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 20:40",
+   "2026-11-14 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-14/3-pronta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-14",
+  "canva_media": "MAHa2e-pNG0",
+  "descricao": "Sobrado de praia minimalista de concreto branco e cumaru, piscina estreita, passarela sobre a restinga até o mar, manhã",
+  "sequencia": "praia-2026-11-14",
+  "usos": [
+   "2026-11-14 reel 20:40",
+   "2026-11-14 marmer 14:00",
+   "2026-11-14 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/1-planta.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8Yvdz_U",
+  "descricao": "Planta técnica 2D de apartamento: sala e jantar em L, cozinha com bancada, quarto, banheiro e varanda ao longo da fachada",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/2-humanizada.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8dEw6So",
+  "descricao": "Mesma planta humanizada: granilite, deque na varanda, sofá de linho, poltronas de couro e mesa redonda de freijó",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30",
+   "2026-11-15 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/3-obra.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8QLx48c",
+  "descricao": "Sala do apartamento em obra crua à noite: reboco, contrapiso, fios aparentes e o vão da varanda aberto para a cidade; mesma câmera do render",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30",
+   "2026-11-15 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/apartamento-2026-11-15/4-render.jpg",
+  "cenario": "apartamento",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8Swx0gA",
+  "descricao": "Sala de apartamento moderno brasileiro à noite: granilite, painel de freijó, sofá de linho, pendente de palha e varanda com vista da cidade",
+  "sequencia": "apartamento-2026-11-15",
+  "usos": [
+   "2026-11-15 carrossel 19:30",
+   "2026-11-15 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-15/1-planta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8QN3rKY",
+  "descricao": "Planta de casa de montanha em L a nanquim sobre papel manteiga, curvas de nível, escada de acesso, hortênsia e chá na mesa de madeira escura",
+  "sequencia": "montanha-2026-11-15",
+  "usos": [
+   "2026-11-15 story 08:30",
+   "2026-11-15 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-15/2-estrutura.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8TVU6Oc",
+  "descricao": "Casa de montanha em estrutura: paredes de pedra, tesouras de madeira sem telhas, terreno de obra, araucárias e serra ao entardecer; mesma câmera",
+  "sequencia": "montanha-2026-11-15",
+  "usos": [
+   "2026-11-15 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-15/3-pronta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-15",
+  "canva_media": "MAHa8WaAZNU",
+  "descricao": "Casa térrea em L de pedra e cumaru com telha metálica escura, lareira e fogo de chão acesos, hortênsias e araucárias, entardecer de inverno",
+  "sequencia": "montanha-2026-11-15",
+  "usos": [
+   "2026-11-15 story 13:00",
+   "2026-11-15 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/1-planta.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCSFthCQ",
+  "descricao": "Planta técnica 2D de suíte master: cama, closet linear, banheiro com duas cubas e box, porta para pequena varanda",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40",
+   "2026-11-16 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/2-humanizada.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCXwhw8Y",
+  "descricao": "Mesma planta humanizada: carvalho claro, linho, tapete de juta, closet de freijó e plantas na varanda",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40",
+   "2026-11-16 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/3-obra.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCdlfEyw",
+  "descricao": "Suíte em obra crua: reboco, contrapiso, eletrodutos aparentes e o vão da varanda aberto; mesma câmera do render",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-16/4-render.jpg",
+  "cenario": "área interna (suíte master)",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCcIi5pc",
+  "descricao": "Suíte master japandi: cabeceira ripada de freijó, linho cru, banco de palha, pendente de papel e luz da manhã pela varanda",
+  "sequencia": "suite-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 11:40",
+   "2026-11-16 story 13:00",
+   "2026-11-16 carrossel 19:30"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-16/1-planta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCea-J-A",
+  "descricao": "Planta de casa térrea de bairro a lápis sobre papel manteiga na prancheta, com garagem, jardim, sala integrada e quintal",
+  "sequencia": "bairro-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 20:40",
+   "2026-11-16 story 08:30",
+   "2026-11-16 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-16/2-estrutura.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCQFAVYc",
+  "descricao": "Casa térrea em estrutura de concreto e blocos, piscina sem revestimento, rua de bairro ao entardecer; mesma câmera aérea",
+  "sequencia": "bairro-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 20:40",
+   "2026-11-16 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-16/3-pronta.jpg",
+  "cenario": "casa de bairro",
+  "data": "2026-11-16",
+  "canva_media": "MAHbCX0QEyY",
+  "descricao": "Casa térrea contemporânea de tijolo claro e cumaru, portão ripado, ipê amarelo e piscina nos fundos, entardecer, vista aérea",
+  "sequencia": "bairro-2026-11-16",
+  "usos": [
+   "2026-11-16 reel 20:40",
+   "2026-11-16 marmer 14:00",
+   "2026-11-16 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/1-planta.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIVksBY8",
+  "descricao": "Planta técnica 2D de varanda gourmet: bancada em L com churrasqueira, ilha com cooktop, mesa de 8 lugares, sofá e jardineira",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/2-humanizada.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIY6k4mQ",
+  "descricao": "Planta humanizada da varanda gourmet: porcelanato amadeirado, quartzito, palhinha, sisal e folhagens tropicais, fim de tarde",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 story 13:00",
+   "2026-11-17 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/3-obra.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbITGLqHw",
+  "descricao": "Varanda gourmet em obra crua: laje aparente, churrasqueira e bancada em alvenaria, palmeiras ao fundo (tirada do render)",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/varanda-2026-11-17/4-render.jpg",
+  "cenario": "área interna (varanda gourmet)",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIe3mmQc",
+  "descricao": "Varanda gourmet tropical moderna: churrasqueira de pedra, quartzito, forro de cumaru, pendentes de fibra, mesa de madeira, fim de tarde",
+  "sequencia": "varanda-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 11:40",
+   "2026-11-17 story 13:00",
+   "2026-11-17 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-17/1-planta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-17",
+  "canva_media": "MAHbITKpyRM",
+  "descricao": "Planta de chalé em A a grafite sobre papel vegetal na prancheta escura, escalímetro, lapiseira e borracha",
+  "sequencia": "chale-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-17/2-estrutura.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIfeFoe0",
+  "descricao": "Estrutura de chalé em A: tesouras de madeira, piso do mezanino, chaminé de pedra e deck nas vigas, araucárias (tirada da casa pronta)",
+  "sequencia": "chale-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-17/3-pronta.jpg",
+  "cenario": "chalé de montanha",
+  "data": "2026-11-17",
+  "canva_media": "MAHbIfkMMkg",
+  "descricao": "Chalé em A de madeira queimada com empena de vidro acesa, deck e chaminé de pedra entre araucárias, entardecer de inverno com geada, vista aérea",
+  "sequencia": "chale-2026-11-17",
+  "usos": [
+   "2026-11-17 reel 20:40",
+   "2026-11-17 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/1-planta.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOZgaNZ8",
+  "descricao": "Planta técnica 2D de banheiro de suíte: bancada com cuba de pedra, box, banheira livre, vaso, nicho e janela alta",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 story 13:00",
+   "2026-11-18 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/2-humanizada.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOWah_hs",
+  "descricao": "Mesma planta humanizada: travertino, bancada de madeira com cuba de pedra, seixos no box, banheira livre, sombras da tarde",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/3-obra.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOYvWa6o",
+  "descricao": "Banheiro em obra crua: reboco, contrapiso, pontos hidráulicos, nicho do box e janela alta; mesma câmera do render (tirada do render)",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 reel 11:40"
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-18/4-render.jpg",
+  "cenario": "área interna (banheiro com cuba de pedra)",
+  "data": "2026-11-18",
+  "canva_media": "MAHbORYTjFU",
+  "descricao": "Banheiro contemporâneo natural: travertino, cuba esculpida em pedra, bancada de madeira, banheira livre, box de seixos, luz da tarde",
+  "sequencia": "banheiro-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 11:40",
+   "2026-11-18 carrossel 19:30",
+   "2026-11-18 story 13:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-18/1-planta.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOY_zCK8",
+  "descricao": "Planta a lápis de rancho térreo com varanda contínua, telhado de quatro águas e deck até o rio, sobre prancheta de madeira",
+  "sequencia": "rancho-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 20:40",
+   "2026-11-18 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-18/2-estrutura.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-18",
+  "canva_media": "MAHbOah3pDA",
+  "descricao": "Rancho em estrutura: pilares de madeira, madeiramento do telhado sem telhas, deck e píer só nas vigas, terra exposta; mesma câmera aérea (tirada da casa pronta)",
+  "sequencia": "rancho-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 20:40",
+   "2026-11-18 marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-18/3-pronta.jpg",
+  "cenario": "rancho na beira do rio",
+  "data": "2026-11-18",
+  "canva_media": "MAHbORBqVWY",
+  "descricao": "Rancho colonial reinterpretado na beira do rio: telha cerâmica de quatro águas, paredes caiadas, varanda, deck e píer, ipês floridos, névoa da manhã, vista aérea",
+  "sequencia": "rancho-2026-11-18",
+  "usos": [
+   "2026-11-18 reel 20:40",
+   "2026-11-18 marmer 14:00",
+   "2026-11-18 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-19/1-planta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-19",
+  "canva_media": "MAHbUZuB27w",
+  "sequencia": "lago-2026-11-19",
+  "descricao": "Planta a nanquim de casa de 2 pavimentos em frente ao lago, com deck sobre a água e margem, sobre mesa de madeira com régua e lapiseira",
+  "usos": [
+   "2026-11-19 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-19/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-19",
+  "canva_media": "MAHbUfmTN6Q",
+  "sequencia": "lago-2026-11-19",
+  "descricao": "Mesma casa em estrutura de concreto cru: pilares e lajes, piscina escavada, deck só nas vigas, terreno de obra, reflexo no lago, fim de tarde",
+  "usos": [
+   "2026-11-19 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-19/3-pronta.jpg",
+  "cenario": "casa em frente ao lago",
+  "data": "2026-11-19",
+  "canva_media": "MAHbUSbUzqo",
+  "sequencia": "lago-2026-11-19",
+  "descricao": "Casa contemporânea de concreto claro em balanço sobre térreo de vidro, brises de cumaru, deck e piscina, refletida no lago ao fim de tarde dourado, morros da mata atlântica",
+  "usos": [
+   "2026-11-19 reel 20:40",
+   "2026-11-19 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/1-planta.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbafsYIJs",
+  "descricao": "Planta técnica 2D de cozinha: ilha central, bancada em L, cuba sob a janela, mesa de 6 lugares junto à porta de correr",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/2-humanizada.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaf9CigQ",
+  "descricao": "Mesma planta humanizada: cimento queimado, ilha de freijó com tampo de quartzito, banquetas, mesa de madeira e plantas, sombras da manhã",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/3-obra.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaWH_YxY",
+  "descricao": "Cozinha em obra crua: reboco, contrapiso, ponto hidráulico sob a janela e vão aberto para o jardim; mesma câmera do render (tirada do render)",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/cozinha-2026-11-20/4-render.jpg",
+  "cenario": "área interna (cozinha)",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaSYTywg",
+  "descricao": "Cozinha contemporânea brasileira: ilha de freijó com tampo de quartzito, armários verde-sálvia, banquetas de palhinha, janela para o jardim, sol da manhã",
+  "sequencia": "cozinha-2026-11-20",
+  "usos": [
+   "2026-11-20 reel 20:40",
+   "2026-11-20 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-20/1-planta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaRhcM3I",
+  "descricao": "Planta a nanquim de casa térrea modernista com pátio interno, varanda com brises e piscina, sobre papel manteiga na mesa de madeira, régua paralela, esquadro e lapiseira",
+  "sequencia": "piscina-2026-11-20",
+  "usos": [
+   "2026-11-20 reel Marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-20/2-estrutura.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-20",
+  "canva_media": "MAHbaisz0ak",
+  "descricao": "Mesma casa em estrutura de concreto cru: pilares, vigas e laje plana, pátio em terra, piscina escavada; mesma câmera aérea (tirada da casa pronta)",
+  "sequencia": "piscina-2026-11-20",
+  "usos": [
+   "2026-11-20 reel Marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-20/3-pronta.jpg",
+  "cenario": "casa com piscina",
+  "data": "2026-11-20",
+  "canva_media": "MAHbasE_2Bg",
+  "descricao": "Casa térrea modernista brasileira com pátio interno arborizado, laje de concreto, brises de madeira, cobogó branco e piscina de pastilha verde, jardim tropical, manhã, vista aérea",
+  "sequencia": "piscina-2026-11-20",
+  "usos": [
+   "2026-11-20 reel Marmer 14:00"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-21/1-planta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-21",
+  "sequencia": "praia-2026-11-21",
+  "canva_media": "MAHbgZaopUg",
+  "descricao": "Planta de casa de praia térrea a lápis sobre papel manteiga em mesa de madeira escura, varanda em L, deck, piscina em raia e restinga",
+  "usos": [
+   "2026-11-21 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-21/2-estrutura.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-21",
+  "sequencia": "praia-2026-11-21",
+  "canva_media": "MAHbga7kzVE",
+  "descricao": "Casa de praia em estrutura de concreto: pilares, vigas e laje, piscina escavada na forma de madeira, deck só nas vigas, mesma vista aérea com restinga e mar",
+  "usos": [
+   "2026-11-21 reel 20:40"
+  ]
+ },
+ {
+  "arquivo": "novas/praia-2026-11-21/3-pronta.jpg",
+  "cenario": "casa na praia",
+  "data": "2026-11-21",
+  "sequencia": "praia-2026-11-21",
+  "canva_media": "MAHbgQXkWKE",
+  "descricao": "Casa de praia térrea de pedra e madeira com telhado verde, varanda com portas de vidro, piscina em raia e restinga, vista aérea 3/4 ao entardecer com luzes acesas",
+  "usos": [
+   "2026-11-21 reel 20:40",
+   "2026-11-21 story 21:30"
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/1-planta.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmXEMbSg",
+  "descricao": "Planta técnica 2D de sala de estar: parede da lareira com estante embutida, sofá em L, porta lateral e janela de piso a teto para o jardim",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
     "data": "2026-11-22",
-    "canva_media": "MAHbmXEMbSg",
-    "descricao": "Planta técnica 2D de sala de estar: parede da lareira com estante embutida, sofá em L, porta lateral e janela de piso a teto para o jardim",
-    "sequencia": "sala-2026-11-22",
-    "usos": [
-      {
-        "data": "2026-11-22",
-        "peca": "reel 20:40 evolução"
-      }
-    ]
-  },
-  {
-    "arquivo": "novas/sala-2026-11-22/2-humanizada.jpg",
-    "cenario": "área interna (sala de estar)",
+    "peca": "reel 20:40 evolução"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/2-humanizada.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmeyQC34",
+  "descricao": "Mesma planta humanizada: carvalho claro, tapete de lã, sofá de linho cru, mesa de travertino, lareira e jardim, sombras suaves",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
     "data": "2026-11-22",
-    "canva_media": "MAHbmeyQC34",
-    "descricao": "Mesma planta humanizada: carvalho claro, tapete de lã, sofá de linho cru, mesa de travertino, lareira e jardim, sombras suaves",
-    "sequencia": "sala-2026-11-22",
-    "usos": [
-      {
-        "data": "2026-11-22",
-        "peca": "reel 20:40 evolução"
-      }
-    ]
-  },
-  {
-    "arquivo": "novas/sala-2026-11-22/3-obra.jpg",
-    "cenario": "área interna (sala de estar)",
+    "peca": "reel 20:40 evolução"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/3-obra.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmSNwK7s",
+  "descricao": "Sala de estar em obra crua: reboco e blocos, contrapiso, nicho da lareira em alvenaria, rasgo do forro aberto e vão da janela; mesma câmera do render (tirada do render)",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
     "data": "2026-11-22",
-    "canva_media": "MAHbmSNwK7s",
-    "descricao": "Sala de estar em obra crua: reboco e blocos, contrapiso, nicho da lareira em alvenaria, rasgo do forro aberto e vão da janela; mesma câmera do render (tirada do render)",
-    "sequencia": "sala-2026-11-22",
-    "usos": [
-      {
-        "data": "2026-11-22",
-        "peca": "reel 20:40 evolução"
-      }
-    ]
-  },
-  {
-    "arquivo": "novas/sala-2026-11-22/4-render.jpg",
-    "cenario": "área interna (sala de estar)",
+    "peca": "reel 20:40 evolução"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/sala-2026-11-22/4-render.jpg",
+  "cenario": "área interna (sala de estar)",
+  "data": "2026-11-22",
+  "canva_media": "MAHbmZXp7pA",
+  "descricao": "Sala de estar minimalista: lareira de concreto acesa, estante de nogueira, sofá em L de linho, mesa de travertino, LED quente no forro e jardim iluminado, noite",
+  "sequencia": "sala-2026-11-22",
+  "usos": [
+   {
     "data": "2026-11-22",
-    "canva_media": "MAHbmZXp7pA",
-    "descricao": "Sala de estar minimalista: lareira de concreto acesa, estante de nogueira, sofá em L de linho, mesa de travertino, LED quente no forro e jardim iluminado, noite",
-    "sequencia": "sala-2026-11-22",
-    "usos": [
-      {
-        "data": "2026-11-22",
-        "peca": "reel 20:40 evolução"
-      },
-      {
-        "data": "2026-11-22",
-        "peca": "story 21:30 link"
-      }
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-23/1-planta.jpg",
-    "cenario": "casa na montanha",
+    "peca": "reel 20:40 evolução"
+   },
+   {
+    "data": "2026-11-22",
+    "peca": "story 21:30 link"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-23/1-planta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-23",
+  "canva_media": "MAHbseBRZjA",
+  "sequencia": "montanha-2026-11-23",
+  "descricao": "Croqui a caneta de casa na montanha em terraços escalonados sobre papel vegetal, curvas de nível, escalímetro, lápis e café na mesa de nogueira, luz da manhã",
+  "usos": [
+   {
     "data": "2026-11-23",
-    "canva_media": "MAHbseBRZjA",
-    "sequencia": "montanha-2026-11-23",
-    "descricao": "Croqui a caneta de casa na montanha em terraços escalonados sobre papel vegetal, curvas de nível, escalímetro, lápis e café na mesa de nogueira, luz da manhã",
-    "usos": [
-      {
-        "data": "2026-11-23",
-        "peca": "reel 20:40"
-      }
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-23/2-estrutura.jpg",
-    "cenario": "casa na montanha",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-23/2-estrutura.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-23",
+  "canva_media": "MAHbsdzDAss",
+  "sequencia": "montanha-2026-11-23",
+  "descricao": "Casa na montanha em estrutura de concreto cru: pilares, lajes e muros de arrimo dos terraços, terraços em terra, mata atlântica e serra, manhã de sol; tirada da casa pronta, mesma câmera aérea",
+  "usos": [
+   {
     "data": "2026-11-23",
-    "canva_media": "MAHbsdzDAss",
-    "sequencia": "montanha-2026-11-23",
-    "descricao": "Casa na montanha em estrutura de concreto cru: pilares, lajes e muros de arrimo dos terraços, terraços em terra, mata atlântica e serra, manhã de sol; tirada da casa pronta, mesma câmera aérea",
-    "usos": [
-      {
-        "data": "2026-11-23",
-        "peca": "reel 20:40"
-      }
-    ]
-  },
-  {
-    "arquivo": "novas/montanha-2026-11-23/3-pronta.jpg",
-    "cenario": "casa na montanha",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/montanha-2026-11-23/3-pronta.jpg",
+  "cenario": "casa na montanha",
+  "data": "2026-11-23",
+  "canva_media": "MAHbsfCrQ-s",
+  "sequencia": "montanha-2026-11-23",
+  "descricao": "Casa contemporânea na montanha em terraços escalonados: concreto claro, ripado de cumaru e vidro, escada externa, mata atlântica e serra, manhã de sol com céu limpo, vista aérea 3/4",
+  "usos": [
+   {
     "data": "2026-11-23",
-    "canva_media": "MAHbsfCrQ-s",
-    "sequencia": "montanha-2026-11-23",
-    "descricao": "Casa contemporânea na montanha em terraços escalonados: concreto claro, ripado de cumaru e vidro, escada externa, mata atlântica e serra, manhã de sol com céu limpo, vista aérea 3/4",
-    "usos": [
-      {
-        "data": "2026-11-23",
-        "peca": "reel 20:40"
-      },
-      {
-        "data": "2026-11-23",
-        "peca": "story 21:30 link"
-      }
-    ]
-  }
+    "peca": "reel 20:40"
+   },
+   {
+    "data": "2026-11-23",
+    "peca": "story 21:30 link"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-24/1-planta.jpg",
+  "cenario": "apartamento (suíte de casal com vista da cidade, noite)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyar4Guk",
+  "descricao": "Planta técnica 2D da suíte: cama sob a janela, armários nas laterais, banheiro e varanda",
+  "sequencia": "suite-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-24/2-humanizada.jpg",
+  "cenario": "apartamento (suíte de casal com vista da cidade, noite)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyU1CG40",
+  "descricao": "Planta humanizada da suíte vista de cima: carvalho escuro, nogueira, linho grafite e deck",
+  "sequencia": "suite-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-24/3-obra.jpg",
+  "cenario": "apartamento (suíte de casal com vista da cidade, noite)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyWH_EgY",
+  "descricao": "Suíte em obra crua, reboco, contrapiso e eletrodutos, mesma janela para a cidade à noite",
+  "sequencia": "suite-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/suite-2026-11-24/4-render.jpg",
+  "cenario": "apartamento (suíte de casal com vista da cidade, noite)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyauNUXU",
+  "descricao": "Suíte contemporânea à noite: cabeceira de linho, armários de nogueira, LED no forro e a cidade na janela",
+  "sequencia": "suite-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel 20:40"
+   },
+   {
+    "data": "2026-11-24",
+    "peca": "story 21:30 link"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-24/1-planta.jpg",
+  "cenario": "casa de bairro (sobrado colonial reinterpretado, manhã)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyTKrilk",
+  "descricao": "Planta do sobrado a lápis em papel manteiga sobre a mesa, com régua e lápis",
+  "sequencia": "bairro-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-24/2-estrutura.jpg",
+  "cenario": "casa de bairro (sobrado colonial reinterpretado, manhã)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyWfjYcA",
+  "descricao": "Sobrado em estrutura de concreto, telhado só no madeiramento, mesma vista aérea",
+  "sequencia": "bairro-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/bairro-2026-11-24/3-pronta.jpg",
+  "cenario": "casa de bairro (sobrado colonial reinterpretado, manhã)",
+  "data": "2026-11-24",
+  "canva_media": "MAHbyaekDss",
+  "descricao": "Sobrado com telha cerâmica, paredes caiadas, janelas verdes e muro de pedra, manhã de sol",
+  "sequencia": "bairro-2026-11-24",
+  "usos": [
+   {
+    "data": "2026-11-24",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
+ }
 ]
