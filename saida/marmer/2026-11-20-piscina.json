@@ -1,6 +1,0 @@
-{"tipo": "evolucao", "gancho": ["Da prancheta à", "casa com pátio"], "rotulo": "MARMER BUTIK",
- "etapas": [
-  {"img": "novas/piscina-2026-11-20/1-planta.jpg", "nome": "Planta"},
-  {"img": "novas/piscina-2026-11-20/2-estrutura.jpg", "nome": "Estrutura", "trans": "luz", "prompt": "a partir desta planta: térrea com pátio interno, laje de concreto e piscina"},
-  {"img": "novas/piscina-2026-11-20/3-pronta.jpg", "nome": "Casa pronta", "trans": "ergue", "prompt": "mesma vista aérea: brises de madeira, cobogó branco e luz da manhã"}],
- "frase": ["Apresente a casa", "antes da obra."]}
