@@ -1,0 +1,108 @@
+{
+ "data": "2026-11-25",
+ "obs": "Quarta, grade enxuta (19/11): reel 20:40 evolução de casa (dia ímpar) em formato pergunta-mito/FAQ (cumpre o FAQ semanal do 4b), carrossel de etapas às 19:30 e story link às 21:30. Sem reel da Marmer (não é terça nem sexta). Nada agendado antes para o dia. Cenários: chalé de montanha (contemporâneo de pedra clara, cedro e telhado metálico grafite, manhã de outono com nuvens no vale) e área interna (home office tropical moderno, freijó, granilite e parede texturizada branca, sol baixo do fim de tarde); combinações novas em 14 dias. Semrush sem unidades de API: palavras-chave pelo GUIA 4b ('render com IA' no reel, 'planta humanizada com IA' no carrossel). Métricas 17 a 24/11: chalé em A de 17/11 segue disparado (130 de alcance, 92 % de retenção), depois casa de praia (36) e sala (18); salvamentos 0 a 1. Aplicado: chalé de novo, 3 etapas na mesma câmera aérea, e a pergunta de tempo do render que o chalé de 17/11 usou.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Render com IA:",
+    "quanto tempo leva?"
+   ],
+   "rotulo": "CHALÉ NA MONTANHA",
+   "etapas": [
+    {
+     "img": "novas/chale-2026-11-25/1-planta.jpg",
+     "nome": "Croqui"
+    },
+    {
+     "img": "novas/chale-2026-11-25/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir deste croqui: chalé de duas águas, base de pedra e empena de vidro"
+    },
+    {
+     "img": "novas/chale-2026-11-25/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera aérea: cedro, telhado metálico grafite e manhã no vale"
+    }
+   ],
+   "frase": [
+    "Do papel à",
+    "apresentação."
+   ],
+   "legenda": "Render com IA: quanto tempo leva? Veja o chalé na montanha em 3 etapas, na mesma câmera aérea.\n\nQuanto tempo leva um render de apresentação com IA? Cerca de 15 min por imagem, contra cerca de 4 h antes. É o caminho do Workflow 01, do modelo ao render.\n\n1 · Croqui: o volume único do chalé, a empena de vidro voltada para o vale e o deck com a escada lateral.\n2 · Estrutura: base de pedra já levantada, montantes de madeira e o telhado de duas águas só no madeiramento, sem as chapas.\n3 · Casa pronta: pedra clara, cedro, telhado metálico grafite, hortênsias e a manhã de outono no vale.\n\nOs 15 min contam a imagem; a conferência fica com você. No chalé, olhe a escada do deck: ela desce do mesmo lado e com os mesmos degraus na estrutura e no render. Se a IA muda a escada, refaça antes de mandar ao cliente.\n\nA conta do mês, com 8 renders: 8 × (4 h − 15 min) = 30 h.\n\nO manual IA para Arquitetos traz esse caminho no Workflow 01, com 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para fazer a conta no próximo projeto.\n\n#iaparaarquitetos #render #chale #renderizacao #arquitetura",
+   "alt": "Render com IA de chalé na montanha: croqui a grafite, estrutura de madeira sobre base de pedra e chalé pronto de cedro, mesma câmera aérea"
+  }
+ ],
+ "carrosseis": [
+  {
+   "horario": "19:30",
+   "ia": true,
+   "tema": "Home office com IA",
+   "slides": [
+    {
+     "tipo": "capa",
+     "img": "novas/homeoffice-2026-11-25/4-render.jpg",
+     "eb": "Planta humanizada com IA",
+     "titulo": "Da planta ao *home office pronto.*",
+     "sub": "4 etapas na mesma câmera. O ponto que a IA mais erra está no slide 6.",
+     "fs": 92
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-25/1-planta.jpg",
+     "nome": "Planta técnica",
+     "n": "01",
+     "prompt": "Use esta planta como base: janela, estante e mesa não mudam de lugar."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-25/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "n": "02",
+     "prompt": "Mesmas paredes, vista de cima: granilite, freijó, couro e sombras da tarde."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-25/3-obra.jpg",
+     "nome": "Obra crua",
+     "n": "03",
+     "prompt": "Mesma câmera do render: reboco, contrapiso e nichos da estante em alvenaria."
+    },
+    {
+     "tipo": "etapa",
+     "img": "novas/homeoffice-2026-11-25/4-render.jpg",
+     "nome": "Render final",
+     "n": "04",
+     "prompt": "Altura do olho: mesa de freijó, estante até o teto e o sol baixo pela janela."
+    },
+    {
+     "eb": "O cuidado principal",
+     "titulo": "A estante é *a régua.*",
+     "corpo": "Os nichos da obra crua são os mesmos do render. Se a IA soma uma prateleira ou muda a largura, refaça a imagem."
+    },
+    {
+     "tipo": "cta",
+     "eb": "IA para arquitetos",
+     "titulo": "O manual de IA que faltava *no seu escritório.*",
+     "corpo": "7 workflows · 60 prompts · 4 vídeo-aulas"
+    }
+   ],
+   "legenda": "Planta humanizada com IA de home office: 4 etapas na mesma câmera, da planta técnica ao sol da tarde na mesa de freijó.\n\nDá para apresentar o home office ao cliente antes da obra? Dá: gere o ambiente pronto a partir do seu projeto e tire dele a obra crua, com a mesma câmera. É a lógica do Workflow 01.\n\n1 · Planta técnica: janela lateral, estante de parede inteira e a mesa longa, definidas por você.\n2 · Planta humanizada: granilite, freijó, cadeira de couro e as sombras da tarde, vistos de cima.\n3 · Obra crua: reboco, contrapiso e os nichos da estante ainda em alvenaria, na mesma câmera do render.\n4 · Render final: mesa de freijó, estante até o teto, parede texturizada branca e o sol baixo pela janela.\n\nNo home office, a régua da sequência é a estante. Os nichos da obra crua têm que ser os mesmos do render. Se a IA soma uma prateleira ou muda a largura, você mostrou ao cliente uma marcenaria que não está no projeto.\n\nArraste e copie os prompts. Cada um diz o que muda e o que fica.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem. São 7 workflows e 60 prompts prontos.\n\nSalve para apresentar o próximo home office.\n\n#iaparaarquitetos #plantahumanizada #homeoffice #designdeinteriores",
+   "alt": "Carrossel de planta humanizada com IA de home office: planta técnica, planta humanizada, obra crua e home office pronto de freijó, com o prompt de cada etapa"
+  }
+ ],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/chale-2026-11-25/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

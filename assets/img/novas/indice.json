@@ -1523,5 +1523,107 @@
     "peca": "reel Marmer 14:00"
    }
   ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-25/1-planta.jpg",
+  "cenario": "chalé de montanha (contemporâneo de pedra clara, cedro e telhado metálico grafite, manhã de outono)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4fcfYZ0",
+  "sequencia": "chale-2026-11-25",
+  "descricao": "Croqui a grafite sobre papel vegetal do chalé de duas águas com base de pedra, empena de vidro, deck e escada lateral; tirado da casa pronta, mesma vista aérea",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "reel 20:40 evolução FAQ"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-25/2-estrutura.jpg",
+  "cenario": "chalé de montanha (contemporâneo de pedra clara, cedro e telhado metálico grafite, manhã de outono)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4foVVpw",
+  "sequencia": "chale-2026-11-25",
+  "descricao": "Chalé em estrutura de madeira clara sobre base de pedra, telhado só no madeiramento, deck e escada em madeira bruta, terreno de obra; tirada da casa pronta, mesma câmera aérea",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "reel 20:40 evolução FAQ"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/chale-2026-11-25/3-pronta.jpg",
+  "cenario": "chalé de montanha (contemporâneo de pedra clara, cedro e telhado metálico grafite, manhã de outono)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4VV3UKw",
+  "sequencia": "chale-2026-11-25",
+  "descricao": "Chalé contemporâneo de pedra clara e cedro com telhado metálico grafite, empena de vidro, deck, hortênsias azuis, vale com nuvens baixas e montanhas, manhã de outono, vista aérea 3/4",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "reel 20:40 evolução FAQ"
+   },
+   {
+    "data": "2026-11-25",
+    "peca": "story 21:30 link"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-25/1-planta.jpg",
+  "cenario": "área interna (home office tropical moderno, freijó e granilite, fim de tarde)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4a7-fhA",
+  "sequencia": "homeoffice-2026-11-25",
+  "descricao": "Planta técnica 2D de home office de 4 x 5 m: janela lateral, estante na parede do fundo, mesa longa, vaso no canto, porta e cotas",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "carrossel 19:30 etapas"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-25/2-humanizada.jpg",
+  "cenario": "área interna (home office tropical moderno, freijó e granilite, fim de tarde)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4TBvffc",
+  "sequencia": "homeoffice-2026-11-25",
+  "descricao": "Mesma planta humanizada vista de cima: mesa de freijó, cadeira de couro caramelo, estante, tapete, costela-de-adão e sombras da tarde",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "carrossel 19:30 etapas"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-25/3-obra.jpg",
+  "cenario": "área interna (home office tropical moderno, freijó e granilite, fim de tarde)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4ejQq44",
+  "sequencia": "homeoffice-2026-11-25",
+  "descricao": "Home office em obra crua: alvenaria, contrapiso, nichos da estante em alvenaria, pontos elétricos e sol baixo pela janela lateral; tirada do render, mesma câmera",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "carrossel 19:30 etapas"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/homeoffice-2026-11-25/4-render.jpg",
+  "cenario": "área interna (home office tropical moderno, freijó e granilite, fim de tarde)",
+  "data": "2026-11-25",
+  "canva_media": "MAHb4Q2yRRQ",
+  "sequencia": "homeoffice-2026-11-25",
+  "descricao": "Home office tropical moderno: mesa longa de freijó, cadeira de couro, estante de freijó até o teto, parede texturizada branca, piso de granilite e sol baixo do fim de tarde pela janela lateral",
+  "usos": [
+   {
+    "data": "2026-11-25",
+    "peca": "carrossel 19:30 etapas"
+   }
+  ]
  }
 ]
