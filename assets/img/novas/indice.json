@@ -1625,5 +1625,65 @@
     "peca": "carrossel 19:30 etapas"
    }
   ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-26/1-planta.jpg",
+  "cenario": "área interna (sala de estar e jantar de rancho na beira do rio, rústico contemporâneo, fim de tarde)",
+  "data": "2026-11-26",
+  "canva_media": "MAHb-Vw2ZSQ",
+  "sequencia": "rancho-2026-11-26",
+  "descricao": "Planta técnica 2D da sala do rancho: estar e jantar num só vão, janela lateral, portas de vidro para a varanda, deck e rio no topo",
+  "usos": [
+   {
+    "data": "2026-11-26",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-26/2-humanizada.jpg",
+  "cenario": "área interna (sala de estar e jantar de rancho na beira do rio, rústico contemporâneo, fim de tarde)",
+  "data": "2026-11-26",
+  "canva_media": "MAHb-a3QO_4",
+  "sequencia": "rancho-2026-11-26",
+  "descricao": "Planta humanizada: tijoleira, mesa de madeira maciça com bancos, sofá em L de linho, tapete de sisal, deck e o rio",
+  "usos": [
+   {
+    "data": "2026-11-26",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-26/3-obra.jpg",
+  "cenario": "área interna (sala de estar e jantar de rancho na beira do rio, rústico contemporâneo, fim de tarde)",
+  "data": "2026-11-26",
+  "canva_media": "MAHb-S0kMag",
+  "sequencia": "rancho-2026-11-26",
+  "descricao": "Obra crua da sala do rancho: tesouras de madeira montadas, reboco cru, contrapiso, eletrodutos e vãos abertos para o rio no fim de tarde",
+  "usos": [
+   {
+    "data": "2026-11-26",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/rancho-2026-11-26/4-render.jpg",
+  "cenario": "área interna (sala de estar e jantar de rancho na beira do rio, rústico contemporâneo, fim de tarde)",
+  "data": "2026-11-26",
+  "canva_media": "MAHb-QpO5gA",
+  "sequencia": "rancho-2026-11-26",
+  "descricao": "Sala de rancho rústica contemporânea: tesouras de madeira escura, tijoleira, mesa maciça com bancos, sofá de linho, portas de vidro para o rio ao entardecer",
+  "usos": [
+   {
+    "data": "2026-11-26",
+    "peca": "reel 20:40"
+   },
+   {
+    "data": "2026-11-26",
+    "peca": "story 21:30 link"
+   }
+  ]
  }
 ]

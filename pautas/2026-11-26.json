@@ -1,0 +1,60 @@
+{
+ "data": "2026-11-26",
+ "obs": "Quinta, grade enxuta (19/11): reel 20:40 evolução de interior (dia par) e story link 21:30. Sem carrossel (não é quarta) e sem reel da Marmer (não é terça nem sexta). Nada agendado antes para o dia. Cenário: rancho na beira do rio (6º do rodízio), interior: sala de estar e jantar rústica contemporânea, tesouras de madeira, tijoleira, fim de tarde; combinação nova em 14 dias (o rancho de 18/11 foi fachada aérea com névoa da manhã). Semrush sem unidades de API: palavra-chave 'do projeto à obra com IA' pelo GUIA 4b (a do reel de maior alcance da semana, casa de praia 21/11). Pergunta AEO: precisa de modelo 3D (último uso 18/11). Frase: O arquiteto decide / A IA executa (a do reel de 21/11).",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do projeto à obra",
+    "com IA, no rancho"
+   ],
+   "rotulo": "SALA DO RANCHO",
+   "etapas": [
+    {
+     "img": "novas/rancho-2026-11-26/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/rancho-2026-11-26/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: tijoleira, madeira maciça e linho cru, mesmas paredes"
+    },
+    {
+     "img": "novas/rancho-2026-11-26/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.47,
+      0.47
+     ]
+    },
+    {
+     "img": "novas/rancho-2026-11-26/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesmas tesouras: sol baixo da tarde e o rio nas portas"
+    }
+   ],
+   "frase": [
+    "O arquiteto decide.",
+    "A IA executa."
+   ],
+   "legenda": "Do projeto à obra com IA: a sala do rancho na beira do rio em 4 imagens na mesma câmera, da planta técnica ao sol da tarde.\n\nPreciso de modelo 3D para usar IA? Não: dá para partir de foto ou croqui. Quem usa Enscape, V-Ray ou Corona pode usar o Veras dentro do programa.\n\n1 · Planta técnica: estar e jantar num só vão, a janela lateral e as portas de vidro que abrem para a varanda e o rio.\n2 · Planta humanizada: tijoleira, mesa de madeira maciça com dois bancos, sofá de linho cru e tapete de sisal, vistos de cima.\n3 · Obra crua: reboco, contrapiso, eletrodutos aparentes e as tesouras do telhado já montadas, com o rio nos vãos ainda abertos.\n4 · Render final: tijoleira, pendente preto sobre a mesa, caixilhos de madeira e a luz baixa do fim de tarde no piso.\n\nNo rancho, confira primeiro o telhado. Conte as tesouras na obra crua e no render: têm que ser as mesmas, no mesmo lugar. Se a IA soma uma tesoura ou muda a inclinação, o telhado do render não é o do seu projeto.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para apresentar a próxima casa de campo.\n\n#iaparaarquitetos #renderdeinteriores #casadecampo #arquitetura",
+   "alt": "Do projeto à obra com IA: planta técnica, planta humanizada, obra crua e sala de rancho na beira do rio ao entardecer, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/rancho-2026-11-26/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}
