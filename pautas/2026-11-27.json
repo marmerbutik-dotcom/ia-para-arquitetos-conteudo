@@ -1,0 +1,51 @@
+{
+ "data": "2026-11-27",
+ "obs": "Sexta, grade enxuta (19/11): reel 20:40 evolução de casa (dia ímpar) e story link 21:30. Sem carrossel (não é quarta). Reel da Marmer às 14:00 (sexta) com a sequência de interior (banheiro da casa no lago), vídeo próprio em saida/marmer. Nada agendado antes para o dia (na Marmer, 13:30 tem só um pin de Pinterest; 14:00 livre). Rodízio: casa em frente ao lago (7º), térrea de madeira carbonizada escura e vidro, cobertura plana, deck e píer, manhã de outono com névoa; combinação nova em 14 dias (13/11 foi madeira e pedra ao anoitecer, 19/11 concreto de 2 pavimentos no fim de tarde). Interior: banheiro da suíte da mesma casa (microcimento, madeira escura, cuba de pedra escura, janela para o lago na névoa; o banheiro de 18/11 foi travertino na luz da tarde). Semrush sem unidades de API: palavra-chave 'do projeto à obra com IA' pelo GUIA 4b (a do reel de maior alcance da semana, casa de praia 21/11, também de casa em 3 etapas). Pergunta: trocar a hora do dia sem mudar a casa (nova, fora do banco; respostas sem números). Frase: Mesma câmera / Mesma arquitetura (último uso 24/11).",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Do projeto à obra",
+    "com IA, no lago"
+   ],
+   "rotulo": "CASA NO LAGO",
+   "etapas": [
+    {
+     "img": "novas/lago-2026-11-27/1-planta.jpg",
+     "nome": "Planta"
+    },
+    {
+     "img": "novas/lago-2026-11-27/2-estrutura.jpg",
+     "nome": "Estrutura",
+     "trans": "luz",
+     "prompt": "a partir desta planta: casa térrea, laje plana, deck e píer sobre o lago"
+    },
+    {
+     "img": "novas/lago-2026-11-27/3-pronta.jpg",
+     "nome": "Casa pronta",
+     "trans": "ergue",
+     "prompt": "mesma câmera, mesma laje: madeira escura, vidro e névoa da manhã"
+    }
+   ],
+   "frase": [
+    "Mesma câmera.",
+    "Mesma arquitetura."
+   ],
+   "legenda": "Do projeto à obra com IA: a casa em frente ao lago em 3 imagens na mesma câmera, da planta a nanquim à névoa da manhã.\n\nDá para trocar a hora do dia sem mudar a casa? Dá. Deixe no prompt a câmera e a arquitetura e mude só a luz: o céu, a névoa e o reflexo mudam; pilares, laje e deck ficam.\n\n1 · Planta: a casa térrea num só volume, o deck que avança sobre a água e o píer estreito.\n2 · Estrutura: pilares e laje plana de concreto cru, o deck só nas vigas de madeira bruta e o mesmo lago na névoa.\n3 · Casa pronta: madeira escura, panos de vidro, beiral fino e a luz fria de uma manhã de outono.\n\nNa casa no lago, confira o píer. Ele sai do mesmo ponto do deck e tem o mesmo comprimento na estrutura e na casa pronta. Se a IA estica o píer ou troca o lado, refaça antes de mandar ao cliente.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para apresentar a próxima casa à beira d'água.\n\n#iaparaarquitetos #casanolago #renderdefachada #render #arquitetura",
+   "alt": "Do projeto à obra com IA: planta a nanquim, estrutura de concreto e casa em frente ao lago pronta na névoa da manhã, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/lago-2026-11-27/3-pronta.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}

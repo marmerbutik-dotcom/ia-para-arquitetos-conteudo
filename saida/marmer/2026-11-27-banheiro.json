@@ -1,0 +1,7 @@
+{"tipo": "evolucao", "gancho": ["Da planta técnica", "à cuba de pedra"], "rotulo": "MARMER BUTIK",
+ "etapas": [
+  {"img": "novas/banheiro-2026-11-27/1-planta.jpg", "nome": "Planta técnica"},
+  {"img": "novas/banheiro-2026-11-27/2-humanizada.jpg", "nome": "Planta humanizada", "trans": "scan", "prompt": "humanize esta planta: madeira escura, cuba de pedra e box de vidro, mesmas paredes"},
+  {"img": "novas/banheiro-2026-11-27/3-obra.jpg", "nome": "Obra crua", "trans": "mergulho", "foco": [0.48, 0.42]},
+  {"img": "novas/banheiro-2026-11-27/4-render.jpg", "nome": "Render final", "trans": "linhas", "prompt": "mesma câmera, mesma janela: microcimento, cuba de pedra escura e o lago"}],
+ "frase": ["A geometria fica.", "O resto muda."]}

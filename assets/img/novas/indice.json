@@ -1685,5 +1685,107 @@
     "peca": "story 21:30 link"
    }
   ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-27/1-planta.jpg",
+  "cenario": "casa em frente ao lago (térrea de madeira carbonizada escura e vidro, cobertura plana, deck e píer, manhã de outono com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcET9jIxA",
+  "sequencia": "lago-2026-11-27",
+  "descricao": "Planta a nanquim da casa térrea no lago sobre papel manteiga: um só volume, deck sobre a água, píer estreito, margem com pinheiros; régua e lapiseira na mesa; tirada da casa pronta",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-27/2-estrutura.jpg",
+  "cenario": "casa em frente ao lago (térrea de madeira carbonizada escura e vidro, cobertura plana, deck e píer, manhã de outono com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcEWpHcMU",
+  "sequencia": "lago-2026-11-27",
+  "descricao": "Casa no lago em estrutura de concreto cru: pilares e laje plana, deck e píer só nas vigas de madeira bruta, névoa da manhã; tirada da casa pronta, mesma câmera aérea",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/lago-2026-11-27/3-pronta.jpg",
+  "cenario": "casa em frente ao lago (térrea de madeira carbonizada escura e vidro, cobertura plana, deck e píer, manhã de outono com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcEa7xP6w",
+  "sequencia": "lago-2026-11-27",
+  "descricao": "Casa térrea de madeira carbonizada escura e vidro em frente ao lago, cobertura plana de beiral fino, deck e píer, névoa baixa sobre a água e pinheiros, manhã de outono, vista aérea 3/4",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel 20:40"
+   },
+   {
+    "data": "2026-11-27",
+    "peca": "story 21:30 link"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-27/1-planta.jpg",
+  "cenario": "área interna (banheiro da suíte da casa no lago com cuba de pedra escura, microcimento e madeira escura, manhã com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcEcynEqQ",
+  "sequencia": "banheiro-2026-11-27",
+  "descricao": "Planta técnica 2D de banheiro de suíte comprido: bancada com cuba na parede esquerda, box no canto do fundo, janela larga no fundo, porta embaixo, cotas",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-27/2-humanizada.jpg",
+  "cenario": "área interna (banheiro da suíte da casa no lago com cuba de pedra escura, microcimento e madeira escura, manhã com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcEfwys6M",
+  "sequencia": "banheiro-2026-11-27",
+  "descricao": "Mesma planta humanizada vista de cima: piso de madeira escura, bancada suspensa com cuba de pedra, tapete de algodão, box de vidro, planta e toalhas, luz da manhã",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-27/3-obra.jpg",
+  "cenario": "área interna (banheiro da suíte da casa no lago com cuba de pedra escura, microcimento e madeira escura, manhã com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcEc8U40o",
+  "sequencia": "banheiro-2026-11-27",
+  "descricao": "Banheiro em obra crua: reboco e concreto, contrapiso, pontos de água e esgoto na parede esquerda, a mesma janela larga para o lago na névoa; tirada do render, mesma câmera",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/banheiro-2026-11-27/4-render.jpg",
+  "cenario": "área interna (banheiro da suíte da casa no lago com cuba de pedra escura, microcimento e madeira escura, manhã com névoa)",
+  "data": "2026-11-27",
+  "canva_media": "MAHcEQXDUmM",
+  "sequencia": "banheiro-2026-11-27",
+  "descricao": "Banheiro minimalista: microcimento, bancada suspensa de madeira escura com cuba de pedra escura, espelho redondo, box de vidro, piso de madeira e janela larga para o lago na névoa da manhã",
+  "usos": [
+   {
+    "data": "2026-11-27",
+    "peca": "reel Marmer 14:00"
+   }
+  ]
  }
 ]

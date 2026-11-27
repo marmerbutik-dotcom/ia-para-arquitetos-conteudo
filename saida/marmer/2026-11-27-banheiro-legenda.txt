@@ -1,0 +1,16 @@
+Render com IA de banheiro: a suíte da casa no lago em 4 imagens na mesma câmera, da planta técnica à cuba de pedra.
+
+Planta humanizada com IA é projeto? Não. É imagem de apresentação feita sobre a sua planta técnica, que continua sendo a referência das medidas.
+
+1 · Planta técnica: o banheiro comprido, a bancada na parede da esquerda, o box no canto do fundo e a janela larga para o lago.
+2 · Planta humanizada: piso de madeira escura, cuba de pedra sobre a bancada suspensa, tapete de algodão e o box de vidro, vistos de cima.
+3 · Obra crua: reboco, contrapiso e os pontos de água e esgoto na parede, com a mesma janela aberta para a névoa.
+4 · Render final: microcimento, bancada de madeira escura, cuba de pedra escura, espelho redondo e o lago na janela.
+
+Na bancada, confira a cuba. Ela fica na frente dos pontos de água e esgoto que aparecem na obra crua. Se o render leva a cuba para outro ponto da bancada, ajuste o prompt antes de mostrar ao cliente.
+
+O manual IA para Arquitetos é da Marmer Butik. O render de apresentação é o Workflow 01, com cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows e 60 prompts prontos.
+
+Conheça o manual em iaparaarquitetos.com.br e siga @ia.para.arquitetos.
+
+#iaparaarquitetos #marmerbutik #arquitetura #banheiro #cubadepedra
