@@ -1787,5 +1787,65 @@
     "peca": "reel Marmer 14:00"
    }
   ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-28/1-planta.jpg",
+  "cenario": "área interna (varanda gourmet da casa com piscina, contemporânea minimalista, noite com luz acesa)",
+  "data": "2026-11-28",
+  "canva_media": "MAHcKQDqtOM",
+  "sequencia": "piscina-2026-11-28",
+  "descricao": "Planta técnica 2D da varanda gourmet: bancada com churrasqueira e cuba, ilha, mesa de 8, sofá em L e piscina",
+  "usos": [
+   {
+    "data": "2026-11-28",
+    "peca": "reel-01 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-28/2-humanizada.jpg",
+  "cenario": "área interna (varanda gourmet da casa com piscina, contemporânea minimalista, noite com luz acesa)",
+  "data": "2026-11-28",
+  "canva_media": "MAHcKSd7tqQ",
+  "sequencia": "piscina-2026-11-28",
+  "descricao": "Planta humanizada: porcelanato claro, mesa de madeira, sofá de linho, plantas e piscina turquesa, vista de cima",
+  "usos": [
+   {
+    "data": "2026-11-28",
+    "peca": "reel-01 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-28/3-obra.jpg",
+  "cenario": "área interna (varanda gourmet da casa com piscina, contemporânea minimalista, noite com luz acesa)",
+  "data": "2026-11-28",
+  "canva_media": "MAHcKRk2WFo",
+  "sequencia": "piscina-2026-11-28",
+  "descricao": "Obra crua da varanda gourmet: laje de concreto, eletrodutos, nicho da churrasqueira e piscina vazia, noite, mesma câmera do render",
+  "usos": [
+   {
+    "data": "2026-11-28",
+    "peca": "reel-01 20:40"
+   }
+  ]
+ },
+ {
+  "arquivo": "novas/piscina-2026-11-28/4-render.jpg",
+  "cenario": "área interna (varanda gourmet da casa com piscina, contemporânea minimalista, noite com luz acesa)",
+  "data": "2026-11-28",
+  "canva_media": "MAHcKS4dhH8",
+  "sequencia": "piscina-2026-11-28",
+  "descricao": "Varanda gourmet à noite: forro de madeira, pendentes, mesa com bancos, sofá em L e piscina iluminada",
+  "usos": [
+   {
+    "data": "2026-11-28",
+    "peca": "reel-01 20:40"
+   },
+   {
+    "data": "2026-11-28",
+    "peca": "story-01 21:30 (capa do reel também)"
+   }
+  ]
  }
 ]

@@ -1,0 +1,29 @@
+{
+ "data": "2026-11-28",
+ "pecas": [
+  {
+   "tipo": "REEL",
+   "id": "reel-01",
+   "arquivos": [
+    "reel-01.mp4"
+   ],
+   "capa": "reel-01-capa.jpg",
+   "duracao": 17.9,
+   "legenda": "Render com IA de varanda gourmet: 4 imagens na mesma câmera, da planta técnica à piscina acesa à noite.\n\nDá para apresentar a varanda ao cliente antes da obra? Dá: gere o ambiente pronto a partir do seu projeto e tire dele a obra crua com a mesma câmera. É a lógica do Workflow 01.\n\n1 · Planta técnica: a bancada com churrasqueira e cuba na parede do fundo, a mesa, o sofá em L e a piscina junto à varanda.\n2 · Planta humanizada: porcelanato claro, mesa de madeira, linho no sofá, plantas tropicais e a água da piscina, vistos de cima.\n3 · Obra crua: laje de concreto, contrapiso, eletrodutos aparentes, o nicho da churrasqueira em alvenaria e a piscina ainda vazia.\n4 · Render final: forro de madeira, pendentes sobre a mesa, sofá em L e a piscina iluminada refletindo a varanda.\n\nNa varanda gourmet, confira primeiro a churrasqueira. Ela fica na parede onde a obra crua já tem o nicho de alvenaria. Se o render muda a churrasqueira de parede, você mostrou ao cliente uma varanda que a obra não entrega.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para apresentar a próxima área de lazer.\n\n#iaparaarquitetos #varandagourmet #render #designdeinteriores #casacompiscina",
+   "alt": "Render com IA de varanda gourmet: planta técnica, planta humanizada, obra crua e varanda com piscina iluminada à noite, mesma câmera",
+   "horario": "20:40",
+   "ia": true
+  },
+  {
+   "tipo": "STORY",
+   "id": "story-01",
+   "arquivos": [
+    "story-01.jpg"
+   ],
+   "horario": "21:30",
+   "link": "",
+   "nota": "",
+   "ia": true
+  }
+ ]
+}

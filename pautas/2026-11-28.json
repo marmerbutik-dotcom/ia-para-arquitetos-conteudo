@@ -1,0 +1,60 @@
+{
+ "data": "2026-11-28",
+ "obs": "Sábado, grade enxuta (19/11): reel 20:40 evolução de interior (dia par) e story link 21:30. Sem carrossel (não é quarta) e sem reel da Marmer (não é terça nem sexta). Nada agendado antes para o dia. Cenário: casa com piscina (8º do rodízio), interior: varanda gourmet integrada à piscina, contemporânea minimalista, noite com luz acesa; combinação nova em 14 dias (varanda de 17/11 e piscina de 20/11 foram outras combinações). Semrush sem unidades de API: palavra-chave 'render com IA' pelo GUIA 4b. Pergunta AEO: dá para apresentar ao cliente antes da obra (sem uso em 7 dias). Frase: Apresente a casa / antes da obra.",
+ "reels": [
+  {
+   "tipo": "evolucao",
+   "horario": "20:40",
+   "ia": true,
+   "gancho": [
+    "Render com IA da",
+    "varanda gourmet"
+   ],
+   "rotulo": "VARANDA GOURMET",
+   "etapas": [
+    {
+     "img": "novas/piscina-2026-11-28/1-planta.jpg",
+     "nome": "Planta técnica"
+    },
+    {
+     "img": "novas/piscina-2026-11-28/2-humanizada.jpg",
+     "nome": "Planta humanizada",
+     "trans": "scan",
+     "prompt": "humanize esta planta: porcelanato claro, linho e a piscina, mesmas paredes"
+    },
+    {
+     "img": "novas/piscina-2026-11-28/3-obra.jpg",
+     "nome": "Obra crua",
+     "trans": "mergulho",
+     "foco": [
+      0.5,
+      0.4
+     ]
+    },
+    {
+     "img": "novas/piscina-2026-11-28/4-render.jpg",
+     "nome": "Render final",
+     "trans": "linhas",
+     "prompt": "mesma câmera, mesma obra: noite, forro de madeira e a piscina acesa"
+    }
+   ],
+   "frase": [
+    "Apresente a casa",
+    "antes da obra."
+   ],
+   "legenda": "Render com IA de varanda gourmet: 4 imagens na mesma câmera, da planta técnica à piscina acesa à noite.\n\nDá para apresentar a varanda ao cliente antes da obra? Dá: gere o ambiente pronto a partir do seu projeto e tire dele a obra crua com a mesma câmera. É a lógica do Workflow 01.\n\n1 · Planta técnica: a bancada com churrasqueira e cuba na parede do fundo, a mesa, o sofá em L e a piscina junto à varanda.\n2 · Planta humanizada: porcelanato claro, mesa de madeira, linho no sofá, plantas tropicais e a água da piscina, vistos de cima.\n3 · Obra crua: laje de concreto, contrapiso, eletrodutos aparentes, o nicho da churrasqueira em alvenaria e a piscina ainda vazia.\n4 · Render final: forro de madeira, pendentes sobre a mesa, sofá em L e a piscina iluminada refletindo a varanda.\n\nNa varanda gourmet, confira primeiro a churrasqueira. Ela fica na parede onde a obra crua já tem o nicho de alvenaria. Se o render muda a churrasqueira de parede, você mostrou ao cliente uma varanda que a obra não entrega.\n\nNo manual IA para Arquitetos, o render de apresentação é o Workflow 01: cerca de 15 min por imagem, contra cerca de 4 h antes. São 7 workflows, 60 prompts prontos e 4 vídeo-aulas.\n\nSalve para apresentar a próxima área de lazer.\n\n#iaparaarquitetos #varandagourmet #render #designdeinteriores #casacompiscina",
+   "alt": "Render com IA de varanda gourmet: planta técnica, planta humanizada, obra crua e varanda com piscina iluminada à noite, mesma câmera"
+  }
+ ],
+ "carrosseis": [],
+ "stories": [
+  {
+   "tipo": "link",
+   "horario": "21:30",
+   "img": "novas/piscina-2026-11-28/4-render.jpg",
+   "eb": "IA para arquitetos",
+   "titulo": "O manual de IA que faltava *no seu escritório.*",
+   "sub": "7 workflows · 60 prompts"
+  }
+ ]
+}
